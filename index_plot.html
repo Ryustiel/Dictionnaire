@@ -1,0 +1,90 @@
+<html>
+  <head>
+    <title>Nyo Graph</title>
+    <style>
+      #tooltip {
+        display: none;
+      }
+      .node:hover {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Nyo Graph</h1>
+      <form action="/add" method="post">
+          <label for="input">Input:</label><br>
+          <input type="text" id="input" name="input"><br>
+          <input type="checkbox" id="is-description" name="is-description">
+          <label for="is-description" style="color: orange; font-weight: bold;">MOT FRANCAIS</label><br>
+          <label for="type">Type:</label><br>
+          <select id="type" name="type">
+              <option value="simple noun">Simple Noun</option>
+              <option value="color">Color</option>
+              <option value="class">Class</option>
+              <option value="pronoun">Pronoun</option>
+              <option value="numeral">Numeral</option>
+              <option value="state">State</option>
+              <option value="special">Special</option>
+          </select><br><br>
+          <input type="submit" value="Add Node">
+      </form>
+    </div>
+    <br>
+    <div id="graph">
+      {{graph|safe}}
+    </div>
+
+    <form action="/modify" method="post" id="modify-form">
+        <input type="hidden" id="node-id" name="node-id">
+    </form>
+
+    <script>
+        function makeGraphInteractible() { // https://stackoverflow.com/questions/13363946/how-do-i-get-an-html-comment-with-javascript
+            // Get a reference to the SVG graph
+            var svg = document.getElementById("figure_1");
+
+            // Get a list of all the node elements in the SVG
+            var nodes = document.querySelectorAll('g[id^=text_]');
+
+            //alert(nodes.length);
+
+            // Loop through the nodes and add event listeners to each one
+            for (let i = 0; i < nodes.length; i++) {
+
+                // Add a click event listener to display the form when the node is clicked
+                nodes[i].addEventListener("click", function() {
+                
+                    // Get the first child node of the element
+                    var childNode = nodes[i].firstChild.firstChild;
+                    
+                    // Check if the child node is a comment node
+                    if (!childNode) {
+                      alert(`no child`);
+                      return
+                    }
+
+                    if (childNode.nodeType == 8) {
+                        // Get the value of the comment
+                        alert('OK');
+                        var comment = childNode.data;
+                        alert(comment);
+                    }
+                    else {
+                      alert(`nope`);
+                    }
+
+                    // Set the value of the hidden input field to the node's identifier
+                    // document.getElementById('node-id').value = `blah`;
+
+                    // Submit the form
+                    // document.getElementById('modify-form').submit();
+                });
+            }
+        }
+    
+        makeGraphInteractible();
+
+    </script>
+  </body>
+</html>

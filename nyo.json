@@ -1,0 +1,2089 @@
+{
+    "nei na": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "chat"
+        ],
+        "type": "simple noun"
+    },
+    "nei": {
+        "description": "I wanna jump and run everywhere",
+        "tags": [],
+        "translations": [
+            "agile",
+            "energetic"
+        ],
+        "type": "color"
+    },
+    "na": {
+        "description": "someone (human, animal) you can have meamingful interactions with",
+        "tags": [],
+        "translations": [
+            "il",
+            "elle"
+        ],
+        "type": "class"
+    },
+    "sei": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "bavard",
+            "parlant"
+        ],
+        "type": "color"
+    },
+    "sei so": {
+        "description": "quelque chose qui a \u00e9t\u00e9 dit. C'est aussi le nom de la langue.",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "parler",
+            "mots",
+            "phrase"
+        ],
+        "type": "simple noun"
+    },
+    "leeso": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "peser sur"
+        ],
+        "type": "color"
+    },
+    "leeso na": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "vache",
+            "boeuf"
+        ],
+        "type": "simple noun"
+    },
+    "leeso til": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "boeuf",
+            "vache"
+        ],
+        "type": "simple noun"
+    },
+    "til": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "animal"
+        ],
+        "type": "class"
+    },
+    "sja": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "sucre",
+            "doux"
+        ],
+        "type": "color"
+    },
+    "ga": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "leeso ga": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "boeuf"
+        ],
+        "type": "simple noun"
+    },
+    "lp": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "surface plane"
+        ],
+        "type": "class"
+    },
+    "tc": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "jus": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "so": {
+        "description": "Contenu qui a du sens",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "mots",
+            "parole",
+            "texte"
+        ],
+        "type": "class"
+    },
+    "nalc": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "reussir a attraper"
+        ],
+        "type": "color"
+    },
+    "nalc jus": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "main"
+        ],
+        "type": "simple noun"
+    },
+    "eli lp": {
+        "description": "tout ce qui ressemble \u00e0 une surface d'eau",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "mer",
+            "lac",
+            "eau",
+            "oc\u00e9an",
+            "\u00e9tang"
+        ],
+        "type": "simple noun"
+    },
+    "eli": {
+        "description": "se sentir tremp\u00e9, \u00eatre tremp\u00e9",
+        "tags": [],
+        "translations": [
+            "mouiller",
+            "humide"
+        ],
+        "type": "color"
+    },
+    "qispe": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "color"
+    },
+    "qispe so": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "texte",
+            "\u00e9crire",
+            "\u00e9criture"
+        ],
+        "type": "simple noun"
+    },
+    "lam": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "sai": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "ki": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "apparence"
+        ],
+        "type": "class"
+    },
+    "ko": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "sak": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "poudre"
+        ],
+        "type": "class"
+    },
+    "kju": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "comportement"
+        ],
+        "type": "class"
+    },
+    "fjp": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "/2": {
+        "description": "periode (helo)",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "min": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "fsu": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "color"
+    },
+    "sbn": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "si": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "slui": {
+        "description": "liquide buvable, source de liquide potable",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "potable",
+            "liquide"
+        ],
+        "type": "class"
+    },
+    "eli slui": {
+        "description": "eau \u00e0 boire, verre d'eau",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "eau",
+            "boisson",
+            "verre"
+        ],
+        "type": "simple noun"
+    },
+    "sja sak": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "sucre"
+        ],
+        "type": "simple noun"
+    },
+    "sja slui": {
+        "description": "jus de fruits, boissons sucr\u00e9es...",
+        "type": "simple noun",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "jus de fruits",
+            "boisson"
+        ]
+    },
+    "nas": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "orange",
+            "couleur"
+        ],
+        "type": "color"
+    },
+    "tal": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "rouge"
+        ],
+        "type": "color"
+    },
+    "tal ki": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "rouge"
+        ],
+        "type": "simple noun"
+    },
+    "nas ki": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "orange"
+        ],
+        "type": "simple noun"
+    },
+    "nas ga": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "mais"
+        ],
+        "type": "simple noun"
+    },
+    "nei na sai": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "miaulement"
+        ],
+        "type": "simple noun"
+    },
+    "tsis": {
+        "description": "sentir les grains de sable sur sa peau",
+        "tags": [],
+        "translations": [
+            "granuleux",
+            "poudreux",
+            "sable"
+        ],
+        "type": "color"
+    },
+    "tsis sak": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "sable",
+            "poussiere"
+        ],
+        "type": "simple noun"
+    },
+    "tsis lp": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "plage",
+            "sable"
+        ],
+        "type": "simple noun"
+    },
+    "spoiled": {
+        "description": "spoiled / not yet edible food",
+        "type": "class",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "spoiled food"
+        ]
+    },
+    "leeso spoiled": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "spoildrink": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "class"
+    },
+    "eli spoildrink": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "eau croupie"
+        ],
+        "type": "simple noun"
+    },
+    "fsu lam": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "ennui"
+        ],
+        "type": "simple noun"
+    },
+    "sja lam": {
+        "description": "bonheur agr\u00e9able, presque tranquille",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "soothing"
+        ],
+        "type": "simple noun"
+    },
+    "sei lam": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "nei sbn": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "effleurer"
+        ],
+        "type": "simple noun"
+    },
+    "nei lam": {
+        "description": "",
+        "tags": [
+            ""
+        ],
+        "translations": [
+            "actif",
+            "\u00e9nerg\u00e9tique"
+        ],
+        "type": "simple noun"
+    },
+    "floatswim": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "floatswim ga": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "poisson"
+        ],
+        "type": "simple noun"
+    },
+    "nukse": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "color"
+    },
+    "nukse na": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "nukse lam": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "detente",
+            "detendu"
+        ],
+        "type": "simple noun"
+    },
+    "nukse min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "moment calme"
+        ],
+        "type": "simple noun"
+    },
+    "jo lam": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "se sentir en avance"
+        ],
+        "type": "simple noun"
+    },
+    "jo": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "1st",
+            "first",
+            "one"
+        ],
+        "type": "numeral"
+    },
+    "ta": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "2nd",
+            "second",
+            "two"
+        ],
+        "type": "numeral"
+    },
+    "kje": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "3rd",
+            "third",
+            "three",
+            "3"
+        ],
+        "type": "numeral"
+    },
+    "djyn": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "4th",
+            "fourth",
+            "4",
+            "four"
+        ],
+        "type": "numeral"
+    },
+    "dy": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "5th",
+            "5"
+        ],
+        "type": "numeral"
+    },
+    "(si)": {
+        "description": "prefixe numerateur pour nombres disjonctifs",
+        "tags": [],
+        "translations": [],
+        "type": "numeral"
+    },
+    "y": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "last",
+            "1"
+        ],
+        "type": "numeral"
+    },
+    "din": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "2"
+        ],
+        "type": "numeral"
+    },
+    "khe_": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "3"
+        ],
+        "type": "numeral"
+    },
+    "sa_": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "4"
+        ],
+        "type": "numeral"
+    },
+    "(sb)": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "5th last",
+            "5"
+        ],
+        "type": "numeral"
+    },
+    "(ja)": {
+        "description": "prefixe numerateur pour nombres inverses",
+        "tags": [],
+        "translations": [],
+        "type": "numeral"
+    },
+    "(to)": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "0",
+            "zero"
+        ],
+        "type": "numeral"
+    },
+    "tb": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "1",
+            "one"
+        ],
+        "type": "numeral"
+    },
+    "sa": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "2",
+            "two"
+        ],
+        "type": "numeral"
+    },
+    "kb": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "3",
+            "trois",
+            "three"
+        ],
+        "type": "numeral"
+    },
+    "qu": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "4",
+            "fourth",
+            "quatre"
+        ],
+        "type": "numeral"
+    },
+    "(qa)": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "5"
+        ],
+        "type": "numeral"
+    },
+    "qe": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "6"
+        ],
+        "type": "numeral"
+    },
+    "ti": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "7"
+        ],
+        "type": "numeral"
+    },
+    "tsi": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "8"
+        ],
+        "type": "numeral"
+    },
+    "fe": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "9"
+        ],
+        "type": "numeral"
+    },
+    "te": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "10"
+        ],
+        "type": "numeral"
+    },
+    "(ko)": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "none",
+            "zero",
+            "0"
+        ],
+        "type": "numeral"
+    },
+    "nb": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "unique",
+            "solo",
+            "1"
+        ],
+        "type": "numeral"
+    },
+    "tsa": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "paire",
+            "2"
+        ],
+        "type": "numeral"
+    },
+    "khe": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "3",
+            "triple",
+            "triplet"
+        ],
+        "type": "numeral"
+    },
+    "de": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "4",
+            "quadruple"
+        ],
+        "type": "numeral"
+    },
+    "ul": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "5"
+        ],
+        "type": "numeral"
+    },
+    "den": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "6"
+        ],
+        "type": "numeral"
+    },
+    "het": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "7"
+        ],
+        "type": "numeral"
+    },
+    "kvw": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "8"
+        ],
+        "type": "numeral"
+    },
+    "feh": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "9"
+        ],
+        "type": "numeral"
+    },
+    "ka": {
+        "description": "",
+        "tags": [
+            "statif",
+            "positif"
+        ],
+        "translations": [],
+        "type": "state"
+    },
+    "to": {
+        "description": "",
+        "tags": [
+            "statif",
+            "negatif"
+        ],
+        "translations": [],
+        "type": "state"
+    },
+    "kto": {
+        "description": "",
+        "tags": [
+            "statif",
+            "question"
+        ],
+        "translations": [],
+        "type": "state"
+    },
+    "ksa": {
+        "description": "",
+        "tags": [
+            "transitionnel",
+            "positif"
+        ],
+        "translations": [],
+        "type": "state"
+    },
+    "tso": {
+        "description": "",
+        "tags": [
+            "transitionnel",
+            "negatif"
+        ],
+        "translations": [],
+        "type": "state"
+    },
+    "qi": {
+        "description": "",
+        "tags": [
+            "question"
+        ],
+        "translations": [],
+        "type": "special"
+    },
+    "-qaj": {
+        "description": "",
+        "tags": [
+            "suffixe"
+        ],
+        "translations": [],
+        "type": "special"
+    },
+    "-qe": {
+        "description": "",
+        "tags": [
+            "suffixe"
+        ],
+        "translations": [],
+        "type": "special"
+    },
+    "-u": {
+        "description": "",
+        "tags": [
+            "suffixe"
+        ],
+        "translations": [],
+        "type": "special"
+    },
+    "-uo": {
+        "description": "",
+        "tags": [
+            "suffixe"
+        ],
+        "translations": [],
+        "type": "special"
+    },
+    "e": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "je"
+        ],
+        "type": "pronoun"
+    },
+    "tai": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "tu"
+        ],
+        "type": "pronoun"
+    },
+    "(ta)": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "vous"
+        ],
+        "type": "pronoun"
+    },
+    "(la)": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "il",
+            "elle"
+        ],
+        "type": "pronoun"
+    },
+    "lai": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "il"
+        ],
+        "type": "pronoun"
+    },
+    "(lo)": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "autres"
+        ],
+        "type": "pronoun"
+    },
+    "lo": {
+        "description": "",
+        "tags": [
+            "selecteur"
+        ],
+        "translations": [
+            "autres"
+        ],
+        "type": "special"
+    },
+    "la": {
+        "description": "",
+        "tags": [
+            "selecteur"
+        ],
+        "translations": [
+            "demonstratif"
+        ],
+        "type": "special"
+    },
+    "fju": {
+        "description": "",
+        "tags": [
+            "quantite"
+        ],
+        "translations": [
+            "quantite ordinaire"
+        ],
+        "type": "special"
+    },
+    "nju": {
+        "description": "",
+        "tags": [
+            "quantite"
+        ],
+        "translations": [
+            "beaucoup"
+        ],
+        "type": "special"
+    },
+    "a": {
+        "description": "",
+        "tags": [
+            "quantite"
+        ],
+        "translations": [
+            "peu"
+        ],
+        "type": "special"
+    },
+    "nu": {
+        "description": "",
+        "tags": [
+            "quantite"
+        ],
+        "translations": [
+            "all"
+        ],
+        "type": "special"
+    },
+    "bien-famille": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "bien-village": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "bien-entreprise": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "bien-pays": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "peur-guerre": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "peur-guerre na": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "espion"
+        ],
+        "type": "simple noun"
+    },
+    "sflu": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "plouf"
+        ],
+        "type": "color"
+    },
+    "sflu na": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "poisson"
+        ],
+        "type": "simple noun"
+    },
+    "sflu sai": {
+        "description": "",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "yfan": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "spongieux"
+        ],
+        "type": "color"
+    },
+    "yfan ga": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "gateau"
+        ],
+        "type": "simple noun"
+    },
+    "tas tc": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "bateau"
+        ],
+        "type": "simple noun"
+    },
+    "tas": {
+        "description": "sensation du large, ou du vent marin",
+        "tags": [],
+        "translations": [],
+        "type": "color"
+    },
+    "tas na": {
+        "description": "oiseaux marins",
+        "tags": [],
+        "translations": [
+            "mouette"
+        ],
+        "type": "simple noun"
+    },
+    "tas lp": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "mer",
+            "oc\u00e9an"
+        ],
+        "type": "simple noun"
+    },
+    "tas lam": {
+        "description": "respirer de l'air frais, se sentir purg\u00e9",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "eli na": {
+        "description": "animal semi aquatique",
+        "tags": [],
+        "translations": [
+            "grenouille",
+            "poisson"
+        ],
+        "type": "simple noun"
+    },
+    "yfan hu": {
+        "description": "d\u00e9formation d'un objet mou",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "bosse"
+        ]
+    },
+    "hu": {
+        "description": "deformation, resultat de pression ou de contact entre deux objets",
+        "tags": [],
+        "translations": [
+            "traces"
+        ],
+        "type": "class"
+    },
+    "nei hu": {
+        "description": "contact bref qui perturbe legerement l'animal",
+        "tags": [],
+        "translations": [
+            "traces",
+            "contact"
+        ],
+        "type": "simple noun"
+    },
+    "tsis hu": {
+        "description": "marques d'abrasement, marques dues a du frottement",
+        "tags": [],
+        "translations": [
+            "rayures"
+        ],
+        "type": "simple noun"
+    },
+    "envie-servir": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "envie-servir lam": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "fonctionnant"
+        ],
+        "type": "simple noun"
+    },
+    "nei tc": {
+        "description": "v\u00e9hicule motoris\u00e9 rapide et peu encombrant",
+        "tags": [],
+        "translations": [
+            "scooter"
+        ],
+        "type": "simple noun"
+    },
+    "yfan sb": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "eponge"
+        ],
+        "type": "simple noun"
+    },
+    "sb": {
+        "description": "objet solide et manipulable",
+        "tags": [],
+        "translations": [
+            "objet"
+        ],
+        "type": "class"
+    },
+    "pieds-herbe": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "pieds-herbe lp": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "prairie"
+        ],
+        "type": "simple noun"
+    },
+    "fierte-peuple": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "traditionnel-nuksena": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "sei traditionnel-nuksena so": {
+        "description": "histoire traditionnelle, conte",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "conte",
+            "recit",
+            "histoire"
+        ],
+        "type": "simple noun"
+    },
+    "fierte-peuple so": {
+        "description": "histoire des nuksena",
+        "type": "simple noun",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "histoire"
+        ]
+    },
+    "bien-famille na": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "famille"
+        ],
+        "type": "simple noun"
+    },
+    "bien-pays na": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "service publique"
+        ],
+        "type": "simple noun"
+    },
+    "fierte-peuple na": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "peuple"
+        ],
+        "type": "simple noun"
+    },
+    "regret-empathique": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "djee": {
+        "description": "essayer de faire quelque chose, avoir quelque chose de planifi\u00e9 et s'y mettre",
+        "tags": [],
+        "translations": [
+            "planifier"
+        ],
+        "type": "color"
+    },
+    "djee min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "jour"
+        ],
+        "type": "simple noun"
+    },
+    "netku": {
+        "description": "chauffer au soleil, se pr\u00e9lasser",
+        "tags": [],
+        "translations": [
+            "prelasse"
+        ],
+        "type": "color"
+    },
+    "netku min": {
+        "description": "ensoleillement, p\u00e9riode de journ\u00e9e",
+        "tags": [],
+        "translations": [
+            "journee",
+            "jour",
+            "beau temps"
+        ],
+        "type": "simple noun"
+    },
+    "discussion-sentiment": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "discussion-sentiment lam": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "a coeur ouvert"
+        ],
+        "type": "simple noun"
+    },
+    "discussion-sentiment na": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "ami"
+        ],
+        "type": "simple noun"
+    },
+    "courbatures-maladie": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "courbatures"
+        ],
+        "type": "color"
+    },
+    "courbatures-sport": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "courbatures"
+        ],
+        "type": "color"
+    },
+    "qa": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "pensee"
+        ],
+        "type": "class"
+    },
+    "information-perturbe": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "information-perturbe so": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "contester"
+        ],
+        "type": "simple noun"
+    },
+    "vouloir-contester": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "vouloir-contester so": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "contester"
+        ],
+        "type": "simple noun"
+    },
+    "hae": {
+        "description": "le plat est apetissant, je me rejouis a l'idee de manger",
+        "tags": [],
+        "translations": [
+            "apetissant",
+            "faim"
+        ],
+        "type": "color"
+    },
+    "hae ga": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "bon",
+            "apetissant",
+            "bonne bouffe"
+        ],
+        "type": "simple noun"
+    },
+    "hat": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "trac"
+        ],
+        "type": "color"
+    },
+    "hat sai": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "chanson"
+        ],
+        "type": "simple noun"
+    },
+    "hat so": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "chanson"
+        ],
+        "type": "simple noun"
+    },
+    "hat na": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "chanteur"
+        ],
+        "type": "simple noun"
+    },
+    "hat lam": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "le trac"
+        ],
+        "type": "simple noun"
+    },
+    "hae sbn": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "gout",
+            "bon"
+        ],
+        "type": "simple noun"
+    },
+    "joj": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "fonction"
+        ],
+        "type": "class"
+    },
+    "lu": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "caracteristiques"
+        ],
+        "type": "class"
+    },
+    "pieds-eau": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "mettre un pied dans l'eau froide"
+        ],
+        "type": "color"
+    },
+    "pieds-eau lam": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "s'appreter a se lancer dans une activite challengeante",
+            "a mettre un pied dans l'eau froide"
+        ],
+        "type": "simple noun"
+    },
+    "pieds-eau sbn": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "avoir un pied dans l'eau froide"
+        ],
+        "type": "simple noun"
+    },
+    "pieds-eau-deja": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "j'essaie de m'habituer a l'eau froide"
+        ],
+        "type": "color"
+    },
+    "pieds-eau-deja lam": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "s'habituer a une situation",
+            "s'habituer"
+        ],
+        "type": "simple noun"
+    },
+    "pieds-eau-deja sbn": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "s'habituer a une sensation",
+            "s'habituer"
+        ],
+        "type": "simple noun"
+    },
+    "sja na": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "ami"
+        ],
+        "type": "simple noun"
+    },
+    "regret-inefficacite": {
+        "description": "",
+        "type": "color",
+        "tags": [
+            "p"
+        ],
+        "translations": []
+    },
+    "nalc na": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "capture"
+        ],
+        "type": "simple noun"
+    },
+    "nalc lam": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "reussir a atteindre"
+        ],
+        "type": "simple noun"
+    },
+    "mla_l": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "gratitude \"il est gentil\"",
+            "gratitude"
+        ],
+        "type": "color"
+    },
+    "dawi": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "laisser une impression mixte",
+            "marquer"
+        ],
+        "type": "color"
+    },
+    "dawi tek": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "suffixe de positivite"
+        ]
+    },
+    "lam tek": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "mot couleur",
+            "couleur"
+        ],
+        "type": "simple noun"
+    },
+    "ko tek": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "mot de classe",
+            "classe"
+        ],
+        "type": "simple noun"
+    },
+    "tek": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "symbole"
+        ],
+        "type": "class"
+    },
+    "kju tek": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "marqueur de cas grammatical",
+            "cas"
+        ],
+        "type": "simple noun"
+    },
+    "qa tek": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "suffixe \"temporel\""
+        ],
+        "type": "simple noun"
+    },
+    "tsa tek": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "nom"
+        ],
+        "type": "simple noun"
+    },
+    "forte-impression-amicale": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "impression amicale",
+            "marquer"
+        ],
+        "type": "simple noun"
+    },
+    "eli si": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "douche"
+        ],
+        "type": "simple noun"
+    },
+    "gv": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "procedure",
+            "plan",
+            "methode",
+            "technique"
+        ],
+        "type": "class"
+    },
+    "kp": {
+        "description": "partie sup\u00e9rieure d'un objet ou d'une structure",
+        "tags": [],
+        "translations": [
+            "haut",
+            "position relative"
+        ],
+        "type": "color"
+    },
+    "tbn": {
+        "description": "comme kp, partie inferieure d'un objet ou d'une structure",
+        "tags": [],
+        "translations": [
+            "bas",
+            "position relative"
+        ],
+        "type": "color"
+    },
+    "nci": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "cyan",
+            "couleur"
+        ],
+        "type": "color"
+    },
+    "nci lp": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "ciel"
+        ],
+        "type": "simple noun"
+    },
+    "fin": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "tissage",
+            "ensemble d'objets fins et longs (texture)"
+        ],
+        "type": "class"
+    },
+    "daat": {
+        "description": "etre enfin a l'ombre d'un arbre aux larges feuilles alors que le soleil tape fort",
+        "tags": [],
+        "translations": [
+            "content de sa situation",
+            "enfin a l'ombre",
+            "leger soulagement"
+        ],
+        "type": "color"
+    },
+    "daat fin": {
+        "description": "branches d'un arbre specifique",
+        "tags": [],
+        "translations": [
+            "branches"
+        ],
+        "type": "simple noun"
+    },
+    "kp fin": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "cheveux"
+        ],
+        "type": "simple noun"
+    },
+    "ki f jus": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "yeux",
+            "oeil"
+        ],
+        "type": "simple noun"
+    },
+    "daat teo": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "arbre"
+        ],
+        "type": "simple noun"
+    },
+    "teo": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "lieu couvert",
+            "interieur",
+            "batiment"
+        ],
+        "type": "class"
+    },
+    "tao": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "territoire",
+            "pays",
+            "region"
+        ],
+        "type": "class"
+    },
+    "hae teo": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "restaurant"
+        ],
+        "type": "simple noun"
+    },
+    "nci teo": {
+        "description": "partie horizontalement superieure, la plus proche du ciel",
+        "tags": [],
+        "translations": [
+            "haut",
+            "dessus",
+            "etage",
+            "salle cyan"
+        ],
+        "type": "simple noun"
+    },
+    "netku lp": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "terrasse",
+            "plage"
+        ],
+        "type": "simple noun"
+    },
+    "thi": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "chaud",
+            "tiede"
+        ],
+        "type": "color"
+    },
+    "thi sbn": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "chaleur"
+        ],
+        "type": "simple noun"
+    },
+    "gy": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "froid",
+            "frais"
+        ],
+        "type": "color"
+    },
+    "chanter-dans-le-flow": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "chanter-dans-le-flow na": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "chanteur"
+        ],
+        "type": "simple noun"
+    },
+    "chanter-dans-le-flow lam": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "lam"
+        ],
+        "type": "simple noun"
+    },
+    "concentration-realisation": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "concentration-realisation na": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "travailleur"
+        ],
+        "type": "simple noun"
+    },
+    "concentration-realisation teo": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "lieu de travail"
+        ],
+        "type": "simple noun"
+    },
+    "penser-gain": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "penser-gain na": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "entreprise",
+            "societe",
+            "compagnie"
+        ],
+        "type": "simple noun"
+    },
+    "penser-gain teo": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "usine",
+            "lieu de travail"
+        ],
+        "type": "simple noun"
+    },
+    "fatigue-envie-pas-envie": {
+        "description": "fatigue on veut pas mais on le fait quand meme",
+        "tags": [
+            "p"
+        ],
+        "translations": [],
+        "type": "color"
+    },
+    "fatigue-envie-pas-envie na": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "travailleur"
+        ],
+        "type": "simple noun"
+    },
+    "fatigue-envie-pas-envie lam": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "envie d'aller travailleur",
+            "flemme"
+        ],
+        "type": "simple noun"
+    },
+    "gen": {
+        "description": "satisfait du resultat d'un processus d'equilibrage qui implique des parametres instables \u00e0 stabiliser.",
+        "tags": [],
+        "translations": [
+            "satisfait du parametrage",
+            "reussir",
+            "satisfait"
+        ],
+        "type": "color"
+    },
+    "constance": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "constance",
+            "constant"
+        ],
+        "type": "color"
+    },
+    "irregularite": {
+        "description": "",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "unsettling",
+            "irregulier",
+            "irregularite"
+        ],
+        "type": "color"
+    },
+    "djee so": {
+        "description": "chose qu'on a envie de faire / qu'on pr\u00e9voit pour la journ\u00e9e",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "plan",
+            "instructions",
+            "projet"
+        ]
+    },
+    "djee lam": {
+        "description": "envie de faire un t\u00e2che planifi\u00e9e sur une journ\u00e9e ou moins",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "motivation"
+        ]
+    },
+    "tb ki f jus": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "oeil"
+        ]
+    }
+}

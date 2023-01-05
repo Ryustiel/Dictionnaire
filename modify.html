@@ -1,0 +1,76 @@
+<html>
+  <head>
+    <title>Nyo Graph</title>
+    <style>
+      #tooltip {
+        display: none;
+      }
+      .node:hover {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Nyo Graph</h1>
+    <form action="/update" method="post">
+        <input type="hidden" name="node-id" value="{{node['id']}}">
+        <label for="word">Word:</label><br>
+        <input type="text" id="word" name="word" value="{{node['id']}}"><br>
+        <label for="description">Description:</label><br>
+        <textarea id="description" name="description">{{node['description']}}</textarea><br>
+        <label for="tags">Tags:</label><br>
+        <input type="text" id="tags" name="tags" value="{{','.join(node['tags'])}}"><br>
+        <label for="translations">Translations:</label><br>
+        <input type="text" id="translations" name="translations" value="{{','.join(node['translations'])}}"><br>
+        <label for="type">Type:</label><br>
+        <select id="type" name="type">
+            <option value="simple noun" {{'selected' if node['type'] == 'simple noun' else ''}}>Simple Noun</option>
+            <option value="color" {{'selected' if node['type'] == 'color' else ''}}>Color</option>
+            <option value="class" {{'selected' if node['type'] == 'class' else ''}}>Class</option>
+            <option value="pronoun" {{'selected' if node['type'] == 'pronoun' else ''}}>Pronoun</option>
+            <option value="numeral" {{'selected' if node['type'] == 'numeral' else ''}}>Numeral</option>
+            <option value="state" {{'selected' if node['type'] == 'state' else ''}}>State</option>
+            <option value="special" {{'selected' if node['type'] == 'special' else ''}}>Special</option>
+        </select><br><br>
+        <input type="submit" value="Update">
+        <a href="/">Back</a>
+    </form>
+    <br>
+    <div id="graph">
+      {{graph|safe}}
+    </div>
+
+    <form action="/modify" method="post" id="modify-form">
+        <input type="hidden" id="node-id" name="node-id">
+    </form>
+
+    <script>
+
+        function makeGraphInteractible() {
+            // Get a reference to the SVG graph
+            var svg = document.getElementById("svg-graph");
+
+            // Get a list of all the node elements in the SVG
+            var nodes = svg.getElementsByClassName("node");
+
+            // Loop through the nodes and add event listeners to each one
+            for (var i = 0; i < nodes.length; i++) {
+                var node = nodes[i];
+
+                // Add a click event listener to display the form when the node is clicked
+                node.addEventListener("click", function() {
+                
+                    // Set the value of the hidden input field to the node's identifier
+                    document.getElementById('node-id').value = this.id;
+
+                    // Submit the form
+                    document.getElementById('modify-form').submit();
+                });
+            }
+        }
+
+        makeGraphInteractible();
+
+    </script>
+  </body>
+</html>
