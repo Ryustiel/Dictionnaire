@@ -39,10 +39,8 @@
         "type": "color"
     },
     "sei so": {
-        "description": "quelque chose qui a \u00e9t\u00e9 dit. C'est aussi le nom de la langue.",
-        "tags": [
-            ""
-        ],
+        "description": "quelque chose qui a ete dit. C'est aussi le nom de la langue.",
+        "tags": [],
         "translations": [
             "parler",
             "mots",
@@ -98,9 +96,11 @@
         "type": "color"
     },
     "ga": {
-        "description": "",
+        "description": "nourriture \"lourde\", riche en graisse, proteines, surcres, ou au gout caracteristique peu acide : farines, viandes, patisseries, beurre, ...",
         "tags": [],
-        "translations": [],
+        "translations": [
+            "nourriture"
+        ],
         "type": "class"
     },
     "leeso ga": {
@@ -164,21 +164,19 @@
         "type": "simple noun"
     },
     "eli lp": {
-        "description": "tout ce qui ressemble \u00e0 une surface d'eau",
-        "tags": [
-            ""
-        ],
+        "description": "tout ce qui ressemble a une surface d'eau",
+        "tags": [],
         "translations": [
             "mer",
             "lac",
             "eau",
-            "oc\u00e9an",
-            "\u00e9tang"
+            "ocean",
+            "etang"
         ],
         "type": "simple noun"
     },
     "eli": {
-        "description": "se sentir tremp\u00e9, \u00eatre tremp\u00e9",
+        "description": "se sentir trempe, etre trempe",
         "tags": [],
         "translations": [
             "mouiller",
@@ -187,20 +185,18 @@
         "type": "color"
     },
     "qispe": {
-        "description": "",
+        "description": "intention de communiquer en faisant un effort d'engravement sur un support",
         "tags": [],
         "translations": [],
         "type": "color"
     },
     "qispe so": {
         "description": "",
-        "tags": [
-            ""
-        ],
+        "tags": [],
         "translations": [
             "texte",
-            "\u00e9crire",
-            "\u00e9criture"
+            "ecrire",
+            "ecriture"
         ],
         "type": "simple noun"
     },
@@ -227,7 +223,9 @@
     "ko": {
         "description": "",
         "tags": [],
-        "translations": [],
+        "translations": [
+            "conteneur"
+        ],
         "type": "class"
     },
     "sak": {
@@ -249,15 +247,11 @@
         "type": "class"
     },
     "fjp": {
-        "description": "",
+        "description": "valeur abstraite, donnee d'evaluation, de placement sur echelle, sur relation",
         "tags": [],
-        "translations": [],
-        "type": "class"
-    },
-    "/2": {
-        "description": "periode (helo)",
-        "tags": [],
-        "translations": [],
+        "translations": [
+            "valeur"
+        ],
         "type": "class"
     },
     "min": {
@@ -267,7 +261,7 @@
         "type": "class"
     },
     "fsu": {
-        "description": "",
+        "description": "avoir l'impression de perdre son temps en participant a une activite",
         "tags": [],
         "translations": [],
         "type": "color"
@@ -279,9 +273,12 @@
         "type": "class"
     },
     "si": {
-        "description": "",
+        "description": "structure construite qui realise automatiquement une action sans avoir besoin d'une interaction humaine (idee d'automatisme)",
         "tags": [],
-        "translations": [],
+        "translations": [
+            "machine",
+            "appareil"
+        ],
         "type": "class"
     },
     "slui": {
@@ -318,11 +315,9 @@
         "type": "simple noun"
     },
     "sja slui": {
-        "description": "jus de fruits, boissons sucr\u00e9es...",
+        "description": "jus de fruits, boissons sucrees...",
         "type": "simple noun",
-        "tags": [
-            ""
-        ],
+        "tags": [],
         "translations": [
             "jus de fruits",
             "boisson"
@@ -330,17 +325,18 @@
     },
     "nas": {
         "description": "",
-        "tags": [],
-        "translations": [
-            "orange",
+        "tags": [
             "couleur"
+        ],
+        "translations": [
+            "orange"
         ],
         "type": "color"
     },
     "tal": {
         "description": "",
         "tags": [
-            ""
+            "couleur"
         ],
         "translations": [
             "rouge"
@@ -417,42 +413,6 @@
         ],
         "type": "simple noun"
     },
-    "spoiled": {
-        "description": "spoiled / not yet edible food",
-        "type": "class",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "spoiled food"
-        ]
-    },
-    "leeso spoiled": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "simple noun"
-    },
-    "spoildrink": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "class"
-    },
-    "eli spoildrink": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "eau croupie"
-        ],
-        "type": "simple noun"
-    },
     "fsu lam": {
         "description": "",
         "tags": [],
@@ -462,10 +422,8 @@
         "type": "simple noun"
     },
     "sja lam": {
-        "description": "bonheur agr\u00e9able, presque tranquille",
-        "tags": [
-            ""
-        ],
+        "description": "bonheur agreable, presque tranquille",
+        "tags": [],
         "translations": [
             "soothing"
         ],
@@ -489,28 +447,24 @@
     },
     "nei lam": {
         "description": "",
-        "tags": [
-            ""
-        ],
+        "tags": [],
         "translations": [
             "actif",
-            "\u00e9nerg\u00e9tique"
+            "energetique"
         ],
         "type": "simple noun"
     },
-    "floatswim": {
-        "description": "",
-        "tags": [
-            "p"
+    "qwbn": {
+        "description": "se sentir flotter, nager lentement ou rester inerte, regarder un paysage comme le ciel ou le fond de l'eau",
+        "tags": [],
+        "translations": [
+            "tranquille"
         ],
-        "translations": [],
         "type": "color"
     },
-    "floatswim ga": {
+    "qwbn ga": {
         "description": "",
-        "tags": [
-            "p"
-        ],
+        "tags": [],
         "translations": [
             "poisson"
         ],
@@ -1067,24 +1021,6 @@
         "translations": [],
         "type": "color"
     },
-    "peur-guerre": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "peur-guerre na": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "espion"
-        ],
-        "type": "simple noun"
-    },
     "sflu": {
         "description": "",
         "tags": [],
@@ -1104,7 +1040,9 @@
     "sflu sai": {
         "description": "",
         "tags": [],
-        "translations": [],
+        "translations": [
+            "plouf"
+        ],
         "type": "simple noun"
     },
     "yfan": {
@@ -1132,7 +1070,7 @@
         "type": "simple noun"
     },
     "tas": {
-        "description": "sensation du large, ou du vent marin",
+        "description": "sensation du large, le vent marin",
         "tags": [],
         "translations": [],
         "type": "color"
@@ -1150,12 +1088,12 @@
         "tags": [],
         "translations": [
             "mer",
-            "oc\u00e9an"
+            "ocean"
         ],
         "type": "simple noun"
     },
     "tas lam": {
-        "description": "respirer de l'air frais, se sentir purg\u00e9",
+        "description": "respirer de l'air frais, se sentir purge",
         "tags": [],
         "translations": [],
         "type": "simple noun"
@@ -1170,7 +1108,7 @@
         "type": "simple noun"
     },
     "yfan hu": {
-        "description": "d\u00e9formation d'un objet mou",
+        "description": "deformation d'un objet mou",
         "type": "simple noun",
         "tags": [],
         "translations": [
@@ -1221,10 +1159,13 @@
         "type": "simple noun"
     },
     "nei tc": {
-        "description": "v\u00e9hicule motoris\u00e9 rapide et peu encombrant",
+        "description": "vehicule rapide et peu encombrant, souvent motorise",
         "tags": [],
         "translations": [
-            "scooter"
+            "scooter",
+            "moto",
+            "trotinette",
+            "skateboard"
         ],
         "type": "simple noun"
     },
@@ -1243,32 +1184,6 @@
             "objet"
         ],
         "type": "class"
-    },
-    "pieds-herbe": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "pieds-herbe lp": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "prairie"
-        ],
-        "type": "simple noun"
-    },
-    "fierte-peuple": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
     },
     "traditionnel-nuksena": {
         "description": "",
@@ -1290,16 +1205,6 @@
         ],
         "type": "simple noun"
     },
-    "fierte-peuple so": {
-        "description": "histoire des nuksena",
-        "type": "simple noun",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "histoire"
-        ]
-    },
     "bien-famille na": {
         "description": "",
         "tags": [
@@ -1320,16 +1225,6 @@
         ],
         "type": "simple noun"
     },
-    "fierte-peuple na": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "peuple"
-        ],
-        "type": "simple noun"
-    },
     "regret-empathique": {
         "description": "",
         "tags": [
@@ -1339,7 +1234,7 @@
         "type": "color"
     },
     "djee": {
-        "description": "essayer de faire quelque chose, avoir quelque chose de planifi\u00e9 et s'y mettre",
+        "description": "essayer de faire quelque chose, avoir quelque chose de planifie et s'y mettre",
         "tags": [],
         "translations": [
             "planifier"
@@ -1350,20 +1245,22 @@
         "description": "",
         "tags": [],
         "translations": [
-            "jour"
+            "jour",
+            "journee"
         ],
         "type": "simple noun"
     },
     "netku": {
-        "description": "chauffer au soleil, se pr\u00e9lasser",
+        "description": "chauffer au soleil, se prelasser",
         "tags": [],
         "translations": [
-            "prelasse"
+            "tranquille",
+            "en plein air"
         ],
         "type": "color"
     },
     "netku min": {
-        "description": "ensoleillement, p\u00e9riode de journ\u00e9e",
+        "description": "ensoleillement, periode de la journee",
         "tags": [],
         "translations": [
             "journee",
@@ -1428,24 +1325,6 @@
         ],
         "type": "class"
     },
-    "information-perturbe": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "information-perturbe so": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "contester"
-        ],
-        "type": "simple noun"
-    },
     "vouloir-contester": {
         "description": "",
         "tags": [
@@ -1484,10 +1363,12 @@
         "type": "simple noun"
     },
     "hat": {
-        "description": "",
+        "description": "notion d'etre proche de son audience, d'apprecier leur compagnie. Celebre / Famous avec une connotation tres positive (opinion publique favorable)",
         "tags": [],
         "translations": [
-            "trac"
+            "celebre",
+            "connu",
+            "apprecie"
         ],
         "type": "color"
     },
@@ -1500,7 +1381,7 @@
         "type": "simple noun"
     },
     "hat so": {
-        "description": "",
+        "description": "notion de populaire : chanson populaire",
         "tags": [],
         "translations": [
             "chanson"
@@ -1516,11 +1397,9 @@
         "type": "simple noun"
     },
     "hat lam": {
-        "description": "",
+        "description": "plaisir de chanter en publique, d'avoir une audience et de se sentir proche d'une audience",
         "tags": [],
-        "translations": [
-            "le trac"
-        ],
+        "translations": [],
         "type": "simple noun"
     },
     "hae sbn": {
@@ -1751,7 +1630,7 @@
         "type": "class"
     },
     "kp": {
-        "description": "partie sup\u00e9rieure d'un objet ou d'une structure",
+        "description": "partie superieure d'un objet ou d'une structure",
         "tags": [],
         "translations": [
             "haut",
@@ -1770,10 +1649,11 @@
     },
     "nci": {
         "description": "",
-        "tags": [],
-        "translations": [
-            "cyan",
+        "tags": [
             "couleur"
+        ],
+        "translations": [
+            "cyan"
         ],
         "type": "color"
     },
@@ -1843,7 +1723,8 @@
         "translations": [
             "lieu couvert",
             "interieur",
-            "batiment"
+            "batiment",
+            "lieu"
         ],
         "type": "class"
     },
@@ -1853,7 +1734,8 @@
         "translations": [
             "territoire",
             "pays",
-            "region"
+            "region",
+            "lieu"
         ],
         "type": "class"
     },
@@ -1911,34 +1793,6 @@
         ],
         "type": "color"
     },
-    "chanter-dans-le-flow": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "chanter-dans-le-flow na": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "chanteur"
-        ],
-        "type": "simple noun"
-    },
-    "chanter-dans-le-flow lam": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "lam"
-        ],
-        "type": "simple noun"
-    },
     "concentration-realisation": {
         "description": "",
         "tags": [
@@ -1963,37 +1817,6 @@
             "p"
         ],
         "translations": [
-            "lieu de travail"
-        ],
-        "type": "simple noun"
-    },
-    "penser-gain": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "penser-gain na": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "entreprise",
-            "societe",
-            "compagnie"
-        ],
-        "type": "simple noun"
-    },
-    "penser-gain teo": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "usine",
             "lieu de travail"
         ],
         "type": "simple noun"
@@ -2028,12 +1851,12 @@
         "type": "simple noun"
     },
     "gen": {
-        "description": "satisfait du resultat d'un processus d'equilibrage qui implique des parametres instables \u00e0 stabiliser.",
+        "description": "satisfait du resultat d'un processus d'equilibrage qui implique des parametres instables a stabiliser.",
         "tags": [],
         "translations": [
-            "satisfait du parametrage",
-            "reussir",
-            "satisfait"
+            "reussit",
+            "satisfait",
+            "equilibre"
         ],
         "type": "color"
     },
@@ -2061,7 +1884,7 @@
         "type": "color"
     },
     "djee so": {
-        "description": "chose qu'on a envie de faire / qu'on pr\u00e9voit pour la journ\u00e9e",
+        "description": "chose qu'on a envie de faire / qu'on prevoit pour la journee",
         "type": "simple noun",
         "tags": [],
         "translations": [
@@ -2071,19 +1894,1190 @@
         ]
     },
     "djee lam": {
-        "description": "envie de faire un t\u00e2che planifi\u00e9e sur une journ\u00e9e ou moins",
+        "description": "envie de faire un tache planifiee sur une journee ou moins",
         "type": "simple noun",
         "tags": [],
         "translations": [
             "motivation"
         ]
     },
-    "tb ki f jus": {
+    "dee": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "etre perdu dans ses pensees"
+        ],
+        "type": "color"
+    },
+    "dee si": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "programme informatique"
+        ],
+        "type": "simple noun"
+    },
+    "fcwb": {
+        "description": "perdre une chose importante et chercher a tout prix un moyen de le recuperer / ramener a l'etat d'origine",
+        "tags": [],
+        "translations": [
+            "stress"
+        ],
+        "type": "color"
+    },
+    "njyewe": {
+        "description": "assis sur un lit, au bord d'une falaise, avec vue sur la ville",
+        "tags": [],
+        "translations": [
+            "contempler"
+        ],
+        "type": "color"
+    },
+    "njyewe ksen": {
         "description": "",
         "type": "simple noun",
         "tags": [],
         "translations": [
-            "oeil"
+            "skyline"
         ]
+    },
+    "njyewe lp": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "aire urbaine"
+        ],
+        "type": "simple noun"
+    },
+    "cine na": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "peuple"
+        ]
+    },
+    "cine": {
+        "description": "sentiment de fierte envers une nation, un groupe de personnes organise d'envergure majeure et reconnue",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "fierte"
+        ]
+    },
+    "cine so": {
+        "description": "histoire des nuksena",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "histoire"
+        ]
+    },
+    "sheup": {
+        "description": "peur qu'un conflit eclate avec des parties externes (non nationales) (= conflit), et des consequences sur l'integrite de la societe",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "peur du conflit",
+            "conflit"
+        ]
+    },
+    "sheup na": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "espion"
+        ]
+    },
+    "ksen": {
+        "description": "structure d'elements constitutifs organises de maniere a ce qu'une logique soit perceptible en l'observant de loin, dans son ensemble, sans necessairement remarquer les petits details (tas de pierre, oeuvre d'art a grande echelle, amenagements de jardin)",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "dli": {
+        "description": "objet qui a une structure tres complexe",
+        "tags": [],
+        "translations": [
+            "bijoux",
+            "gravure",
+            "ouvrage",
+            "oeuvre d'art"
+        ],
+        "type": "class"
+    },
+    "nyo": {
+        "description": "collection d'informations structurees",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "sem": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "intention"
+        ],
+        "type": "class"
+    },
+    "lu_": {
+        "description": "element qui n'est pas deplacable, dans lequel on peut inserer des trucs",
+        "tags": [],
+        "translations": [
+            "trou"
+        ],
+        "type": "class"
+    },
+    "tas lu_": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "vortex"
+        ],
+        "type": "simple noun"
+    },
+    "tas tc lu_": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "trou dans la coque"
+        ],
+        "type": "simple noun"
+    },
+    "hae na": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "cusinier",
+            "client"
+        ],
+        "type": "simple noun"
+    },
+    "hae s na": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "cuisinier"
+        ],
+        "type": "simple noun"
+    },
+    "hewa": {
+        "description": "une information qu'on vient de me donner me perturbe dans le sens ou elle est incoherente, ou ne fait pas sens dans ma vision du monde",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "incoherent"
+        ]
+    },
+    "hewa so": {
+        "description": "argumentation / contestation d'un statement",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "contestation"
+        ]
+    },
+    "hewa lam": {
+        "description": "penser que ce qui a ete affirme est factuellement faux",
+        "tags": [],
+        "translations": [
+            "ne pas etre d'accord"
+        ],
+        "type": "simple noun"
+    },
+    "qav": {
+        "description": "perdre quelque chose, etre desespere, et ne rien faire",
+        "tags": [],
+        "translations": [
+            "stress",
+            "desespoir"
+        ],
+        "type": "color"
+    },
+    "jubn": {
+        "description": "se sentir chez soi",
+        "tags": [],
+        "translations": [],
+        "type": "color"
+    },
+    "jubn teo": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "logement",
+            "maison",
+            "appartement",
+            "chez soi"
+        ],
+        "type": "simple noun"
+    },
+    "jubn tao": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "ville de residence",
+            "patrie"
+        ],
+        "type": "simple noun"
+    },
+    "juebn teo": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "maison",
+            "appartement",
+            "maison de son enfance"
+        ]
+    },
+    "juebn tao": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "ville natale",
+            "pays d'origine"
+        ],
+        "type": "simple noun"
+    },
+    "juebn": {
+        "description": "se sentir chez soi, couple a de la nostalgie : ce qui nous faisais nous sentir chez nous par le passe (maison d'enfance, village...)",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "nostalgie"
+        ]
+    },
+    "nise": {
+        "description": "satisfaction du travail d'equipe",
+        "tags": [],
+        "translations": [
+            "travail d'equipe",
+            "groupe"
+        ],
+        "type": "color"
+    },
+    "nise lam": {
+        "description": "se sentir dans un groupe de travail qui avance efficacement, se sentir coordonne avec les autres",
+        "tags": [],
+        "translations": [
+            "travail d'equipe",
+            "cooperation",
+            "groupe"
+        ],
+        "type": "simple noun"
+    },
+    "nise na": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "equipier",
+            "vendeur",
+            "equipe",
+            "groupe"
+        ],
+        "type": "simple noun"
+    },
+    "nise ko": {
+        "description": "l'equipe consideree comme partie d'un systeme d'equipes (entreprise, usine, sport...)",
+        "tags": [],
+        "translations": [
+            "equipe",
+            "groupe"
+        ],
+        "type": "simple noun"
+    },
+    "get": {
+        "description": "spoiled / not yet edible food",
+        "type": "class",
+        "tags": [],
+        "translations": [
+            "spoiled food"
+        ]
+    },
+    "leeso get": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": []
+    },
+    "ohaw": {
+        "description": "s'attendre a voir quelque chose, mais ne pas le voir. Vouloir que la chose soit la pour poursuivre l'activite",
+        "tags": [],
+        "translations": [
+            "vide",
+            "absent"
+        ],
+        "type": "color"
+    },
+    "spy": {
+        "description": "quelqu'un nous annonce qu'il y a quelque chose, on ne le voit pas, ou on ne le comprend pas",
+        "tags": [],
+        "translations": [
+            "vide",
+            "absent",
+            "incompris"
+        ],
+        "type": "color"
+    },
+    "deh": {
+        "description": "rugeux et qui s'effrite en poudre au contact",
+        "tags": [],
+        "translations": [],
+        "type": "color"
+    },
+    "deh lp": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "roche",
+            "bitume"
+        ],
+        "type": "simple noun"
+    },
+    "deh sb": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "pierre"
+        ],
+        "type": "simple noun"
+    },
+    "deh sak": {
+        "description": "poussiere d'origine rocheuse, exterieure",
+        "tags": [],
+        "translations": [
+            "poussiere"
+        ],
+        "type": "simple noun"
+    },
+    "aisi": {
+        "description": "etre dans le flow de la musique, ecouter et apprecier, analyser ou suivre le rythme",
+        "tags": [],
+        "translations": [],
+        "type": "color"
+    },
+    "aisi so": {
+        "description": "insiste sur l'aspect \"semantique\" du morceau, il est porteur de sens",
+        "tags": [],
+        "translations": [
+            "chanson",
+            "musique"
+        ],
+        "type": "simple noun"
+    },
+    "aisi sai": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "musique",
+            "chanson"
+        ],
+        "type": "simple noun"
+    },
+    "eli sije_": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "eau croupie"
+        ]
+    },
+    "sije_": {
+        "description": "toute boisson jugee inbuvable, non potable, toxique, perimee",
+        "type": "class",
+        "tags": [],
+        "translations": [
+            "perime",
+            "non-potable"
+        ]
+    },
+    "kwah": {
+        "description": "agite par le rythme de la musique, suivre le rythme et etre engage dedans",
+        "tags": [],
+        "translations": [],
+        "type": "color"
+    },
+    "kwah sai": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "musique",
+            "chanson",
+            "concert"
+        ],
+        "type": "simple noun"
+    },
+    "kwah teo": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "salle de concert active",
+            "boite de nuit",
+            "soiree"
+        ],
+        "type": "simple noun"
+    },
+    "kwah qubn": {
+        "description": "soirees parking, fetes en exterieur",
+        "tags": [],
+        "translations": [
+            "soiree",
+            "soiree a ciel ouvert"
+        ],
+        "type": "simple noun"
+    },
+    "qubn": {
+        "description": "lieu ou se deroule un evenement, delimite par la portee de l'evenement (peut etre en exterieur, les gens peuvent se deplacer dans un certain rayon pour poursuivre l'activite)",
+        "tags": [],
+        "translations": [
+            "lieu"
+        ],
+        "type": "class"
+    },
+    "hat qubn": {
+        "description": "concert a ciel ouvert, salle de concert semi couverte",
+        "tags": [],
+        "translations": [
+            "concert",
+            "spectacle"
+        ],
+        "type": "simple noun"
+    },
+    "qwbn na": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "poisson"
+        ],
+        "type": "simple noun"
+    },
+    "tjo": {
+        "description": "portion de quelque chose qui a ete segmente mais conserve l'essentiel de ses proprietes",
+        "tags": [],
+        "translations": [
+            "part",
+            "morceau",
+            "fragment"
+        ],
+        "type": "class"
+    },
+    "yfan ga tjo": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "part de gateau"
+        ],
+        "type": "simple noun"
+    },
+    "yfan tjo": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "part de gateau"
+        ],
+        "type": "simple noun"
+    },
+    "gen lam": {
+        "description": "satisfait du resultat d'un processus d'equilibrage qui implique des parametres instables a stabiliser.",
+        "tags": [],
+        "translations": [
+            "satisfait du parametrage",
+            "reussir",
+            "satisfait"
+        ],
+        "type": "simple noun"
+    },
+    "sugen": {
+        "description": "sentiment de gratitude apres \"acquittement\" (de la part de celui qui s'acquitte de quelque chose)",
+        "tags": [],
+        "translations": [],
+        "type": "color"
+    },
+    "sugen lam": {
+        "description": "sentiment de gratitude apres \"acquittement\" (de la part de celui qui s'acquitte de quelque chose)",
+        "tags": [],
+        "translations": [
+            "even",
+            "feeling even",
+            "etre quitte",
+            "gratitude"
+        ],
+        "type": "simple noun"
+    },
+    "qwbn lam": {
+        "description": "se sentir flotter, nager lentement ou rester inerte, regarder un paysage comme le ciel ou le fond de l'eau",
+        "tags": [],
+        "translations": [
+            "tranquille"
+        ],
+        "type": "simple noun"
+    },
+    "na kju": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "comportement"
+        ],
+        "type": "simple noun"
+    },
+    "eli kju": {
+        "description": "techniques en rapport avec l'eau : nage mais aussi eclaboussures, plongee",
+        "tags": [],
+        "translations": [
+            "nage",
+            "plongee"
+        ],
+        "type": "simple noun"
+    },
+    "tei": {
+        "description": "element qui se demarque et qui peut servir de support",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "hae tei": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "table",
+            "chaise"
+        ],
+        "type": "simple noun"
+    },
+    "nukse tei": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "chaise",
+            "chaise longue",
+            "transat"
+        ],
+        "type": "simple noun"
+    },
+    "qispe jus": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "crayon",
+            "stylo"
+        ],
+        "type": "simple noun"
+    },
+    "eli dek": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "flaque d'eau",
+            "flaque"
+        ],
+        "type": "simple noun"
+    },
+    "fsah lp": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "prairie"
+        ]
+    },
+    "fsah": {
+        "description": "petit et attache a une surface",
+        "type": "color",
+        "tags": [],
+        "translations": []
+    },
+    "fsah sbn": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "doux"
+        ],
+        "type": "simple noun"
+    },
+    "fsah fin": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "poils",
+            "laine",
+            "tissu"
+        ],
+        "type": "simple noun"
+    },
+    "nea": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "sommeil"
+        ],
+        "type": "color"
+    },
+    "nea min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "dormir",
+            "nuit"
+        ],
+        "type": "simple noun"
+    },
+    "helo": {
+        "description": "periode de temps\r\n",
+        "type": "class",
+        "tags": [],
+        "translations": []
+    },
+    "nea sbn": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "fatigue"
+        ],
+        "type": "simple noun"
+    },
+    "nea fin": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "laine"
+        ],
+        "type": "simple noun"
+    },
+    "nea til": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "alpaga"
+        ],
+        "type": "simple noun"
+    },
+    "nea hu": {
+        "description": "contact avec de la laine ou une surface douce",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "nea hu sbn": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "doux"
+        ],
+        "type": "simple noun"
+    },
+    "njb": {
+        "description": "phenomene de grande ampleur, modification environnementale qui affecte (physiquement) les personnes",
+        "type": "class",
+        "tags": [],
+        "translations": [
+            "partout autours"
+        ]
+    },
+    "eli njb": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "pluie",
+            "eclaboussure"
+        ],
+        "type": "simple noun"
+    },
+    "eli jus": {
+        "description": "n'importe quel source d'eau deplacable",
+        "tags": [],
+        "translations": [
+            "jet d'eau",
+            "tuyau d'arrosage"
+        ],
+        "type": "simple noun"
+    },
+    "eli ko": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "bouteille d'eau",
+            "sceau",
+            "verre"
+        ],
+        "type": "simple noun"
+    },
+    "eli ko jus": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "sceau"
+        ],
+        "type": "simple noun"
+    },
+    "nas scy": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "oranges"
+        ],
+        "type": "simple noun"
+    },
+    "scy": {
+        "description": "nourriture acide, tres juteuse ou froide : fruits, legumes, glaces",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "nourriture"
+        ]
+    },
+    "tscu": {
+        "description": "satisfait du resultat alors qu'on s'attendait a pire",
+        "tags": [],
+        "translations": [],
+        "type": "color"
+    },
+    "tscu min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "reussir",
+            "reussite",
+            "plutot reussir"
+        ],
+        "type": "simple noun"
+    },
+    "thi njb": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "soleil",
+            "jour",
+            "journee"
+        ],
+        "type": "simple noun"
+    },
+    "thi min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "jour",
+            "journee"
+        ],
+        "type": "simple noun"
+    },
+    "nea sai": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "ronflements",
+            "ronfler"
+        ],
+        "type": "simple noun"
+    },
+    "nea til sai": {
+        "description": "cri de l'alpaga",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "scuo": {
+        "description": "individuel,seul",
+        "tags": [],
+        "translations": [
+            "seul",
+            "solitaire"
+        ],
+        "type": "color"
+    },
+    "scuo tc": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "vehicule individuel",
+            "voiture",
+            "moto"
+        ],
+        "type": "simple noun"
+    },
+    "nei gv": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "evitement",
+            "strategie d'evitement"
+        ],
+        "type": "simple noun"
+    },
+    "ejwe_": {
+        "description": "chanter, s'exprimer, dans le flow. Etre a fond dedans",
+        "type": "color",
+        "tags": [],
+        "translations": []
+    },
+    "ejwe_ na": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "chanteur"
+        ]
+    },
+    "ejwe_ lam": {
+        "description": "etre a fond dans ce qu'on fait, etre immerge",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "concentration",
+            "immertion"
+        ]
+    },
+    "gebq na": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "entreprise",
+            "societe",
+            "compagnie"
+        ]
+    },
+    "gebq teo": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [
+            "p"
+        ],
+        "translations": [
+            "usine",
+            "lieu de travail"
+        ]
+    },
+    "gebq": {
+        "description": "penser au gain potentiel",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "benefique",
+            "economiquement benefique"
+        ]
+    },
+    "gebq fjp": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "benefice",
+            "gain"
+        ],
+        "type": "simple noun"
+    },
+    "fjp tek": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "chiffre",
+            "nombre"
+        ],
+        "type": "simple noun"
+    },
+    "gebq lam": {
+        "description": "appat du gain, motive a participer a un plan qui mene a un gain",
+        "tags": [],
+        "translations": [
+            "enthousiaste",
+            "motive"
+        ],
+        "type": "simple noun"
+    },
+    "ukto": {
+        "description": "interagir avec un systeme organise par des personnes d'une societe (systeme auquel on est habitue, pas decouverte (il y a un autre mot pour ca))",
+        "tags": [],
+        "translations": [
+            "integrer"
+        ],
+        "type": "color"
+    },
+    "ukto jus": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "portable",
+            "smartphone",
+            "telephone portable"
+        ],
+        "type": "simple noun"
+    },
+    "tas sbn": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "vent marin",
+            "vent"
+        ],
+        "type": "simple noun"
+    },
+    "tas sai": {
+        "description": "bruit de la mer, des vagues, des mouettes",
+        "tags": [],
+        "translations": [
+            "vagues",
+            "cri des mouettes",
+            "vent marin"
+        ],
+        "type": "simple noun"
+    },
+    "hae sem": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "cuisiner",
+            "faire a manger",
+            "aller chasser"
+        ],
+        "type": "simple noun"
+    },
+    "nea sem": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "fatigue",
+            "aller dormir"
+        ],
+        "type": "simple noun"
+    },
+    "lam ki": {
+        "description": "couleur, sensation \"visuelle\" :: caracteristique d'un objet",
+        "tags": [
+            "couleur"
+        ],
+        "translations": [
+            "couleur"
+        ],
+        "type": "simple noun"
+    },
+    "gp": {
+        "description": "placeholder, element quasiment tout a fait indetermine, quoi que en general un objet",
+        "tags": [],
+        "translations": [],
+        "type": "class"
+    },
+    "jea": {
+        "description": "soulagement / relief, une tache difficile qui a l'air insurmontable mais avec de l'aide elle n'a plus l'air si difficile",
+        "tags": [],
+        "translations": [
+            "soulagement"
+        ],
+        "type": "color"
+    },
+    "jea lam": {
+        "description": "une tache difficile qui a l'air insurmontable mais avec de l'aide elle n'a plus l'air si difficile",
+        "tags": [],
+        "translations": [
+            "soulagement"
+        ],
+        "type": "simple noun"
+    },
+    "jea min": {
+        "description": "porter assistance, aider quelqu'un a une tache",
+        "tags": [],
+        "translations": [
+            "aider",
+            "assistance"
+        ],
+        "type": "simple noun"
+    },
+    "jea sai": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "demander de l'aide"
+        ],
+        "type": "simple noun"
+    },
+    "jea f so": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "demander de l'aide"
+        ],
+        "type": "simple noun"
+    },
+    "jea so": {
+        "description": "expression du soulagement",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "-vl": {
+        "description": "incertain, joue le role des guillemets dans le contexte : j'ai un \"cheval\". = j'ai une espece de cheval.",
+        "tags": [
+            "suffixe"
+        ],
+        "translations": [
+            "incertain"
+        ],
+        "type": "special"
+    },
+    "juck": {
+        "description": "stress a l'idee de paraitre en publique pour chanter",
+        "tags": [],
+        "translations": [
+            "stress"
+        ],
+        "type": "color"
+    },
+    "juck na": {
+        "description": "connotation de chanteur debutant ou chanteur connu qui avoue publiquement avoir le trac",
+        "tags": [],
+        "translations": [
+            "chanteur"
+        ],
+        "type": "simple noun"
+    },
+    "juck lam": {
+        "description": "avoir le trac",
+        "tags": [],
+        "translations": [
+            "trac"
+        ],
+        "type": "simple noun"
+    },
+    "qispe sb": {
+        "description": "support d'ecriture, le type de support est indique via des proprietes supplementaires",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "feuille de papier",
+            "support",
+            "tablette",
+            "ardoise",
+            "feuille"
+        ]
+    },
+    "dek": {
+        "description": "artefact sur une regularite",
+        "type": "class",
+        "tags": [],
+        "translations": [
+            "irregulier"
+        ]
+    },
+    "fuh": {
+        "description": "angoisse liee a l'obscurite, legere paranoia a l'idee de se faire attaquer",
+        "tags": [],
+        "translations": [
+            "sombre"
+        ],
+        "type": "color"
+    },
+    "fuh lam": {
+        "description": "angoisse liee a l'obscurite, legere paranoia a l'idee de se faire attaquer",
+        "tags": [],
+        "translations": [
+            "angoisse",
+            "peur",
+            "paranoia"
+        ],
+        "type": "simple noun"
+    },
+    "fuh ki": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "obscurite",
+            "sombre",
+            "noir"
+        ],
+        "type": "simple noun"
+    },
+    "ki si": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "ecran"
+        ],
+        "type": "class"
+    },
+    "des": {
+        "description": "peur de se faire surprendre en cherchant quelqu'un au cache cache / s'attendre a voir quelqu'un a un moment donne",
+        "tags": [],
+        "translations": [
+            "alerte",
+            "alerte (amusement)",
+            "explorateur",
+            "curieux"
+        ],
+        "type": "color"
+    },
+    "des min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "recherche"
+        ],
+        "type": "simple noun"
+    },
+    "des lam": {
+        "description": "peur de se faire surprendre en cherchant quelqu'un au cache cache / s'attendre a voir quelqu'un",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "dahe": {
+        "description": "perdu quelque chose, recherche paniquee pour le retrouver, vouloir le retrouver a tout prix",
+        "tags": [],
+        "translations": [
+            "panique",
+            "alerte",
+            "recherche"
+        ],
+        "type": "color"
+    },
+    "dahe min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "recherche",
+            "panique"
+        ],
+        "type": "simple noun"
+    },
+    "dahe lam": {
+        "description": "perdu quelque chose, recherche paniquee pour le retrouver, vouloir le retrouver a tout prix",
+        "tags": [],
+        "translations": [
+            "panique",
+            "stress"
+        ],
+        "type": "simple noun"
+    },
+    "twact": {
+        "description": "se balader dans un coin \"parce que pourquoi pas\", etre enthousiasme a l'idee de trouver quelque chose de nouveau. Valable a l'abstrait pour la recherche d'information sans s'attendre a trouver un truc",
+        "tags": [],
+        "translations": [
+            "recherche",
+            "curieux",
+            "explorant"
+        ],
+        "type": "color"
+    },
+    "daei": {
+        "description": "des, mais avec une crainte plutot axee sur le fait de ne rien trouver (que sur la peur d'etre surpris)",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "cherchant"
+        ]
+    },
+    "daei min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "recherche"
+        ],
+        "type": "simple noun"
+    },
+    "twact min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "recherche"
+        ],
+        "type": "simple noun"
     }
 }

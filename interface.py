@@ -2,7 +2,7 @@ import json
 import webbrowser
 import os
 from grapher import get_graph
-from grapher_plot import get_graph as get_graph_plot
+# from grapher_plot import get_graph as get_graph_plot
 from flask import Flask, render_template, request, redirect
 
 def get_unique_id(data: dict) -> str: # dict from json file
@@ -27,6 +27,7 @@ def main():
 
     with open('nyo.svg', 'r') as f:
         svg = f.read()
+        return render_template('index.html', graph=svg)
 
     get_graph_plot(data)
 
@@ -81,8 +82,7 @@ def add():
 
     with open('nyo.svg', 'r') as f:
         svg = f.read()
-
-    return render_template('modify.html', graph=svg, node=node)
+        return render_template('modify.html', graph=svg, node=node)
 
 
 @app.route('/modify', methods=['POST'])
@@ -137,5 +137,5 @@ def update_node():
 
 
 if __name__ == '__main__':
-    webbrowser.open('http://localhost:5000')
+    #webbrowser.open('http://localhost:5000')
     app.run()   

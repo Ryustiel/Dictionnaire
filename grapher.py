@@ -10,19 +10,44 @@ def get_graph(data): # data is the json file
     nodes = {}
 
     for word, attrs in data.items(): # adding nodes
-        if word[0] == '/':
-            if attrs['translations'] == []: # no word, no translation
-                label = attrs['description']
-            else: # no word, available translations
-                label = ''
-                for translation in attrs['translations']:
-                    label += translation + ', '
-                if label != '':
-                    label = label[:-2]
+
+        if 'p' in attrs['tags']:
+            label = '/' + word # using word as label
         else:
-            label = word # using word as label
-            if attrs['translations'] != []:
-                label = label + '\n(' + attrs['translations'][0] + ')'
+            label = '.' + word
+
+        if attrs['translations'] != []:
+            translation = str(attrs['translations'])[1:-1] # attrs['translations'][0]
+
+            if len(translation.split(' ')) > 4:
+                label += '\n('
+                k = 0
+                sections = translation.split(' ')
+                section = ""
+                while k < len(sections):
+                    section += sections[k] + ' '
+                    if k % 3 == 2:
+                        if k > 2: # not the first iteration
+                            label += '\n'
+                        label += section
+                        section = ""
+                    k += 1
+                if k % 3 != 0: # car k += 1
+                    label += '\n' + section
+                label = label[:-1] + ')'
+
+            else:
+                label += '\n(' + translation + ')'
+
+        i = 0
+        desc = attrs['description'].split(' ')
+        m = len(desc)
+        if len(desc) > 1:
+            while i < m:
+                if i % 4 == 0:
+                    label += '\n'
+                label += desc[i] + ' '
+                i += 1
 
         if attrs['type'] == 'color' or attrs['type'] == 'numeral':
             linetype = 'dotted'
@@ -39,6 +64,7 @@ def get_graph(data): # data is the json file
             color = 'gray'
         else:
             color = 'black'
+
         node = pydot.Node(word, label=label, color=color, fillcolor=fillcolor, style='filled') # creates a node for the current word
         node.set_id(word)
         node.set_style(linetype)
@@ -114,4 +140,3 @@ def get_graph(data): # data is the json file
         used_up.append(word) # add it there so it isn't added twice
 
     graph.write_svg('nyo.svg')
-    graph.write_png('nyo.png')
