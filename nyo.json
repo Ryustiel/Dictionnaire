@@ -989,38 +989,6 @@
         ],
         "type": "special"
     },
-    "bien-famille": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "bien-village": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "bien-entreprise": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "bien-pays": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
     "sflu": {
         "description": "",
         "tags": [],
@@ -1140,24 +1108,6 @@
         ],
         "type": "simple noun"
     },
-    "envie-servir": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "envie-servir lam": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "fonctionnant"
-        ],
-        "type": "simple noun"
-    },
     "nei tc": {
         "description": "vehicule rapide et peu encombrant, souvent motorise",
         "tags": [],
@@ -1184,54 +1134,6 @@
             "objet"
         ],
         "type": "class"
-    },
-    "traditionnel-nuksena": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "sei traditionnel-nuksena so": {
-        "description": "histoire traditionnelle, conte",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "conte",
-            "recit",
-            "histoire"
-        ],
-        "type": "simple noun"
-    },
-    "bien-famille na": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "famille"
-        ],
-        "type": "simple noun"
-    },
-    "bien-pays na": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "service publique"
-        ],
-        "type": "simple noun"
-    },
-    "regret-empathique": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
     },
     "djee": {
         "description": "essayer de faire quelque chose, avoir quelque chose de planifie et s'y mettre",
@@ -1269,54 +1171,6 @@
         ],
         "type": "simple noun"
     },
-    "discussion-sentiment": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "discussion-sentiment lam": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "a coeur ouvert"
-        ],
-        "type": "simple noun"
-    },
-    "discussion-sentiment na": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "ami"
-        ],
-        "type": "simple noun"
-    },
-    "courbatures-maladie": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "courbatures"
-        ],
-        "type": "color"
-    },
-    "courbatures-sport": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "courbatures"
-        ],
-        "type": "color"
-    },
     "qa": {
         "description": "",
         "tags": [],
@@ -1324,24 +1178,6 @@
             "pensee"
         ],
         "type": "class"
-    },
-    "vouloir-contester": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "vouloir-contester so": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "contester"
-        ],
-        "type": "simple noun"
     },
     "hae": {
         "description": "le plat est apetissant, je me rejouis a l'idee de manger",
@@ -1363,7 +1199,7 @@
         "type": "simple noun"
     },
     "hat": {
-        "description": "notion d'etre proche de son audience, d'apprecier leur compagnie. Celebre / Famous avec une connotation tres positive (opinion publique favorable)",
+        "description": "notion d'etre proche de son audience, d'apprecier leur compagnie. Celebre -- Famous avec une connotation tres positive (opinion publique favorable)",
         "tags": [],
         "translations": [
             "celebre",
@@ -1427,69 +1263,6 @@
         ],
         "type": "class"
     },
-    "pieds-eau": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "mettre un pied dans l'eau froide"
-        ],
-        "type": "color"
-    },
-    "pieds-eau lam": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "s'appreter a se lancer dans une activite challengeante",
-            "a mettre un pied dans l'eau froide"
-        ],
-        "type": "simple noun"
-    },
-    "pieds-eau sbn": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "avoir un pied dans l'eau froide"
-        ],
-        "type": "simple noun"
-    },
-    "pieds-eau-deja": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "j'essaie de m'habituer a l'eau froide"
-        ],
-        "type": "color"
-    },
-    "pieds-eau-deja lam": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "s'habituer a une situation",
-            "s'habituer"
-        ],
-        "type": "simple noun"
-    },
-    "pieds-eau-deja sbn": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "s'habituer a une sensation",
-            "s'habituer"
-        ],
-        "type": "simple noun"
-    },
     "sja na": {
         "description": "",
         "tags": [],
@@ -1497,14 +1270,6 @@
             "ami"
         ],
         "type": "simple noun"
-    },
-    "regret-inefficacite": {
-        "description": "",
-        "type": "color",
-        "tags": [
-            "p"
-        ],
-        "translations": []
     },
     "nalc na": {
         "description": "",
@@ -1599,22 +1364,13 @@
         ],
         "type": "simple noun"
     },
-    "forte-impression-amicale": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "impression amicale",
-            "marquer"
-        ],
-        "type": "simple noun"
-    },
     "eli si": {
         "description": "",
         "tags": [],
         "translations": [
-            "douche"
+            "douche",
+            "tobogan",
+            "parc aquatique"
         ],
         "type": "simple noun"
     },
@@ -1793,98 +1549,19 @@
         ],
         "type": "color"
     },
-    "concentration-realisation": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "concentration-realisation na": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "travailleur"
-        ],
-        "type": "simple noun"
-    },
-    "concentration-realisation teo": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "lieu de travail"
-        ],
-        "type": "simple noun"
-    },
-    "fatigue-envie-pas-envie": {
-        "description": "fatigue on veut pas mais on le fait quand meme",
-        "tags": [
-            "p"
-        ],
-        "translations": [],
-        "type": "color"
-    },
-    "fatigue-envie-pas-envie na": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "travailleur"
-        ],
-        "type": "simple noun"
-    },
-    "fatigue-envie-pas-envie lam": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "envie d'aller travailleur",
-            "flemme"
-        ],
-        "type": "simple noun"
-    },
     "gen": {
         "description": "satisfait du resultat d'un processus d'equilibrage qui implique des parametres instables a stabiliser.",
         "tags": [],
         "translations": [
             "reussit",
             "satisfait",
-            "equilibre"
-        ],
-        "type": "color"
-    },
-    "constance": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "constance",
-            "constant"
-        ],
-        "type": "color"
-    },
-    "irregularite": {
-        "description": "",
-        "tags": [
-            "p"
-        ],
-        "translations": [
-            "unsettling",
-            "irregulier",
-            "irregularite"
+            "equilibre",
+            "fonctionner"
         ],
         "type": "color"
     },
     "djee so": {
-        "description": "chose qu'on a envie de faire / qu'on prevoit pour la journee",
+        "description": "chose qu'on a envie de faire ou qu'on prevoit pour la journee",
         "type": "simple noun",
         "tags": [],
         "translations": [
@@ -1913,12 +1590,15 @@
         "description": "",
         "tags": [],
         "translations": [
-            "programme informatique"
+            "machine en fonction",
+            "active",
+            "calcul",
+            "programme"
         ],
         "type": "simple noun"
     },
     "fcwb": {
-        "description": "perdre une chose importante et chercher a tout prix un moyen de le recuperer / ramener a l'etat d'origine",
+        "description": "perdre une chose importante et chercher a tout prix un moyen de le recuperer -- ramener a l'etat d'origine",
         "tags": [],
         "translations": [
             "stress"
@@ -2071,7 +1751,7 @@
         ]
     },
     "hewa so": {
-        "description": "argumentation / contestation d'un statement",
+        "description": "argumentation -- contestation d'un statement",
         "type": "simple noun",
         "tags": [],
         "translations": [
@@ -2188,7 +1868,7 @@
         "type": "simple noun"
     },
     "get": {
-        "description": "spoiled / not yet edible food",
+        "description": "spoiled -- not yet edible food",
         "type": "class",
         "tags": [],
         "translations": [
@@ -2464,7 +2144,7 @@
         ],
         "type": "simple noun"
     },
-    "eli dek": {
+    "eli tet": {
         "description": "",
         "tags": [],
         "translations": [
@@ -2629,7 +2309,10 @@
     "tscu": {
         "description": "satisfait du resultat alors qu'on s'attendait a pire",
         "tags": [],
-        "translations": [],
+        "translations": [
+            "reussite",
+            "fonctionner"
+        ],
         "type": "color"
     },
     "tscu min": {
@@ -2637,7 +2320,7 @@
         "tags": [],
         "translations": [
             "reussir",
-            "reussite",
+            "reussit",
             "plutot reussir"
         ],
         "type": "simple noun"
@@ -2740,9 +2423,7 @@
     "gebq teo": {
         "description": "",
         "type": "simple noun",
-        "tags": [
-            "p"
-        ],
+        "tags": [],
         "translations": [
             "usine",
             "lieu de travail"
@@ -2857,7 +2538,7 @@
         "type": "class"
     },
     "jea": {
-        "description": "soulagement / relief, une tache difficile qui a l'air insurmontable mais avec de l'aide elle n'a plus l'air si difficile",
+        "description": "soulagement -- relief, une tache difficile qui a l'air insurmontable mais avec de l'aide elle n'a plus l'air si difficile",
         "tags": [],
         "translations": [
             "soulagement"
@@ -2949,7 +2630,7 @@
             "feuille"
         ]
     },
-    "dek": {
+    "tet": {
         "description": "artefact sur une regularite",
         "type": "class",
         "tags": [],
@@ -2994,7 +2675,7 @@
         "type": "class"
     },
     "des": {
-        "description": "peur de se faire surprendre en cherchant quelqu'un au cache cache / s'attendre a voir quelqu'un a un moment donne",
+        "description": "peur de se faire surprendre en cherchant quelqu'un au cache cache -- s'attendre a voir quelqu'un a un moment donne",
         "tags": [],
         "translations": [
             "alerte",
@@ -3013,7 +2694,7 @@
         "type": "simple noun"
     },
     "des lam": {
-        "description": "peur de se faire surprendre en cherchant quelqu'un au cache cache / s'attendre a voir quelqu'un",
+        "description": "peur de se faire surprendre en cherchant quelqu'un au cache cache -- s'attendre a voir quelqu'un",
         "tags": [],
         "translations": [],
         "type": "simple noun"
@@ -3046,7 +2727,7 @@
         ],
         "type": "simple noun"
     },
-    "twact": {
+    "twac": {
         "description": "se balader dans un coin \"parce que pourquoi pas\", etre enthousiasme a l'idee de trouver quelque chose de nouveau. Valable a l'abstrait pour la recherche d'information sans s'attendre a trouver un truc",
         "tags": [],
         "translations": [
@@ -3072,12 +2753,853 @@
         ],
         "type": "simple noun"
     },
-    "twact min": {
+    "twac min": {
         "description": "",
         "tags": [],
         "translations": [
             "recherche"
         ],
+        "type": "simple noun"
+    },
+    "juebn na": {
+        "description": "Apres avoir quitte la maison",
+        "tags": [],
+        "translations": [
+            "parents",
+            "papa",
+            "maman"
+        ],
+        "type": "simple noun"
+    },
+    "jubn na": {
+        "description": "personnes avec lesquelles on vit, parents si on vit avec eux, conjoints, freres soeurs, invites permanents, colocataires longue duree...",
+        "tags": [],
+        "translations": [
+            "parents",
+            "freres",
+            "soeurs",
+            "colocataires"
+        ],
+        "type": "simple noun"
+    },
+    "fuh min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "nuit"
+        ],
+        "type": "simple noun"
+    },
+    "netei": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "acheve",
+            "termine",
+            "accompli",
+            "satisfaisant"
+        ],
+        "type": "color"
+    },
+    "netei lam": {
+        "description": "enfin! ouf! ouais!",
+        "tags": [],
+        "translations": [
+            "content",
+            "soulagement",
+            "heureux"
+        ],
+        "type": "simple noun"
+    },
+    "ukto na": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "administration"
+        ],
+        "type": "simple noun"
+    },
+    "fae": {
+        "description": "interagit fonctionnellement avec, partie du systeme",
+        "tags": [],
+        "translations": [],
+        "type": "color"
+    },
+    "fae lam": {
+        "description": "sentiment d'appartenance a un groupe",
+        "tags": [],
+        "translations": [
+            "appartenir",
+            "appartenance",
+            "integrer"
+        ],
+        "type": "simple noun"
+    },
+    "fae min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "contribuer",
+            "travailler"
+        ],
+        "type": "simple noun"
+    },
+    "fae na": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "groupe",
+            "societe",
+            "peuple"
+        ],
+        "type": "simple noun"
+    },
+    "fwc": {
+        "description": "",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "unsettling",
+            "irregulier",
+            "irregularite"
+        ]
+    },
+    "fwc hu": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "bosse",
+            "trou",
+            "creux",
+            "cassis",
+            "dos d'ane"
+        ],
+        "type": "simple noun"
+    },
+    "fwc lam": {
+        "description": "sentiment anormal, surprenant, inhabituel",
+        "tags": [],
+        "translations": [
+            "surprise",
+            "inhabituel",
+            "surprenant"
+        ],
+        "type": "simple noun"
+    },
+    "qispe fae kju fsei so myo": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "document collaboratif sur les langues"
+        ],
+        "type": "simple noun"
+    },
+    "fae kju": {
+        "description": "travailler ensemble",
+        "tags": [],
+        "translations": [
+            "collaborer",
+            "collaboratif"
+        ],
+        "type": "simple noun"
+    },
+    "tsaa": {
+        "description": "se sentir propre",
+        "tags": [],
+        "translations": [
+            "propre",
+            "doux"
+        ],
+        "type": "color"
+    },
+    "tsaa lam": {
+        "description": "se sentir propre, uniquement pour un humain",
+        "tags": [],
+        "translations": [
+            "propre",
+            "se laver"
+        ],
+        "type": "simple noun"
+    },
+    "tsaa si": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "douche"
+        ],
+        "type": "simple noun"
+    },
+    "phu": {
+        "description": "bien range",
+        "tags": [],
+        "translations": [
+            "rangement",
+            "propre",
+            "organise"
+        ],
+        "type": "color"
+    },
+    "phu lam": {
+        "description": "voir que quelque chose est bien range, bien oraganise",
+        "tags": [],
+        "translations": [
+            "bien range",
+            "bien organise",
+            "a l'aise"
+        ],
+        "type": "simple noun"
+    },
+    "phu kju": {
+        "description": "maniere de ranger, procedure de rangement",
+        "tags": [],
+        "translations": [
+            "oraganisation",
+            "rangement"
+        ],
+        "type": "simple noun"
+    },
+    "phu min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "rangement",
+            "nettoyage"
+        ],
+        "type": "simple noun"
+    },
+    "gwo": {
+        "description": "surface propre,on peut avoir contact avec sans salete",
+        "tags": [],
+        "translations": [
+            "propre",
+            "vierge"
+        ],
+        "type": "simple noun"
+    },
+    "gwo lp": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "surface propre"
+        ],
+        "type": "simple noun"
+    },
+    "gwo min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "nettoyage"
+        ],
+        "type": "simple noun"
+    },
+    "gwo sb": {
+        "description": "objet surface propre",
+        "tags": [],
+        "translations": [
+            "feuille vierge",
+            "mirroir"
+        ],
+        "type": "simple noun"
+    },
+    "qauh na": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "travailleur"
+        ]
+    },
+    "qauh": {
+        "description": "fatigue on veut pas mais on le fait quand meme",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "contraint"
+        ]
+    },
+    "qauh lam": {
+        "description": "forme de contrainte par les evenements",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "envie d'aller travailleur",
+            "flemme"
+        ]
+    },
+    "qjao na": {
+        "description": "avec connotation : ami avec qui on a eu des conversations profondes, bon amis",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "ami"
+        ]
+    },
+    "qjao": {
+        "description": "qui tourne autours des sentiments",
+        "type": "color",
+        "tags": [],
+        "translations": []
+    },
+    "qjao lam": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "a coeur ouvert"
+        ]
+    },
+    "kscbh na": {
+        "description": "concentre dans sa tache",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "travailleur",
+            "etudiant"
+        ]
+    },
+    "e_sju": {
+        "description": "",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "traditionnel",
+            "traditionnel nuksena"
+        ]
+    },
+    "e_sju so": {
+        "description": "histoire traditionnelle, conte",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "conte",
+            "recit",
+            "histoire"
+        ]
+    },
+    "hykti": {
+        "description": "contester",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "source de desaccord",
+            "conteste"
+        ]
+    },
+    "hykti min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "contestation",
+            "debat",
+            "desaccord"
+        ],
+        "type": "simple noun"
+    },
+    "hykti myo": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "desaccord"
+        ],
+        "type": "simple noun"
+    },
+    "hykti so": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "argument",
+            "preconiser",
+            "recommandations",
+            "demande"
+        ],
+        "type": "simple noun"
+    },
+    "hykti lam": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "dissonance",
+            "perturbe",
+            "pas d'accord",
+            "conflit"
+        ],
+        "type": "simple noun"
+    },
+    "hc": {
+        "description": "resultat du travail de quelqu'un qui a voulu faire plaisir",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "fait intentionnellement",
+            "intentionnel"
+        ]
+    },
+    "hc lam": {
+        "description": "vouloir faire plaisir",
+        "tags": [],
+        "translations": [
+            "vouloir faire plaisir",
+            "faire plaisir",
+            "aider"
+        ],
+        "type": "simple noun"
+    },
+    "hc na": {
+        "description": "vouloir faire plaisir",
+        "tags": [],
+        "translations": [
+            "ami",
+            "invite",
+            "donateur"
+        ],
+        "type": "simple noun"
+    },
+    "hc si": {
+        "description": "machine qui fonctionne",
+        "tags": [],
+        "translations": [
+            "en fonction",
+            "fonctionnant"
+        ],
+        "type": "simple noun"
+    },
+    "hc so": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "allume",
+            "en service"
+        ],
+        "type": "simple noun"
+    },
+    "dee so": {
+        "description": "ce a quoi on pense lorsqu'on est perdu dans ses pensees",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "dee si so": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "programme informatique"
+        ],
+        "type": "simple noun"
+    },
+    "tbw lam": {
+        "description": "anticipation d'un evenement amusant et stimulant",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "s'appreter",
+            "anticipation",
+            "excitation"
+        ]
+    },
+    "tjbo": {
+        "description": "s'habituer a de nouvelles conditions",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "qui s'habitue",
+            "qui s'accoutume"
+        ]
+    },
+    "tjbo lam": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "s'habituer",
+            "s'accoutumer",
+            "se sentir bizarre"
+        ],
+        "type": "simple noun"
+    },
+    "tbw sbn": {
+        "description": "",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "avoir un pied dans l'eau froide"
+        ]
+    },
+    "tbw": {
+        "description": "dans une situation inedite",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "inedit",
+            "nouveau",
+            "excitant"
+        ]
+    },
+    "tjbo sbn": {
+        "description": "s'habituer a une sensation,s'habituer",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "s'habituer",
+            "s'accoutumer",
+            "habituation"
+        ]
+    },
+    "nai": {
+        "description": "regretter d'avoir ete inefficace",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "inefficace",
+            "juge inefficace"
+        ]
+    },
+    "nai lam": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "se sentir inutile"
+        ],
+        "type": "simple noun"
+    },
+    "sbwab": {
+        "description": "provient d'une maladie",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "malade",
+            "faiblesse"
+        ]
+    },
+    "sbwab sbn": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "courbatures",
+            "douleurs",
+            "affliction",
+            "maladie"
+        ],
+        "type": "simple noun"
+    },
+    "denti": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "sonne",
+            "etourdi",
+            "trebuchant",
+            "desoriente"
+        ],
+        "type": "color"
+    },
+    "denti sbn": {
+        "description": "avoir mal a la tete",
+        "tags": [],
+        "translations": [
+            "migraine",
+            "mal de tete"
+        ],
+        "type": "simple noun"
+    },
+    "keun": {
+        "description": "lie a l'activite physique, au sport",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "intense",
+            "fatigue",
+            "eprouve",
+            "depense"
+        ]
+    },
+    "keun min": {
+        "description": "lie a l'activite physique, au sport",
+        "tags": [],
+        "translations": [
+            "se depenser",
+            "sport",
+            "sport intense"
+        ],
+        "type": "simple noun"
+    },
+    "keun sbn": {
+        "description": "lie a l'activite physique, au sport",
+        "tags": [],
+        "translations": [
+            "courbatures",
+            "fatigue",
+            "epuisement",
+            "eprouve"
+        ],
+        "type": "simple noun"
+    },
+    "nlu": {
+        "description": "laisser une forte impression amicale",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "impression amicale",
+            "marquer"
+        ]
+    },
+    "nlu na": {
+        "description": "personne sympathique, avec laquelle on a envie d'etre ami",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "nlu lam": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "apprecier",
+            "aimer"
+        ],
+        "type": "simple noun"
+    },
+    "leih": {
+        "description": "etre impressionne par les realisations de quelqu'un, respecter, les actions de quelqu'un plutot que l'objet qu'il a realise (voyager, construire une grande tour en lego, ...)",
+        "tags": [],
+        "translations": [
+            "impressionnant"
+        ],
+        "type": "color"
+    },
+    "leih lam": {
+        "description": "etre impressionne par les realisations de quelqu'un",
+        "tags": [],
+        "translations": [
+            "impressionne"
+        ],
+        "type": "simple noun"
+    },
+    "leih na": {
+        "description": "personne qui fait de sa vie quelque chose d'impressionnant",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "asien": {
+        "description": "realisation d'une personne impressionnante, impressionne par la realisation et par la personne",
+        "tags": [],
+        "translations": [
+            "impressionnant",
+            "complexe",
+            "original",
+            "intriguant"
+        ],
+        "type": "color"
+    },
+    "asien lam": {
+        "description": "realisation d'une personne impressionnante, impressionne par la realisation et par la personne",
+        "tags": [],
+        "translations": [
+            "intrigue",
+            "impressionne"
+        ],
+        "type": "simple noun"
+    },
+    "ki myo": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "dessin",
+            "image",
+            "video"
+        ],
+        "type": "simple noun"
+    },
+    "hei": {
+        "description": "satisfait du resultat, sans surprise",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "reussit",
+            "fonctionne"
+        ]
+    },
+    "hei lam": {
+        "description": "satisfait du resultat, sans surprise",
+        "tags": [],
+        "translations": [
+            "satisfait",
+            "reussit",
+            "fonctionne"
+        ],
+        "type": "simple noun"
+    },
+    "tscu lam": {
+        "description": "satisfait du resultat, on s'attendait a pire, soulagement",
+        "tags": [],
+        "translations": [
+            "satisfait",
+            "soulage",
+            "reussite"
+        ],
+        "type": "simple noun"
+    },
+    "wue": {
+        "description": "concentration pour la realisation d'une tache, tient a coeur a l'auteur",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "fait avec amour",
+            "fait avec attention",
+            "travaille",
+            "ouvrage"
+        ]
+    },
+    "wue teo": {
+        "description": "en general pour des artisans, ouvriers, et artistes",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "lieu de travail",
+            "atelier"
+        ]
+    },
+    "wue na": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "artisans"
+        ],
+        "type": "simple noun"
+    },
+    "sede": {
+        "description": "",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "constance",
+            "constant"
+        ]
+    },
+    "sede lam": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "routine",
+            "confort"
+        ],
+        "type": "simple noun"
+    },
+    "sede na": {
+        "description": "personne a laquelle on est habituee",
+        "tags": [],
+        "translations": [
+            "connaissance",
+            "coworker",
+            "proche"
+        ],
+        "type": "simple noun"
+    },
+    "sede min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "habituation"
+        ],
+        "type": "simple noun"
+    },
+    "fwi": {
+        "description": "comprendre un sentiment",
+        "type": "color",
+        "tags": [],
+        "translations": [
+            "comprehensible"
+        ]
+    },
+    "fwi lam": {
+        "description": "comprendre un sentiment",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "comprendre",
+            "comprehension"
+        ]
+    },
+    "fwi min": {
+        "description": "comprendre un sentiment",
+        "type": "simple noun",
+        "tags": [],
+        "translations": [
+            "comprendre",
+            "comprehension"
+        ]
+    },
+    "the": {
+        "description": "un objet qui se demarque, sentiment de surprise, attention portee",
+        "tags": [],
+        "translations": [
+            "remarque",
+            "vu",
+            "grille",
+            "observe"
+        ],
+        "type": "color"
+    },
+    "the lam": {
+        "description": "porter son attention sur quelque chose qui se demarque",
+        "tags": [],
+        "translations": [],
+        "type": "simple noun"
+    },
+    "the min": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "remarquer",
+            "voir",
+            "apercevoir"
+        ],
+        "type": "simple noun"
+    },
+    "the jus": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "yeux",
+            "radar",
+            "scanner"
+        ],
+        "type": "simple noun"
+    },
+    "the si": {
+        "description": "",
+        "tags": [],
+        "translations": [
+            "scanner",
+            "radar",
+            "intelligence artificielle",
+            "analyse"
+        ],
+        "type": "simple noun"
+    },
+    "suo": {
+        "description": "s'inquieter, evenement negatif attendu, on espere que ca ne se produise pas",
+        "tags": [],
+        "translations": [
+            "mauvais",
+            "indesirable",
+            "inquietant"
+        ],
+        "type": "color"
+    },
+    "suo lam": {
+        "description": "esperer que quelque chose ne se produise pas, s'inquieter, evenement negatif attendu, on espere que ca ne se produise pas",
+        "tags": [],
+        "translations": [
+            "peur",
+            "inquietude",
+            "regret",
+            "mefiance"
+        ],
+        "type": "simple noun"
+    },
+    "suo min": {
+        "description": "un evenement indesirable survient, on esperait qu'il n'arrive pas",
+        "tags": [],
+        "translations": [],
         "type": "simple noun"
     }
 }

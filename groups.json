@@ -1,0 +1,3946 @@
+{
+    "entries": [
+        {
+            "code": "spy",
+            "type": "color",
+            "label": ".spy\n('vide', 'absent', 'incompris')\nquelqu'un nous annonce qu'il \ny a quelque chose, \non ne le voit \npas, ou on ne \nle comprend pas ",
+            "words": []
+        },
+        {
+            "code": "ohaw",
+            "type": "color",
+            "label": ".ohaw\n('vide', 'absent')\ns'attendre a voir quelque \nchose, mais ne pas \nle voir. Vouloir que \nla chose soit la \npour poursuivre l'activite ",
+            "words": []
+        },
+        {
+            "code": "qav",
+            "type": "color",
+            "label": ".qav\n('stress', 'desespoir')\nperdre quelque chose, etre \ndesespere, et ne rien \nfaire ",
+            "words": []
+        },
+        {
+            "code": "fcwb",
+            "type": "color",
+            "label": ".fcwb\n('stress')\nperdre une chose importante \net chercher a tout \nprix un moyen de \nle recuperer -- ramener \na l'etat d'origine ",
+            "words": []
+        },
+        {
+            "code": "gy",
+            "type": "color",
+            "label": ".gy\n('froid', 'frais')",
+            "words": []
+        },
+        {
+            "code": "tbn",
+            "type": "color",
+            "label": ".tbn\n('bas', 'position relative')\ncomme kp, partie inferieure \nd'un objet ou d'une \nstructure ",
+            "words": []
+        },
+        {
+            "code": "mla_l",
+            "type": "color",
+            "label": ".mla_l\n('gratitude \"il est \ngentil\"', 'gratitude')",
+            "words": []
+        },
+        {
+            "code": "feh",
+            "type": "color",
+            "label": ".feh\n('9')",
+            "words": []
+        },
+        {
+            "code": "kvw",
+            "type": "color",
+            "label": ".kvw\n('8')",
+            "words": []
+        },
+        {
+            "code": "het",
+            "type": "color",
+            "label": ".het\n('7')",
+            "words": []
+        },
+        {
+            "code": "den",
+            "type": "color",
+            "label": ".den\n('6')",
+            "words": []
+        },
+        {
+            "code": "ul",
+            "type": "color",
+            "label": ".ul\n('5')",
+            "words": []
+        },
+        {
+            "code": "de",
+            "type": "color",
+            "label": ".de\n('4', 'quadruple')",
+            "words": []
+        },
+        {
+            "code": "khe",
+            "type": "color",
+            "label": ".khe\n('3', 'triple', 'triplet')",
+            "words": []
+        },
+        {
+            "code": "nb",
+            "type": "color",
+            "label": ".nb\n('unique', 'solo', '1')",
+            "words": []
+        },
+        {
+            "code": "(ko)",
+            "type": "color",
+            "label": ".(ko)\n('none', 'zero', '0')",
+            "words": []
+        },
+        {
+            "code": "te",
+            "type": "color",
+            "label": ".te\n('10')",
+            "words": []
+        },
+        {
+            "code": "fe",
+            "type": "color",
+            "label": ".fe\n('9')",
+            "words": []
+        },
+        {
+            "code": "tsi",
+            "type": "color",
+            "label": ".tsi\n('8')",
+            "words": []
+        },
+        {
+            "code": "ti",
+            "type": "color",
+            "label": ".ti\n('7')",
+            "words": []
+        },
+        {
+            "code": "qe",
+            "type": "color",
+            "label": ".qe\n('6')",
+            "words": []
+        },
+        {
+            "code": "(qa)",
+            "type": "color",
+            "label": ".(qa)\n('5')",
+            "words": []
+        },
+        {
+            "code": "qu",
+            "type": "color",
+            "label": ".qu\n('4', 'fourth', 'quatre')",
+            "words": []
+        },
+        {
+            "code": "kb",
+            "type": "color",
+            "label": ".kb\n('3', 'trois', 'three')",
+            "words": []
+        },
+        {
+            "code": "sa",
+            "type": "color",
+            "label": ".sa\n('2', 'two')",
+            "words": []
+        },
+        {
+            "code": "tb",
+            "type": "color",
+            "label": ".tb\n('1', 'one')",
+            "words": []
+        },
+        {
+            "code": "(to)",
+            "type": "color",
+            "label": ".(to)\n('0', 'zero')",
+            "words": []
+        },
+        {
+            "code": "(ja)",
+            "type": "color",
+            "label": ".(ja)\nprefixe numerateur pour nombres \ninverses ",
+            "words": []
+        },
+        {
+            "code": "(sb)",
+            "type": "color",
+            "label": ".(sb)\n('5th last', '5')",
+            "words": []
+        },
+        {
+            "code": "sa_",
+            "type": "color",
+            "label": ".sa_\n('4')",
+            "words": []
+        },
+        {
+            "code": "khe_",
+            "type": "color",
+            "label": ".khe_\n('3')",
+            "words": []
+        },
+        {
+            "code": "din",
+            "type": "color",
+            "label": ".din\n('2')",
+            "words": []
+        },
+        {
+            "code": "y",
+            "type": "color",
+            "label": ".y\n('last', '1')",
+            "words": []
+        },
+        {
+            "code": "(si)",
+            "type": "color",
+            "label": ".(si)\nprefixe numerateur pour nombres \ndisjonctifs ",
+            "words": []
+        },
+        {
+            "code": "dy",
+            "type": "color",
+            "label": ".dy\n('5th', '5')",
+            "words": []
+        },
+        {
+            "code": "djyn",
+            "type": "color",
+            "label": ".djyn\n('4th', 'fourth', '4', 'four')",
+            "words": []
+        },
+        {
+            "code": "kje",
+            "type": "color",
+            "label": ".kje\n('3rd', 'third', 'three', '3')",
+            "words": []
+        },
+        {
+            "code": "ta",
+            "type": "color",
+            "label": ".ta\n('2nd', 'second', 'two')",
+            "words": []
+        },
+        {
+            "code": "ki si",
+            "type": "class",
+            "label": ".ki si\n('ecran')",
+            "words": []
+        },
+        {
+            "code": "-vl",
+            "type": "class",
+            "label": ".-vl\n('incertain')\nincertain, joue le role \ndes guillemets dans le \ncontexte : j'ai un \n\"cheval\". = j'ai une \nespece de cheval. ",
+            "words": []
+        },
+        {
+            "code": "gp",
+            "type": "class",
+            "label": ".gp\nplaceholder, element quasiment tout \na fait indetermine, quoi \nque en general un \nobjet ",
+            "words": []
+        },
+        {
+            "code": "helo",
+            "type": "class",
+            "label": ".helo\nperiode de temps\r\n ",
+            "words": []
+        },
+        {
+            "code": "nyo",
+            "type": "class",
+            "label": ".nyo\ncollection d'informations structurees ",
+            "words": []
+        },
+        {
+            "code": "dli",
+            "type": "class",
+            "label": ".dli\n('bijoux', 'gravure', 'ouvrage', \n\"oeuvre d'art\")\nobjet qui a une \nstructure tres complexe ",
+            "words": []
+        },
+        {
+            "code": "lu",
+            "type": "class",
+            "label": ".lu\n('caracteristiques')",
+            "words": []
+        },
+        {
+            "code": "joj",
+            "type": "class",
+            "label": ".joj\n('fonction')",
+            "words": []
+        },
+        {
+            "code": "nu",
+            "type": "class",
+            "label": ".nu\n('all')",
+            "words": []
+        },
+        {
+            "code": "a",
+            "type": "class",
+            "label": ".a\n('peu')",
+            "words": []
+        },
+        {
+            "code": "nju",
+            "type": "class",
+            "label": ".nju\n('beaucoup')",
+            "words": []
+        },
+        {
+            "code": "fju",
+            "type": "class",
+            "label": ".fju\n('quantite ordinaire')",
+            "words": []
+        },
+        {
+            "code": "la",
+            "type": "class",
+            "label": ".la\n('demonstratif')",
+            "words": []
+        },
+        {
+            "code": "lo",
+            "type": "class",
+            "label": ".lo\n('autres')",
+            "words": []
+        },
+        {
+            "code": "(lo)",
+            "type": "class",
+            "label": ".(lo)\n('autres')",
+            "words": []
+        },
+        {
+            "code": "lai",
+            "type": "class",
+            "label": ".lai\n('il')",
+            "words": []
+        },
+        {
+            "code": "(la)",
+            "type": "class",
+            "label": ".(la)\n('il', 'elle')",
+            "words": []
+        },
+        {
+            "code": "(ta)",
+            "type": "class",
+            "label": ".(ta)\n('vous')",
+            "words": []
+        },
+        {
+            "code": "tai",
+            "type": "class",
+            "label": ".tai\n('tu')",
+            "words": []
+        },
+        {
+            "code": "e",
+            "type": "class",
+            "label": ".e\n('je')",
+            "words": []
+        },
+        {
+            "code": "-uo",
+            "type": "class",
+            "label": ".-uo",
+            "words": []
+        },
+        {
+            "code": "-u",
+            "type": "class",
+            "label": ".-u",
+            "words": []
+        },
+        {
+            "code": "-qe",
+            "type": "class",
+            "label": ".-qe",
+            "words": []
+        },
+        {
+            "code": "-qaj",
+            "type": "class",
+            "label": ".-qaj",
+            "words": []
+        },
+        {
+            "code": "qi",
+            "type": "class",
+            "label": ".qi",
+            "words": []
+        },
+        {
+            "code": "tso",
+            "type": "class",
+            "label": ".tso",
+            "words": []
+        },
+        {
+            "code": "ksa",
+            "type": "class",
+            "label": ".ksa",
+            "words": []
+        },
+        {
+            "code": "kto",
+            "type": "class",
+            "label": ".kto",
+            "words": []
+        },
+        {
+            "code": "to",
+            "type": "class",
+            "label": ".to",
+            "words": []
+        },
+        {
+            "code": "ka",
+            "type": "class",
+            "label": ".ka",
+            "words": []
+        },
+        {
+            "code": "kscbh",
+            "type": "color",
+            "label": "",
+            "words": [
+                {
+                    "code": "kscbh na",
+                    "label": ".kscbh na\n('travailleur', 'etudiant')\nconcentre dans sa tache "
+                }
+            ]
+        },
+        {
+            "code": "fsei",
+            "type": "color",
+            "label": "",
+            "words": [
+                {
+                    "code": "qispe fae kju fsei so myo",
+                    "label": ".qispe fae kju fsei so myo\n('document collaboratif sur \nles langues')"
+                }
+            ]
+        },
+        {
+            "code": "s",
+            "type": "color",
+            "label": "",
+            "words": [
+                {
+                    "code": "hae s na",
+                    "label": ".hae s na\n('cuisinier')"
+                }
+            ]
+        },
+        {
+            "code": "hei",
+            "type": "color",
+            "label": ".hei\n('reussit', 'fonctionne')\nsatisfait du resultat, sans \nsurprise ",
+            "words": [
+                {
+                    "code": "hei lam",
+                    "label": ".hei lam\n('satisfait', 'reussit', 'fonctionne')\nsatisfait du resultat, sans \nsurprise "
+                }
+            ]
+        },
+        {
+            "code": "asien",
+            "type": "color",
+            "label": ".asien\n('impressionnant', 'complexe', 'original', 'intriguant')\nrealisation d'une personne impressionnante, \nimpressionne par la realisation \net par la personne ",
+            "words": [
+                {
+                    "code": "asien lam",
+                    "label": ".asien lam\n('intrigue', 'impressionne')\nrealisation d'une personne impressionnante, \nimpressionne par la realisation \net par la personne "
+                }
+            ]
+        },
+        {
+            "code": "denti",
+            "type": "color",
+            "label": ".denti\n('sonne', 'etourdi', 'trebuchant', 'desoriente')",
+            "words": [
+                {
+                    "code": "denti sbn",
+                    "label": ".denti sbn\n('migraine', 'mal de tete')\navoir mal a la \ntete "
+                }
+            ]
+        },
+        {
+            "code": "sbwab",
+            "type": "color",
+            "label": ".sbwab\n('malade', 'faiblesse')\nprovient d'une maladie ",
+            "words": [
+                {
+                    "code": "sbwab sbn",
+                    "label": ".sbwab sbn\n('courbatures', 'douleurs', 'affliction', 'maladie')"
+                }
+            ]
+        },
+        {
+            "code": "nai",
+            "type": "color",
+            "label": ".nai\n('inefficace', 'juge inefficace')\nregretter d'avoir ete inefficace ",
+            "words": [
+                {
+                    "code": "nai lam",
+                    "label": ".nai lam\n('se sentir inutile')"
+                }
+            ]
+        },
+        {
+            "code": "e_sju",
+            "type": "color",
+            "label": ".e_sju\n('traditionnel', 'traditionnel nuksena')",
+            "words": [
+                {
+                    "code": "e_sju so",
+                    "label": ".e_sju so\n('conte', 'recit', 'histoire')\nhistoire traditionnelle, conte "
+                }
+            ]
+        },
+        {
+            "code": "netei",
+            "type": "color",
+            "label": ".netei\n('acheve', 'termine', 'accompli', 'satisfaisant')",
+            "words": [
+                {
+                    "code": "netei lam",
+                    "label": ".netei lam\n('content', 'soulagement', 'heureux')\nenfin! ouf! ouais! "
+                }
+            ]
+        },
+        {
+            "code": "daei",
+            "type": "color",
+            "label": ".daei\n('cherchant')\ndes, mais avec une \ncrainte plutot axee sur \nle fait de ne \nrien trouver (que sur \nla peur d'etre surpris) ",
+            "words": [
+                {
+                    "code": "daei min",
+                    "label": ".daei min\n('recherche')"
+                }
+            ]
+        },
+        {
+            "code": "twac",
+            "type": "color",
+            "label": ".twac\n('recherche', 'curieux', 'explorant')\nse balader dans un \ncoin \"parce que pourquoi \npas\", etre enthousiasme a \nl'idee de trouver quelque \nchose de nouveau. Valable \na l'abstrait pour la \nrecherche d'information sans s'attendre \na trouver un truc ",
+            "words": [
+                {
+                    "code": "twac min",
+                    "label": ".twac min\n('recherche')"
+                }
+            ]
+        },
+        {
+            "code": "scuo",
+            "type": "color",
+            "label": ".scuo\n('seul', 'solitaire')",
+            "words": [
+                {
+                    "code": "scuo tc",
+                    "label": ".scuo tc\n('vehicule individuel', 'voiture', 'moto')"
+                }
+            ]
+        },
+        {
+            "code": "sugen",
+            "type": "color",
+            "label": ".sugen\nsentiment de gratitude apres \n\"acquittement\" (de la part \nde celui qui s'acquitte \nde quelque chose) ",
+            "words": [
+                {
+                    "code": "sugen lam",
+                    "label": ".sugen lam\n('even', 'feeling even', \n'etre quitte', 'gratitude')\nsentiment de gratitude apres \n\"acquittement\" (de la part \nde celui qui s'acquitte \nde quelque chose) "
+                }
+            ]
+        },
+        {
+            "code": "sheup",
+            "type": "color",
+            "label": ".sheup\n('peur du conflit', 'conflit')\npeur qu'un conflit eclate \navec des parties externes \n(non nationales) (= conflit), \net des consequences sur \nl'integrite de la societe ",
+            "words": [
+                {
+                    "code": "sheup na",
+                    "label": ".sheup na\n('espion')"
+                }
+            ]
+        },
+        {
+            "code": "gen",
+            "type": "color",
+            "label": ".gen\n('reussit', 'satisfait', 'equilibre', 'fonctionner')\nsatisfait du resultat d'un \nprocessus d'equilibrage qui implique \ndes parametres instables a \nstabiliser. ",
+            "words": [
+                {
+                    "code": "gen lam",
+                    "label": ".gen lam\n('satisfait du parametrage', \n'reussir', 'satisfait')\nsatisfait du resultat d'un \nprocessus d'equilibrage qui implique \ndes parametres instables a \nstabiliser. "
+                }
+            ]
+        },
+        {
+            "code": "kp",
+            "type": "color",
+            "label": ".kp\n('haut', 'position relative')\npartie superieure d'un objet \nou d'une structure ",
+            "words": [
+                {
+                    "code": "kp fin",
+                    "label": ".kp fin\n('cheveux')"
+                }
+            ]
+        },
+        {
+            "code": "dawi",
+            "type": "color",
+            "label": ".dawi\n('laisser une impression \nmixte', 'marquer')",
+            "words": [
+                {
+                    "code": "dawi tek",
+                    "label": ".dawi tek\n('suffixe de positivite')"
+                }
+            ]
+        },
+        {
+            "code": "tsa",
+            "type": "color",
+            "label": ".tsa\n('paire', '2')",
+            "words": [
+                {
+                    "code": "tsa tek",
+                    "label": ".tsa tek\n('nom')"
+                }
+            ]
+        },
+        {
+            "code": "jo",
+            "type": "color",
+            "label": ".jo\n('1st', 'first', 'one')",
+            "words": [
+                {
+                    "code": "jo lam",
+                    "label": ".jo lam\n('se sentir en avance')"
+                }
+            ]
+        },
+        {
+            "code": "tal",
+            "type": "color",
+            "label": ".tal\n('rouge')",
+            "words": [
+                {
+                    "code": "tal ki",
+                    "label": ".tal ki\n('rouge')"
+                }
+            ]
+        },
+        {
+            "code": "fsu",
+            "type": "color",
+            "label": ".fsu\navoir l'impression de perdre \nson temps en participant \na une activite ",
+            "words": [
+                {
+                    "code": "fsu lam",
+                    "label": ".fsu lam\n('ennui')"
+                }
+            ]
+        },
+        {
+            "code": "tet",
+            "type": "class",
+            "label": ".tet\n('irregulier')\nartefact sur une regularite ",
+            "words": [
+                {
+                    "code": "eli tet",
+                    "label": ".eli tet\n(\"flaque d'eau\", 'flaque')"
+                }
+            ]
+        },
+        {
+            "code": "sije_",
+            "type": "class",
+            "label": ".sije_\n('perime', 'non-potable')\ntoute boisson jugee inbuvable, \nnon potable, toxique, perimee ",
+            "words": [
+                {
+                    "code": "eli sije_",
+                    "label": ".eli sije_\n('eau croupie')"
+                }
+            ]
+        },
+        {
+            "code": "get",
+            "type": "class",
+            "label": ".get\n('spoiled food')\nspoiled -- not yet \nedible food ",
+            "words": [
+                {
+                    "code": "leeso get",
+                    "label": ".leeso get"
+                }
+            ]
+        },
+        {
+            "code": "ksen",
+            "type": "class",
+            "label": ".ksen\nstructure d'elements constitutifs organises \nde maniere a ce \nqu'une logique soit perceptible \nen l'observant de loin, \ndans son ensemble, sans \nnecessairement remarquer les petits \ndetails (tas de pierre, \noeuvre d'art a grande \nechelle, amenagements de jardin) ",
+            "words": [
+                {
+                    "code": "njyewe ksen",
+                    "label": ".njyewe ksen\n('skyline')"
+                }
+            ]
+        },
+        {
+            "code": "gv",
+            "type": "class",
+            "label": ".gv\n('procedure', 'plan', 'methode', 'technique')",
+            "words": [
+                {
+                    "code": "nei gv",
+                    "label": ".nei gv\n('evitement', \"strategie d'evitement\")"
+                }
+            ]
+        },
+        {
+            "code": "qa",
+            "type": "class",
+            "label": ".qa\n('pensee')",
+            "words": [
+                {
+                    "code": "qa tek",
+                    "label": ".qa tek\n('suffixe \"temporel\"')"
+                }
+            ]
+        },
+        {
+            "code": "scy",
+            "type": "color",
+            "label": "",
+            "words": [
+                {
+                    "code": "nas scy",
+                    "label": ".nas scy\n('oranges')"
+                },
+                {
+                    "code": "scy",
+                    "label": ".scy\n('nourriture')\nnourriture acide, tres juteuse \nou froide : fruits, \nlegumes, glaces "
+                }
+            ]
+        },
+        {
+            "code": "f",
+            "type": "color",
+            "label": "",
+            "words": [
+                {
+                    "code": "ki f jus",
+                    "label": ".ki f jus\n('yeux', 'oeil')"
+                },
+                {
+                    "code": "jea f so",
+                    "label": ".jea f so\n(\"demander de l'aide\")"
+                }
+            ]
+        },
+        {
+            "code": "suo",
+            "type": "color",
+            "label": ".suo\n('mauvais', 'indesirable', 'inquietant')\ns'inquieter, evenement negatif attendu, \non espere que ca \nne se produise pas ",
+            "words": [
+                {
+                    "code": "suo lam",
+                    "label": ".suo lam\n('peur', 'inquietude', 'regret', 'mefiance')\nesperer que quelque chose \nne se produise pas, \ns'inquieter, evenement negatif attendu, \non espere que ca \nne se produise pas "
+                },
+                {
+                    "code": "suo min",
+                    "label": ".suo min\nun evenement indesirable survient, \non esperait qu'il n'arrive \npas "
+                }
+            ]
+        },
+        {
+            "code": "fwi",
+            "type": "color",
+            "label": ".fwi\n('comprehensible')\ncomprendre un sentiment ",
+            "words": [
+                {
+                    "code": "fwi lam",
+                    "label": ".fwi lam\n('comprendre', 'comprehension')\ncomprendre un sentiment "
+                },
+                {
+                    "code": "fwi min",
+                    "label": ".fwi min\n('comprendre', 'comprehension')\ncomprendre un sentiment "
+                }
+            ]
+        },
+        {
+            "code": "wue",
+            "type": "color",
+            "label": ".wue\n('fait avec amour', \n'fait avec attention', \n'travaille', 'ouvrage')\nconcentration pour la realisation \nd'une tache, tient a \ncoeur a l'auteur ",
+            "words": [
+                {
+                    "code": "wue teo",
+                    "label": ".wue teo\n('lieu de travail', 'atelier')\nen general pour des \nartisans, ouvriers, et artistes "
+                },
+                {
+                    "code": "wue na",
+                    "label": ".wue na\n('artisans')"
+                }
+            ]
+        },
+        {
+            "code": "leih",
+            "type": "color",
+            "label": ".leih\n('impressionnant')\netre impressionne par les \nrealisations de quelqu'un, respecter, \nles actions de quelqu'un \nplutot que l'objet qu'il \na realise (voyager, construire \nune grande tour en \nlego, ...) ",
+            "words": [
+                {
+                    "code": "leih lam",
+                    "label": ".leih lam\n('impressionne')\netre impressionne par les \nrealisations de quelqu'un "
+                },
+                {
+                    "code": "leih na",
+                    "label": ".leih na\npersonne qui fait de \nsa vie quelque chose \nd'impressionnant "
+                }
+            ]
+        },
+        {
+            "code": "keun",
+            "type": "color",
+            "label": ".keun\n('intense', 'fatigue', 'eprouve', 'depense')\nlie a l'activite physique, \nau sport ",
+            "words": [
+                {
+                    "code": "keun min",
+                    "label": ".keun min\n('se depenser', 'sport', \n'sport intense')\nlie a l'activite physique, \nau sport "
+                },
+                {
+                    "code": "keun sbn",
+                    "label": ".keun sbn\n('courbatures', 'fatigue', 'epuisement', 'eprouve')\nlie a l'activite physique, \nau sport "
+                }
+            ]
+        },
+        {
+            "code": "tbw",
+            "type": "color",
+            "label": ".tbw\n('inedit', 'nouveau', 'excitant')\ndans une situation inedite ",
+            "words": [
+                {
+                    "code": "tbw lam",
+                    "label": ".tbw lam\n(\"s'appreter\", 'anticipation', 'excitation')\nanticipation d'un evenement amusant \net stimulant "
+                },
+                {
+                    "code": "tbw sbn",
+                    "label": ".tbw sbn\n(\"avoir un pied \ndans l'eau froide\")"
+                }
+            ]
+        },
+        {
+            "code": "tjbo",
+            "type": "color",
+            "label": ".tjbo\n(\"qui s'habitue\", \"qui s'accoutume\")\ns'habituer a de nouvelles \nconditions ",
+            "words": [
+                {
+                    "code": "tjbo lam",
+                    "label": ".tjbo lam\n(\"s'habituer\", \"s'accoutumer\", 'se \nsentir bizarre')"
+                },
+                {
+                    "code": "tjbo sbn",
+                    "label": ".tjbo sbn\n(\"s'habituer\", \"s'accoutumer\", 'habituation')\ns'habituer a une sensation,s'habituer "
+                }
+            ]
+        },
+        {
+            "code": "qjao",
+            "type": "color",
+            "label": ".qjao\nqui tourne autours des \nsentiments ",
+            "words": [
+                {
+                    "code": "qjao na",
+                    "label": ".qjao na\n('ami')\navec connotation : ami \navec qui on a \neu des conversations profondes, \nbon amis "
+                },
+                {
+                    "code": "qjao lam",
+                    "label": ".qjao lam\n('a coeur ouvert')"
+                }
+            ]
+        },
+        {
+            "code": "qauh",
+            "type": "color",
+            "label": ".qauh\n('contraint')\nfatigue on veut pas \nmais on le fait \nquand meme ",
+            "words": [
+                {
+                    "code": "qauh na",
+                    "label": ".qauh na\n('travailleur')"
+                },
+                {
+                    "code": "qauh lam",
+                    "label": ".qauh lam\n(\"envie d'aller travailleur\", 'flemme')\nforme de contrainte par \nles evenements "
+                }
+            ]
+        },
+        {
+            "code": "tsaa",
+            "type": "color",
+            "label": ".tsaa\n('propre', 'doux')\nse sentir propre ",
+            "words": [
+                {
+                    "code": "tsaa lam",
+                    "label": ".tsaa lam\n('propre', 'se laver')\nse sentir propre, uniquement \npour un humain "
+                },
+                {
+                    "code": "tsaa si",
+                    "label": ".tsaa si\n('douche')"
+                }
+            ]
+        },
+        {
+            "code": "fwc",
+            "type": "color",
+            "label": ".fwc\n('unsettling', 'irregulier', 'irregularite')",
+            "words": [
+                {
+                    "code": "fwc hu",
+                    "label": ".fwc hu\n('bosse', 'trou', 'creux', \n'cassis', \"dos d'ane\")"
+                },
+                {
+                    "code": "fwc lam",
+                    "label": ".fwc lam\n('surprise', 'inhabituel', 'surprenant')\nsentiment anormal, surprenant, inhabituel "
+                }
+            ]
+        },
+        {
+            "code": "dahe",
+            "type": "color",
+            "label": ".dahe\n('panique', 'alerte', 'recherche')\nperdu quelque chose, recherche \npaniquee pour le retrouver, \nvouloir le retrouver a \ntout prix ",
+            "words": [
+                {
+                    "code": "dahe min",
+                    "label": ".dahe min\n('recherche', 'panique')"
+                },
+                {
+                    "code": "dahe lam",
+                    "label": ".dahe lam\n('panique', 'stress')\nperdu quelque chose, recherche \npaniquee pour le retrouver, \nvouloir le retrouver a \ntout prix "
+                }
+            ]
+        },
+        {
+            "code": "des",
+            "type": "color",
+            "label": ".des\n('alerte', 'alerte (amusement)', \n'explorateur', 'curieux')\npeur de se faire \nsurprendre en cherchant quelqu'un \nau cache cache -- \ns'attendre a voir quelqu'un \na un moment donne ",
+            "words": [
+                {
+                    "code": "des min",
+                    "label": ".des min\n('recherche')"
+                },
+                {
+                    "code": "des lam",
+                    "label": ".des lam\npeur de se faire \nsurprendre en cherchant quelqu'un \nau cache cache -- \ns'attendre a voir quelqu'un "
+                }
+            ]
+        },
+        {
+            "code": "juck",
+            "type": "color",
+            "label": ".juck\n('stress')\nstress a l'idee de \nparaitre en publique pour \nchanter ",
+            "words": [
+                {
+                    "code": "juck na",
+                    "label": ".juck na\n('chanteur')\nconnotation de chanteur debutant \nou chanteur connu qui \navoue publiquement avoir le \ntrac "
+                },
+                {
+                    "code": "juck lam",
+                    "label": ".juck lam\n('trac')\navoir le trac "
+                }
+            ]
+        },
+        {
+            "code": "ukto",
+            "type": "color",
+            "label": ".ukto\n('integrer')\ninteragir avec un systeme \norganise par des personnes \nd'une societe (systeme auquel \non est habitue, pas \ndecouverte (il y a \nun autre mot pour \nca)) ",
+            "words": [
+                {
+                    "code": "ukto jus",
+                    "label": ".ukto jus\n('portable', 'smartphone', 'telephone portable')"
+                },
+                {
+                    "code": "ukto na",
+                    "label": ".ukto na\n('administration')"
+                }
+            ]
+        },
+        {
+            "code": "ejwe_",
+            "type": "color",
+            "label": ".ejwe_\nchanter, s'exprimer, dans le \nflow. Etre a fond \ndedans ",
+            "words": [
+                {
+                    "code": "ejwe_ na",
+                    "label": ".ejwe_ na\n('chanteur')"
+                },
+                {
+                    "code": "ejwe_ lam",
+                    "label": ".ejwe_ lam\n('concentration', 'immertion')\netre a fond dans \nce qu'on fait, etre \nimmerge "
+                }
+            ]
+        },
+        {
+            "code": "tscu",
+            "type": "color",
+            "label": ".tscu\n('reussite', 'fonctionner')\nsatisfait du resultat alors \nqu'on s'attendait a pire ",
+            "words": [
+                {
+                    "code": "tscu min",
+                    "label": ".tscu min\n('reussir', 'reussit', 'plutot reussir')"
+                },
+                {
+                    "code": "tscu lam",
+                    "label": ".tscu lam\n('satisfait', 'soulage', 'reussite')\nsatisfait du resultat, on \ns'attendait a pire, soulagement "
+                }
+            ]
+        },
+        {
+            "code": "aisi",
+            "type": "color",
+            "label": ".aisi\netre dans le flow \nde la musique, ecouter \net apprecier, analyser ou \nsuivre le rythme ",
+            "words": [
+                {
+                    "code": "aisi so",
+                    "label": ".aisi so\n('chanson', 'musique')\ninsiste sur l'aspect \"semantique\" \ndu morceau, il est \nporteur de sens "
+                },
+                {
+                    "code": "aisi sai",
+                    "label": ".aisi sai\n('musique', 'chanson')"
+                }
+            ]
+        },
+        {
+            "code": "hewa",
+            "type": "color",
+            "label": ".hewa\n('incoherent')\nune information qu'on vient \nde me donner me \nperturbe dans le sens \nou elle est incoherente, \nou ne fait pas \nsens dans ma vision \ndu monde ",
+            "words": [
+                {
+                    "code": "hewa so",
+                    "label": ".hewa so\n('contestation')\nargumentation -- contestation d'un \nstatement "
+                },
+                {
+                    "code": "hewa lam",
+                    "label": ".hewa lam\n(\"ne pas etre d'accord\")\npenser que ce qui \na ete affirme est \nfactuellement faux "
+                }
+            ]
+        },
+        {
+            "code": "cine",
+            "type": "color",
+            "label": ".cine\n('fierte')\nsentiment de fierte envers \nune nation, un groupe \nde personnes organise d'envergure \nmajeure et reconnue ",
+            "words": [
+                {
+                    "code": "cine na",
+                    "label": ".cine na\n('peuple')"
+                },
+                {
+                    "code": "cine so",
+                    "label": ".cine so\n('histoire')\nhistoire des nuksena "
+                }
+            ]
+        },
+        {
+            "code": "njyewe",
+            "type": "color",
+            "label": ".njyewe\n('contempler')\nassis sur un lit, \nau bord d'une falaise, \navec vue sur la \nville ",
+            "words": [
+                {
+                    "code": "njyewe ksen",
+                    "label": ".njyewe ksen\n('skyline')"
+                },
+                {
+                    "code": "njyewe lp",
+                    "label": ".njyewe lp\n('aire urbaine')"
+                }
+            ]
+        },
+        {
+            "code": "daat",
+            "type": "color",
+            "label": ".daat\n('content de sa \nsituation', \"enfin a \nl'ombre\", 'leger soulagement')\netre enfin a l'ombre \nd'un arbre aux larges \nfeuilles alors que le \nsoleil tape fort ",
+            "words": [
+                {
+                    "code": "daat fin",
+                    "label": ".daat fin\n('branches')\nbranches d'un arbre specifique "
+                },
+                {
+                    "code": "daat teo",
+                    "label": ".daat teo\n('arbre')"
+                }
+            ]
+        },
+        {
+            "code": "nci",
+            "type": "color",
+            "label": ".nci\n('cyan')",
+            "words": [
+                {
+                    "code": "nci lp",
+                    "label": ".nci lp\n('ciel')"
+                },
+                {
+                    "code": "nci teo",
+                    "label": ".nci teo\n('haut', 'dessus', 'etage', \n'salle cyan')\npartie horizontalement superieure, la \nplus proche du ciel "
+                }
+            ]
+        },
+        {
+            "code": "netku",
+            "type": "color",
+            "label": ".netku\n('tranquille', 'en plein air')\nchauffer au soleil, se \nprelasser ",
+            "words": [
+                {
+                    "code": "netku min",
+                    "label": ".netku min\n('journee', 'jour', 'beau temps')\nensoleillement, periode de la \njournee "
+                },
+                {
+                    "code": "netku lp",
+                    "label": ".netku lp\n('terrasse', 'plage')"
+                }
+            ]
+        },
+        {
+            "code": "sflu",
+            "type": "color",
+            "label": ".sflu\n('plouf')",
+            "words": [
+                {
+                    "code": "sflu na",
+                    "label": ".sflu na\n('poisson')"
+                },
+                {
+                    "code": "sflu sai",
+                    "label": ".sflu sai\n('plouf')"
+                }
+            ]
+        },
+        {
+            "code": "sei",
+            "type": "color",
+            "label": ".sei\n('bavard', 'parlant')",
+            "words": [
+                {
+                    "code": "sei so",
+                    "label": ".sei so\n('parler', 'mots', 'phrase')\nquelque chose qui a \nete dit. C'est aussi \nle nom de la \nlangue. "
+                },
+                {
+                    "code": "sei lam",
+                    "label": ".sei lam"
+                }
+            ]
+        },
+        {
+            "code": "njb",
+            "type": "class",
+            "label": ".njb\n('partout autours')\nphenomene de grande ampleur, \nmodification environnementale qui affecte \n(physiquement) les personnes ",
+            "words": [
+                {
+                    "code": "eli njb",
+                    "label": ".eli njb\n('pluie', 'eclaboussure')"
+                },
+                {
+                    "code": "thi njb",
+                    "label": ".thi njb\n('soleil', 'jour', 'journee')"
+                }
+            ]
+        },
+        {
+            "code": "tei",
+            "type": "class",
+            "label": ".tei\nelement qui se demarque \net qui peut servir \nde support ",
+            "words": [
+                {
+                    "code": "hae tei",
+                    "label": ".hae tei\n('table', 'chaise')"
+                },
+                {
+                    "code": "nukse tei",
+                    "label": ".nukse tei\n('chaise', 'chaise longue', 'transat')"
+                }
+            ]
+        },
+        {
+            "code": "tjo",
+            "type": "class",
+            "label": ".tjo\n('part', 'morceau', 'fragment')\nportion de quelque chose \nqui a ete segmente \nmais conserve l'essentiel de \nses proprietes ",
+            "words": [
+                {
+                    "code": "yfan ga tjo",
+                    "label": ".yfan ga tjo\n('part de gateau')"
+                },
+                {
+                    "code": "yfan tjo",
+                    "label": ".yfan tjo\n('part de gateau')"
+                }
+            ]
+        },
+        {
+            "code": "qubn",
+            "type": "class",
+            "label": ".qubn\n('lieu')\nlieu ou se deroule \nun evenement, delimite par \nla portee de l'evenement \n(peut etre en exterieur, \nles gens peuvent se \ndeplacer dans un certain \nrayon pour poursuivre l'activite) ",
+            "words": [
+                {
+                    "code": "kwah qubn",
+                    "label": ".kwah qubn\n('soiree', 'soiree a \nciel ouvert')\nsoirees parking, fetes en \nexterieur "
+                },
+                {
+                    "code": "hat qubn",
+                    "label": ".hat qubn\n('concert', 'spectacle')\nconcert a ciel ouvert, \nsalle de concert semi \ncouverte "
+                }
+            ]
+        },
+        {
+            "code": "lu_",
+            "type": "class",
+            "label": ".lu_\n('trou')\nelement qui n'est pas \ndeplacable, dans lequel on \npeut inserer des trucs ",
+            "words": [
+                {
+                    "code": "tas lu_",
+                    "label": ".tas lu_\n('vortex')"
+                },
+                {
+                    "code": "tas tc lu_",
+                    "label": ".tas tc lu_\n('trou dans la coque')"
+                }
+            ]
+        },
+        {
+            "code": "sem",
+            "type": "class",
+            "label": ".sem\n('intention')",
+            "words": [
+                {
+                    "code": "hae sem",
+                    "label": ".hae sem\n('cuisiner', 'faire a \nmanger', 'aller chasser')"
+                },
+                {
+                    "code": "nea sem",
+                    "label": ".nea sem\n('fatigue', 'aller dormir')"
+                }
+            ]
+        },
+        {
+            "code": "tao",
+            "type": "class",
+            "label": ".tao\n('territoire', 'pays', 'region', 'lieu')",
+            "words": [
+                {
+                    "code": "jubn tao",
+                    "label": ".jubn tao\n('ville de residence', 'patrie')"
+                },
+                {
+                    "code": "juebn tao",
+                    "label": ".juebn tao\n('ville natale', \"pays d'origine\")"
+                }
+            ]
+        },
+        {
+            "code": "slui",
+            "type": "class",
+            "label": ".slui\n('potable', 'liquide')\nliquide buvable, source de \nliquide potable ",
+            "words": [
+                {
+                    "code": "eli slui",
+                    "label": ".eli slui\n('eau', 'boisson', 'verre')\neau \u00e0 boire, verre \nd'eau "
+                },
+                {
+                    "code": "sja slui",
+                    "label": ".sja slui\n('jus de fruits', 'boisson')\njus de fruits, boissons \nsucrees... "
+                }
+            ]
+        },
+        {
+            "code": "fjp",
+            "type": "class",
+            "label": ".fjp\n('valeur')\nvaleur abstraite, donnee d'evaluation, \nde placement sur echelle, \nsur relation ",
+            "words": [
+                {
+                    "code": "gebq fjp",
+                    "label": ".gebq fjp\n('benefice', 'gain')"
+                },
+                {
+                    "code": "fjp tek",
+                    "label": ".fjp tek\n('chiffre', 'nombre')"
+                }
+            ]
+        },
+        {
+            "code": "nlu",
+            "type": "color",
+            "label": "",
+            "words": [
+                {
+                    "code": "nlu",
+                    "label": ".nlu\n('impression amicale', 'marquer')\nlaisser une forte impression \namicale "
+                },
+                {
+                    "code": "nlu na",
+                    "label": ".nlu na\npersonne sympathique, avec laquelle \non a envie d'etre \nami "
+                },
+                {
+                    "code": "nlu lam",
+                    "label": ".nlu lam\n('apprecier', 'aimer')"
+                }
+            ]
+        },
+        {
+            "code": "myo",
+            "type": "color",
+            "label": "",
+            "words": [
+                {
+                    "code": "qispe fae kju fsei so myo",
+                    "label": ".qispe fae kju fsei so myo\n('document collaboratif sur \nles langues')"
+                },
+                {
+                    "code": "hykti myo",
+                    "label": ".hykti myo\n('desaccord')"
+                },
+                {
+                    "code": "ki myo",
+                    "label": ".ki myo\n('dessin', 'image', 'video')"
+                }
+            ]
+        },
+        {
+            "code": "sede",
+            "type": "color",
+            "label": ".sede\n('constance', 'constant')",
+            "words": [
+                {
+                    "code": "sede lam",
+                    "label": ".sede lam\n('routine', 'confort')"
+                },
+                {
+                    "code": "sede na",
+                    "label": ".sede na\n('connaissance', 'coworker', 'proche')\npersonne a laquelle on \nest habituee "
+                },
+                {
+                    "code": "sede min",
+                    "label": ".sede min\n('habituation')"
+                }
+            ]
+        },
+        {
+            "code": "phu",
+            "type": "color",
+            "label": ".phu\n('rangement', 'propre', 'organise')\nbien range ",
+            "words": [
+                {
+                    "code": "phu lam",
+                    "label": ".phu lam\n('bien range', 'bien \norganise', \"a l'aise\")\nvoir que quelque chose \nest bien range, bien \noraganise "
+                },
+                {
+                    "code": "phu kju",
+                    "label": ".phu kju\n('oraganisation', 'rangement')\nmaniere de ranger, procedure \nde rangement "
+                },
+                {
+                    "code": "phu min",
+                    "label": ".phu min\n('rangement', 'nettoyage')"
+                }
+            ]
+        },
+        {
+            "code": "fuh",
+            "type": "color",
+            "label": ".fuh\n('sombre')\nangoisse liee a l'obscurite, \nlegere paranoia a l'idee \nde se faire attaquer ",
+            "words": [
+                {
+                    "code": "fuh lam",
+                    "label": ".fuh lam\n('angoisse', 'peur', 'paranoia')\nangoisse liee a l'obscurite, \nlegere paranoia a l'idee \nde se faire attaquer "
+                },
+                {
+                    "code": "fuh ki",
+                    "label": ".fuh ki\n('obscurite', 'sombre', 'noir')"
+                },
+                {
+                    "code": "fuh min",
+                    "label": ".fuh min\n('nuit')"
+                }
+            ]
+        },
+        {
+            "code": "fsah",
+            "type": "color",
+            "label": ".fsah\npetit et attache a \nune surface ",
+            "words": [
+                {
+                    "code": "fsah lp",
+                    "label": ".fsah lp\n('prairie')"
+                },
+                {
+                    "code": "fsah sbn",
+                    "label": ".fsah sbn\n('doux')"
+                },
+                {
+                    "code": "fsah fin",
+                    "label": ".fsah fin\n('poils', 'laine', 'tissu')"
+                }
+            ]
+        },
+        {
+            "code": "kwah",
+            "type": "color",
+            "label": ".kwah\nagite par le rythme \nde la musique, suivre \nle rythme et etre \nengage dedans ",
+            "words": [
+                {
+                    "code": "kwah sai",
+                    "label": ".kwah sai\n('musique', 'chanson', 'concert')"
+                },
+                {
+                    "code": "kwah teo",
+                    "label": ".kwah teo\n('salle de concert \nactive', 'boite de \nnuit', 'soiree')"
+                },
+                {
+                    "code": "kwah qubn",
+                    "label": ".kwah qubn\n('soiree', 'soiree a \nciel ouvert')\nsoirees parking, fetes en \nexterieur "
+                }
+            ]
+        },
+        {
+            "code": "deh",
+            "type": "color",
+            "label": ".deh\nrugeux et qui s'effrite \nen poudre au contact ",
+            "words": [
+                {
+                    "code": "deh lp",
+                    "label": ".deh lp\n('roche', 'bitume')"
+                },
+                {
+                    "code": "deh sb",
+                    "label": ".deh sb\n('pierre')"
+                },
+                {
+                    "code": "deh sak",
+                    "label": ".deh sak\n('poussiere')\npoussiere d'origine rocheuse, exterieure "
+                }
+            ]
+        },
+        {
+            "code": "nise",
+            "type": "color",
+            "label": ".nise\n(\"travail d'equipe\", 'groupe')\nsatisfaction du travail d'equipe ",
+            "words": [
+                {
+                    "code": "nise lam",
+                    "label": ".nise lam\n(\"travail d'equipe\", 'cooperation', 'groupe')\nse sentir dans un \ngroupe de travail qui \navance efficacement, se sentir \ncoordonne avec les autres "
+                },
+                {
+                    "code": "nise na",
+                    "label": ".nise na\n('equipier', 'vendeur', 'equipe', 'groupe')"
+                },
+                {
+                    "code": "nise ko",
+                    "label": ".nise ko\n('equipe', 'groupe')\nl'equipe consideree comme partie \nd'un systeme d'equipes (entreprise, \nusine, sport...) "
+                }
+            ]
+        },
+        {
+            "code": "juebn",
+            "type": "color",
+            "label": ".juebn\n('nostalgie')\nse sentir chez soi, \ncouple a de la \nnostalgie : ce qui \nnous faisais nous sentir \nchez nous par le \npasse (maison d'enfance, village...) ",
+            "words": [
+                {
+                    "code": "juebn teo",
+                    "label": ".juebn teo\n('maison', 'appartement', 'maison \nde son enfance')"
+                },
+                {
+                    "code": "juebn tao",
+                    "label": ".juebn tao\n('ville natale', \"pays d'origine\")"
+                },
+                {
+                    "code": "juebn na",
+                    "label": ".juebn na\n('parents', 'papa', 'maman')\nApres avoir quitte la \nmaison "
+                }
+            ]
+        },
+        {
+            "code": "jubn",
+            "type": "color",
+            "label": ".jubn\nse sentir chez soi ",
+            "words": [
+                {
+                    "code": "jubn teo",
+                    "label": ".jubn teo\n('logement', 'maison', 'appartement', \n'chez soi')"
+                },
+                {
+                    "code": "jubn tao",
+                    "label": ".jubn tao\n('ville de residence', 'patrie')"
+                },
+                {
+                    "code": "jubn na",
+                    "label": ".jubn na\n('parents', 'freres', 'soeurs', 'colocataires')\npersonnes avec lesquelles on \nvit, parents si on \nvit avec eux, conjoints, \nfreres soeurs, invites permanents, \ncolocataires longue duree... "
+                }
+            ]
+        },
+        {
+            "code": "dee",
+            "type": "color",
+            "label": ".dee\n('etre perdu dans \nses pensees')",
+            "words": [
+                {
+                    "code": "dee si",
+                    "label": ".dee si\n('machine en fonction', \n'active', 'calcul', 'programme')"
+                },
+                {
+                    "code": "dee so",
+                    "label": ".dee so\nce a quoi on \npense lorsqu'on est perdu \ndans ses pensees "
+                },
+                {
+                    "code": "dee si so",
+                    "label": ".dee si so\n('programme informatique')"
+                }
+            ]
+        },
+        {
+            "code": "thi",
+            "type": "color",
+            "label": ".thi\n('chaud', 'tiede')",
+            "words": [
+                {
+                    "code": "thi sbn",
+                    "label": ".thi sbn\n('chaleur')"
+                },
+                {
+                    "code": "thi njb",
+                    "label": ".thi njb\n('soleil', 'jour', 'journee')"
+                },
+                {
+                    "code": "thi min",
+                    "label": ".thi min\n('jour', 'journee')"
+                }
+            ]
+        },
+        {
+            "code": "djee",
+            "type": "color",
+            "label": ".djee\n('planifier')\nessayer de faire quelque \nchose, avoir quelque chose \nde planifie et s'y \nmettre ",
+            "words": [
+                {
+                    "code": "djee min",
+                    "label": ".djee min\n('jour', 'journee')"
+                },
+                {
+                    "code": "djee so",
+                    "label": ".djee so\n('plan', 'instructions', 'projet')\nchose qu'on a envie \nde faire ou qu'on \nprevoit pour la journee "
+                },
+                {
+                    "code": "djee lam",
+                    "label": ".djee lam\n('motivation')\nenvie de faire un \ntache planifiee sur une \njournee ou moins "
+                }
+            ]
+        },
+        {
+            "code": "qwbn",
+            "type": "color",
+            "label": ".qwbn\n('tranquille')\nse sentir flotter, nager \nlentement ou rester inerte, \nregarder un paysage comme \nle ciel ou le \nfond de l'eau ",
+            "words": [
+                {
+                    "code": "qwbn ga",
+                    "label": ".qwbn ga\n('poisson')"
+                },
+                {
+                    "code": "qwbn na",
+                    "label": ".qwbn na\n('poisson')"
+                },
+                {
+                    "code": "qwbn lam",
+                    "label": ".qwbn lam\n('tranquille')\nse sentir flotter, nager \nlentement ou rester inerte, \nregarder un paysage comme \nle ciel ou le \nfond de l'eau "
+                }
+            ]
+        },
+        {
+            "code": "tsis",
+            "type": "color",
+            "label": ".tsis\n('granuleux', 'poudreux', 'sable')\nsentir les grains de \nsable sur sa peau ",
+            "words": [
+                {
+                    "code": "tsis sak",
+                    "label": ".tsis sak\n('sable', 'poussiere')"
+                },
+                {
+                    "code": "tsis lp",
+                    "label": ".tsis lp\n('plage', 'sable')"
+                },
+                {
+                    "code": "tsis hu",
+                    "label": ".tsis hu\n('rayures')\nmarques d'abrasement, marques dues \na du frottement "
+                }
+            ]
+        },
+        {
+            "code": "nas",
+            "type": "color",
+            "label": ".nas\n('orange')",
+            "words": [
+                {
+                    "code": "nas ki",
+                    "label": ".nas ki\n('orange')"
+                },
+                {
+                    "code": "nas ga",
+                    "label": ".nas ga\n('mais')"
+                },
+                {
+                    "code": "nas scy",
+                    "label": ".nas scy\n('oranges')"
+                }
+            ]
+        },
+        {
+            "code": "nalc",
+            "type": "color",
+            "label": ".nalc\n('reussir a attraper')",
+            "words": [
+                {
+                    "code": "nalc jus",
+                    "label": ".nalc jus\n('main')"
+                },
+                {
+                    "code": "nalc na",
+                    "label": ".nalc na\n('capture')"
+                },
+                {
+                    "code": "nalc lam",
+                    "label": ".nalc lam\n('reussir a atteindre')"
+                }
+            ]
+        },
+        {
+            "code": "sak",
+            "type": "class",
+            "label": ".sak\n('poudre')",
+            "words": [
+                {
+                    "code": "sja sak",
+                    "label": ".sja sak\n('sucre')"
+                },
+                {
+                    "code": "tsis sak",
+                    "label": ".tsis sak\n('sable', 'poussiere')"
+                },
+                {
+                    "code": "deh sak",
+                    "label": ".deh sak\n('poussiere')\npoussiere d'origine rocheuse, exterieure "
+                }
+            ]
+        },
+        {
+            "code": "til",
+            "type": "class",
+            "label": ".til\n('animal')",
+            "words": [
+                {
+                    "code": "leeso til",
+                    "label": ".leeso til\n('boeuf', 'vache')"
+                },
+                {
+                    "code": "nea til",
+                    "label": ".nea til\n('alpaga')"
+                },
+                {
+                    "code": "nea til sai",
+                    "label": ".nea til sai\ncri de l'alpaga "
+                }
+            ]
+        },
+        {
+            "code": "gwo",
+            "type": "color",
+            "label": "",
+            "words": [
+                {
+                    "code": "gwo",
+                    "label": ".gwo\n('propre', 'vierge')\nsurface propre,on peut avoir \ncontact avec sans salete "
+                },
+                {
+                    "code": "gwo lp",
+                    "label": ".gwo lp\n('surface propre')"
+                },
+                {
+                    "code": "gwo min",
+                    "label": ".gwo min\n('nettoyage')"
+                },
+                {
+                    "code": "gwo sb",
+                    "label": ".gwo sb\n('feuille vierge', 'mirroir')\nobjet surface propre "
+                }
+            ]
+        },
+        {
+            "code": "the",
+            "type": "color",
+            "label": ".the\n('remarque', 'vu', 'grille', 'observe')\nun objet qui se \ndemarque, sentiment de surprise, \nattention portee ",
+            "words": [
+                {
+                    "code": "the lam",
+                    "label": ".the lam\nporter son attention sur \nquelque chose qui se \ndemarque "
+                },
+                {
+                    "code": "the min",
+                    "label": ".the min\n('remarquer', 'voir', 'apercevoir')"
+                },
+                {
+                    "code": "the jus",
+                    "label": ".the jus\n('yeux', 'radar', 'scanner')"
+                },
+                {
+                    "code": "the si",
+                    "label": ".the si\n('scanner', 'radar', 'intelligence \nartificielle', 'analyse')"
+                }
+            ]
+        },
+        {
+            "code": "hc",
+            "type": "color",
+            "label": ".hc\n('fait intentionnellement', 'intentionnel')\nresultat du travail de \nquelqu'un qui a voulu \nfaire plaisir ",
+            "words": [
+                {
+                    "code": "hc lam",
+                    "label": ".hc lam\n('vouloir faire plaisir', \n'faire plaisir', 'aider')\nvouloir faire plaisir "
+                },
+                {
+                    "code": "hc na",
+                    "label": ".hc na\n('ami', 'invite', 'donateur')\nvouloir faire plaisir "
+                },
+                {
+                    "code": "hc si",
+                    "label": ".hc si\n('en fonction', 'fonctionnant')\nmachine qui fonctionne "
+                },
+                {
+                    "code": "hc so",
+                    "label": ".hc so\n('allume', 'en service')"
+                }
+            ]
+        },
+        {
+            "code": "hykti",
+            "type": "color",
+            "label": ".hykti\n('source de desaccord', 'conteste')",
+            "words": [
+                {
+                    "code": "hykti min",
+                    "label": ".hykti min\n('contestation', 'debat', 'desaccord')"
+                },
+                {
+                    "code": "hykti myo",
+                    "label": ".hykti myo\n('desaccord')"
+                },
+                {
+                    "code": "hykti so",
+                    "label": ".hykti so\n('argument', 'preconiser', 'recommandations', 'demande')"
+                },
+                {
+                    "code": "hykti lam",
+                    "label": ".hykti lam\n('dissonance', 'perturbe', \"pas \nd'accord\", 'conflit')"
+                }
+            ]
+        },
+        {
+            "code": "gebq",
+            "type": "color",
+            "label": ".gebq\n('benefique', 'economiquement benefique')\npenser au gain potentiel ",
+            "words": [
+                {
+                    "code": "gebq na",
+                    "label": ".gebq na\n('entreprise', 'societe', 'compagnie')"
+                },
+                {
+                    "code": "gebq teo",
+                    "label": ".gebq teo\n('usine', 'lieu de travail')"
+                },
+                {
+                    "code": "gebq fjp",
+                    "label": ".gebq fjp\n('benefice', 'gain')"
+                },
+                {
+                    "code": "gebq lam",
+                    "label": ".gebq lam\n('enthousiaste', 'motive')\nappat du gain, motive \na participer a un \nplan qui mene a \nun gain "
+                }
+            ]
+        },
+        {
+            "code": "nukse",
+            "type": "color",
+            "label": ".nukse",
+            "words": [
+                {
+                    "code": "nukse na",
+                    "label": ".nukse na"
+                },
+                {
+                    "code": "nukse lam",
+                    "label": ".nukse lam\n('detente', 'detendu')"
+                },
+                {
+                    "code": "nukse min",
+                    "label": ".nukse min\n('moment calme')"
+                },
+                {
+                    "code": "nukse tei",
+                    "label": ".nukse tei\n('chaise', 'chaise longue', 'transat')"
+                }
+            ]
+        },
+        {
+            "code": "qispe",
+            "type": "color",
+            "label": ".qispe\nintention de communiquer en \nfaisant un effort d'engravement \nsur un support ",
+            "words": [
+                {
+                    "code": "qispe so",
+                    "label": ".qispe so\n('texte', 'ecrire', 'ecriture')"
+                },
+                {
+                    "code": "qispe jus",
+                    "label": ".qispe jus\n('crayon', 'stylo')"
+                },
+                {
+                    "code": "qispe sb",
+                    "label": ".qispe sb\n('feuille de papier', \n'support', 'tablette', 'ardoise', \n'feuille')\nsupport d'ecriture, le type \nde support est indique \nvia des proprietes supplementaires "
+                },
+                {
+                    "code": "qispe fae kju fsei so myo",
+                    "label": ".qispe fae kju fsei so myo\n('document collaboratif sur \nles langues')"
+                }
+            ]
+        },
+        {
+            "code": "sja",
+            "type": "color",
+            "label": ".sja\n('sucre', 'doux')",
+            "words": [
+                {
+                    "code": "sja sak",
+                    "label": ".sja sak\n('sucre')"
+                },
+                {
+                    "code": "sja slui",
+                    "label": ".sja slui\n('jus de fruits', 'boisson')\njus de fruits, boissons \nsucrees... "
+                },
+                {
+                    "code": "sja lam",
+                    "label": ".sja lam\n('soothing')\nbonheur agreable, presque tranquille "
+                },
+                {
+                    "code": "sja na",
+                    "label": ".sja na\n('ami')"
+                }
+            ]
+        },
+        {
+            "code": "leeso",
+            "type": "color",
+            "label": ".leeso\n('peser sur')",
+            "words": [
+                {
+                    "code": "leeso na",
+                    "label": ".leeso na\n('vache', 'boeuf')"
+                },
+                {
+                    "code": "leeso til",
+                    "label": ".leeso til\n('boeuf', 'vache')"
+                },
+                {
+                    "code": "leeso ga",
+                    "label": ".leeso ga\n('boeuf')"
+                },
+                {
+                    "code": "leeso get",
+                    "label": ".leeso get"
+                }
+            ]
+        },
+        {
+            "code": "fin",
+            "type": "class",
+            "label": ".fin\n('tissage', \"ensemble d'objets \nfins et longs \n(texture)\")",
+            "words": [
+                {
+                    "code": "daat fin",
+                    "label": ".daat fin\n('branches')\nbranches d'un arbre specifique "
+                },
+                {
+                    "code": "kp fin",
+                    "label": ".kp fin\n('cheveux')"
+                },
+                {
+                    "code": "fsah fin",
+                    "label": ".fsah fin\n('poils', 'laine', 'tissu')"
+                },
+                {
+                    "code": "nea fin",
+                    "label": ".nea fin\n('laine')"
+                }
+            ]
+        },
+        {
+            "code": "sb",
+            "type": "class",
+            "label": ".sb\n('objet')\nobjet solide et manipulable ",
+            "words": [
+                {
+                    "code": "yfan sb",
+                    "label": ".yfan sb\n('eponge')"
+                },
+                {
+                    "code": "deh sb",
+                    "label": ".deh sb\n('pierre')"
+                },
+                {
+                    "code": "qispe sb",
+                    "label": ".qispe sb\n('feuille de papier', \n'support', 'tablette', 'ardoise', \n'feuille')\nsupport d'ecriture, le type \nde support est indique \nvia des proprietes supplementaires "
+                },
+                {
+                    "code": "gwo sb",
+                    "label": ".gwo sb\n('feuille vierge', 'mirroir')\nobjet surface propre "
+                }
+            ]
+        },
+        {
+            "code": "ko",
+            "type": "class",
+            "label": ".ko\n('conteneur')",
+            "words": [
+                {
+                    "code": "ko tek",
+                    "label": ".ko tek\n('mot de classe', 'classe')"
+                },
+                {
+                    "code": "nise ko",
+                    "label": ".nise ko\n('equipe', 'groupe')\nl'equipe consideree comme partie \nd'un systeme d'equipes (entreprise, \nusine, sport...) "
+                },
+                {
+                    "code": "eli ko",
+                    "label": ".eli ko\n(\"bouteille d'eau\", 'sceau', 'verre')"
+                },
+                {
+                    "code": "eli ko jus",
+                    "label": ".eli ko jus\n('sceau')"
+                }
+            ]
+        },
+        {
+            "code": "tc",
+            "type": "class",
+            "label": ".tc",
+            "words": [
+                {
+                    "code": "tas tc",
+                    "label": ".tas tc\n('bateau')"
+                },
+                {
+                    "code": "nei tc",
+                    "label": ".nei tc\n('scooter', 'moto', 'trotinette', 'skateboard')\nvehicule rapide et peu \nencombrant, souvent motorise "
+                },
+                {
+                    "code": "tas tc lu_",
+                    "label": ".tas tc lu_\n('trou dans la coque')"
+                },
+                {
+                    "code": "scuo tc",
+                    "label": ".scuo tc\n('vehicule individuel', 'voiture', 'moto')"
+                }
+            ]
+        },
+        {
+            "code": "fae",
+            "type": "color",
+            "label": ".fae\ninteragit fonctionnellement avec, partie \ndu systeme ",
+            "words": [
+                {
+                    "code": "fae lam",
+                    "label": ".fae lam\n('appartenir', 'appartenance', 'integrer')\nsentiment d'appartenance a un \ngroupe "
+                },
+                {
+                    "code": "fae min",
+                    "label": ".fae min\n('contribuer', 'travailler')"
+                },
+                {
+                    "code": "fae na",
+                    "label": ".fae na\n('groupe', 'societe', 'peuple')"
+                },
+                {
+                    "code": "qispe fae kju fsei so myo",
+                    "label": ".qispe fae kju fsei so myo\n('document collaboratif sur \nles langues')"
+                },
+                {
+                    "code": "fae kju",
+                    "label": ".fae kju\n('collaborer', 'collaboratif')\ntravailler ensemble "
+                }
+            ]
+        },
+        {
+            "code": "jea",
+            "type": "color",
+            "label": ".jea\n('soulagement')\nsoulagement -- relief, une \ntache difficile qui a \nl'air insurmontable mais avec \nde l'aide elle n'a \nplus l'air si difficile ",
+            "words": [
+                {
+                    "code": "jea lam",
+                    "label": ".jea lam\n('soulagement')\nune tache difficile qui \na l'air insurmontable mais \navec de l'aide elle \nn'a plus l'air si \ndifficile "
+                },
+                {
+                    "code": "jea min",
+                    "label": ".jea min\n('aider', 'assistance')\nporter assistance, aider quelqu'un \na une tache "
+                },
+                {
+                    "code": "jea sai",
+                    "label": ".jea sai\n(\"demander de l'aide\")"
+                },
+                {
+                    "code": "jea f so",
+                    "label": ".jea f so\n(\"demander de l'aide\")"
+                },
+                {
+                    "code": "jea so",
+                    "label": ".jea so\nexpression du soulagement "
+                }
+            ]
+        },
+        {
+            "code": "hat",
+            "type": "color",
+            "label": ".hat\n('celebre', 'connu', 'apprecie')\nnotion d'etre proche de \nson audience, d'apprecier leur \ncompagnie. Celebre -- Famous \navec une connotation tres \npositive (opinion publique favorable) ",
+            "words": [
+                {
+                    "code": "hat sai",
+                    "label": ".hat sai\n('chanson')"
+                },
+                {
+                    "code": "hat so",
+                    "label": ".hat so\n('chanson')\nnotion de populaire : \nchanson populaire "
+                },
+                {
+                    "code": "hat na",
+                    "label": ".hat na\n('chanteur')"
+                },
+                {
+                    "code": "hat lam",
+                    "label": ".hat lam\nplaisir de chanter en \npublique, d'avoir une audience \net de se sentir \nproche d'une audience "
+                },
+                {
+                    "code": "hat qubn",
+                    "label": ".hat qubn\n('concert', 'spectacle')\nconcert a ciel ouvert, \nsalle de concert semi \ncouverte "
+                }
+            ]
+        },
+        {
+            "code": "yfan",
+            "type": "color",
+            "label": ".yfan\n('spongieux')",
+            "words": [
+                {
+                    "code": "yfan ga",
+                    "label": ".yfan ga\n('gateau')"
+                },
+                {
+                    "code": "yfan hu",
+                    "label": ".yfan hu\n('bosse')\ndeformation d'un objet mou "
+                },
+                {
+                    "code": "yfan sb",
+                    "label": ".yfan sb\n('eponge')"
+                },
+                {
+                    "code": "yfan ga tjo",
+                    "label": ".yfan ga tjo\n('part de gateau')"
+                },
+                {
+                    "code": "yfan tjo",
+                    "label": ".yfan tjo\n('part de gateau')"
+                }
+            ]
+        },
+        {
+            "code": "hu",
+            "type": "class",
+            "label": ".hu\n('traces')\ndeformation, resultat de pression \nou de contact entre \ndeux objets ",
+            "words": [
+                {
+                    "code": "yfan hu",
+                    "label": ".yfan hu\n('bosse')\ndeformation d'un objet mou "
+                },
+                {
+                    "code": "nei hu",
+                    "label": ".nei hu\n('traces', 'contact')\ncontact bref qui perturbe \nlegerement l'animal "
+                },
+                {
+                    "code": "tsis hu",
+                    "label": ".tsis hu\n('rayures')\nmarques d'abrasement, marques dues \na du frottement "
+                },
+                {
+                    "code": "nea hu",
+                    "label": ".nea hu\ncontact avec de la \nlaine ou une surface \ndouce "
+                },
+                {
+                    "code": "nea hu sbn",
+                    "label": ".nea hu sbn\n('doux')"
+                },
+                {
+                    "code": "fwc hu",
+                    "label": ".fwc hu\n('bosse', 'trou', 'creux', \n'cassis', \"dos d'ane\")"
+                }
+            ]
+        },
+        {
+            "code": "si",
+            "type": "class",
+            "label": ".si\n('machine', 'appareil')\nstructure construite qui realise \nautomatiquement une action sans \navoir besoin d'une interaction \nhumaine (idee d'automatisme) ",
+            "words": [
+                {
+                    "code": "eli si",
+                    "label": ".eli si\n('douche', 'tobogan', 'parc aquatique')"
+                },
+                {
+                    "code": "dee si",
+                    "label": ".dee si\n('machine en fonction', \n'active', 'calcul', 'programme')"
+                },
+                {
+                    "code": "tsaa si",
+                    "label": ".tsaa si\n('douche')"
+                },
+                {
+                    "code": "hc si",
+                    "label": ".hc si\n('en fonction', 'fonctionnant')\nmachine qui fonctionne "
+                },
+                {
+                    "code": "dee si so",
+                    "label": ".dee si so\n('programme informatique')"
+                },
+                {
+                    "code": "the si",
+                    "label": ".the si\n('scanner', 'radar', 'intelligence \nartificielle', 'analyse')"
+                }
+            ]
+        },
+        {
+            "code": "kju",
+            "type": "class",
+            "label": ".kju\n('comportement')",
+            "words": [
+                {
+                    "code": "kju tek",
+                    "label": ".kju tek\n('marqueur de cas \ngrammatical', 'cas')"
+                },
+                {
+                    "code": "na kju",
+                    "label": ".na kju\n('comportement')"
+                },
+                {
+                    "code": "eli kju",
+                    "label": ".eli kju\n('nage', 'plongee')\ntechniques en rapport avec \nl'eau : nage mais \naussi eclaboussures, plongee "
+                },
+                {
+                    "code": "qispe fae kju fsei so myo",
+                    "label": ".qispe fae kju fsei so myo\n('document collaboratif sur \nles langues')"
+                },
+                {
+                    "code": "fae kju",
+                    "label": ".fae kju\n('collaborer', 'collaboratif')\ntravailler ensemble "
+                },
+                {
+                    "code": "phu kju",
+                    "label": ".phu kju\n('oraganisation', 'rangement')\nmaniere de ranger, procedure \nde rangement "
+                }
+            ]
+        },
+        {
+            "code": "ki",
+            "type": "class",
+            "label": ".ki\n('apparence')",
+            "words": [
+                {
+                    "code": "tal ki",
+                    "label": ".tal ki\n('rouge')"
+                },
+                {
+                    "code": "nas ki",
+                    "label": ".nas ki\n('orange')"
+                },
+                {
+                    "code": "ki f jus",
+                    "label": ".ki f jus\n('yeux', 'oeil')"
+                },
+                {
+                    "code": "lam ki",
+                    "label": ".lam ki\n('couleur')\ncouleur, sensation \"visuelle\" :: \ncaracteristique d'un objet "
+                },
+                {
+                    "code": "fuh ki",
+                    "label": ".fuh ki\n('obscurite', 'sombre', 'noir')"
+                },
+                {
+                    "code": "ki myo",
+                    "label": ".ki myo\n('dessin', 'image', 'video')"
+                }
+            ]
+        },
+        {
+            "code": "ga",
+            "type": "class",
+            "label": ".ga\n('nourriture')\nnourriture \"lourde\", riche en \ngraisse, proteines, surcres, ou \nau gout caracteristique peu \nacide : farines, viandes, \npatisseries, beurre, ... ",
+            "words": [
+                {
+                    "code": "leeso ga",
+                    "label": ".leeso ga\n('boeuf')"
+                },
+                {
+                    "code": "nas ga",
+                    "label": ".nas ga\n('mais')"
+                },
+                {
+                    "code": "qwbn ga",
+                    "label": ".qwbn ga\n('poisson')"
+                },
+                {
+                    "code": "yfan ga",
+                    "label": ".yfan ga\n('gateau')"
+                },
+                {
+                    "code": "hae ga",
+                    "label": ".hae ga\n('bon', 'apetissant', 'bonne bouffe')"
+                },
+                {
+                    "code": "yfan ga tjo",
+                    "label": ".yfan ga tjo\n('part de gateau')"
+                }
+            ]
+        },
+        {
+            "code": "hae",
+            "type": "color",
+            "label": ".hae\n('apetissant', 'faim')\nle plat est apetissant, \nje me rejouis a \nl'idee de manger ",
+            "words": [
+                {
+                    "code": "hae ga",
+                    "label": ".hae ga\n('bon', 'apetissant', 'bonne bouffe')"
+                },
+                {
+                    "code": "hae sbn",
+                    "label": ".hae sbn\n('gout', 'bon')"
+                },
+                {
+                    "code": "hae teo",
+                    "label": ".hae teo\n('restaurant')"
+                },
+                {
+                    "code": "hae na",
+                    "label": ".hae na\n('cusinier', 'client')"
+                },
+                {
+                    "code": "hae s na",
+                    "label": ".hae s na\n('cuisinier')"
+                },
+                {
+                    "code": "hae tei",
+                    "label": ".hae tei\n('table', 'chaise')"
+                },
+                {
+                    "code": "hae sem",
+                    "label": ".hae sem\n('cuisiner', 'faire a \nmanger', 'aller chasser')"
+                }
+            ]
+        },
+        {
+            "code": "nei",
+            "type": "color",
+            "label": ".nei\n('agile', 'energetic')\nI wanna jump and \nrun everywhere ",
+            "words": [
+                {
+                    "code": "nei na",
+                    "label": ".nei na\n('chat')"
+                },
+                {
+                    "code": "nei na sai",
+                    "label": ".nei na sai\n('miaulement')"
+                },
+                {
+                    "code": "nei sbn",
+                    "label": ".nei sbn\n('effleurer')"
+                },
+                {
+                    "code": "nei lam",
+                    "label": ".nei lam\n('actif', 'energetique')"
+                },
+                {
+                    "code": "nei hu",
+                    "label": ".nei hu\n('traces', 'contact')\ncontact bref qui perturbe \nlegerement l'animal "
+                },
+                {
+                    "code": "nei tc",
+                    "label": ".nei tc\n('scooter', 'moto', 'trotinette', 'skateboard')\nvehicule rapide et peu \nencombrant, souvent motorise "
+                },
+                {
+                    "code": "nei gv",
+                    "label": ".nei gv\n('evitement', \"strategie d'evitement\")"
+                }
+            ]
+        },
+        {
+            "code": "tek",
+            "type": "class",
+            "label": ".tek\n('symbole')",
+            "words": [
+                {
+                    "code": "dawi tek",
+                    "label": ".dawi tek\n('suffixe de positivite')"
+                },
+                {
+                    "code": "lam tek",
+                    "label": ".lam tek\n('mot couleur', 'couleur')"
+                },
+                {
+                    "code": "ko tek",
+                    "label": ".ko tek\n('mot de classe', 'classe')"
+                },
+                {
+                    "code": "kju tek",
+                    "label": ".kju tek\n('marqueur de cas \ngrammatical', 'cas')"
+                },
+                {
+                    "code": "qa tek",
+                    "label": ".qa tek\n('suffixe \"temporel\"')"
+                },
+                {
+                    "code": "tsa tek",
+                    "label": ".tsa tek\n('nom')"
+                },
+                {
+                    "code": "fjp tek",
+                    "label": ".fjp tek\n('chiffre', 'nombre')"
+                }
+            ]
+        },
+        {
+            "code": "jus",
+            "type": "class",
+            "label": ".jus",
+            "words": [
+                {
+                    "code": "nalc jus",
+                    "label": ".nalc jus\n('main')"
+                },
+                {
+                    "code": "ki f jus",
+                    "label": ".ki f jus\n('yeux', 'oeil')"
+                },
+                {
+                    "code": "qispe jus",
+                    "label": ".qispe jus\n('crayon', 'stylo')"
+                },
+                {
+                    "code": "eli jus",
+                    "label": ".eli jus\n(\"jet d'eau\", \"tuyau d'arrosage\")\nn'importe quel source d'eau \ndeplacable "
+                },
+                {
+                    "code": "eli ko jus",
+                    "label": ".eli ko jus\n('sceau')"
+                },
+                {
+                    "code": "ukto jus",
+                    "label": ".ukto jus\n('portable', 'smartphone', 'telephone portable')"
+                },
+                {
+                    "code": "the jus",
+                    "label": ".the jus\n('yeux', 'radar', 'scanner')"
+                }
+            ]
+        },
+        {
+            "code": "tas",
+            "type": "color",
+            "label": ".tas\nsensation du large, le \nvent marin ",
+            "words": [
+                {
+                    "code": "tas tc",
+                    "label": ".tas tc\n('bateau')"
+                },
+                {
+                    "code": "tas na",
+                    "label": ".tas na\n('mouette')\noiseaux marins "
+                },
+                {
+                    "code": "tas lp",
+                    "label": ".tas lp\n('mer', 'ocean')"
+                },
+                {
+                    "code": "tas lam",
+                    "label": ".tas lam\nrespirer de l'air frais, \nse sentir purge "
+                },
+                {
+                    "code": "tas lu_",
+                    "label": ".tas lu_\n('vortex')"
+                },
+                {
+                    "code": "tas tc lu_",
+                    "label": ".tas tc lu_\n('trou dans la coque')"
+                },
+                {
+                    "code": "tas sbn",
+                    "label": ".tas sbn\n('vent marin', 'vent')"
+                },
+                {
+                    "code": "tas sai",
+                    "label": ".tas sai\n('vagues', 'cri des \nmouettes', 'vent marin')\nbruit de la mer, \ndes vagues, des mouettes "
+                }
+            ]
+        },
+        {
+            "code": "teo",
+            "type": "class",
+            "label": ".teo\n('lieu couvert', 'interieur', \n'batiment', 'lieu')",
+            "words": [
+                {
+                    "code": "daat teo",
+                    "label": ".daat teo\n('arbre')"
+                },
+                {
+                    "code": "hae teo",
+                    "label": ".hae teo\n('restaurant')"
+                },
+                {
+                    "code": "nci teo",
+                    "label": ".nci teo\n('haut', 'dessus', 'etage', \n'salle cyan')\npartie horizontalement superieure, la \nplus proche du ciel "
+                },
+                {
+                    "code": "jubn teo",
+                    "label": ".jubn teo\n('logement', 'maison', 'appartement', \n'chez soi')"
+                },
+                {
+                    "code": "juebn teo",
+                    "label": ".juebn teo\n('maison', 'appartement', 'maison \nde son enfance')"
+                },
+                {
+                    "code": "kwah teo",
+                    "label": ".kwah teo\n('salle de concert \nactive', 'boite de \nnuit', 'soiree')"
+                },
+                {
+                    "code": "gebq teo",
+                    "label": ".gebq teo\n('usine', 'lieu de travail')"
+                },
+                {
+                    "code": "wue teo",
+                    "label": ".wue teo\n('lieu de travail', 'atelier')\nen general pour des \nartisans, ouvriers, et artistes "
+                }
+            ]
+        },
+        {
+            "code": "nea",
+            "type": "color",
+            "label": ".nea\n('sommeil')",
+            "words": [
+                {
+                    "code": "nea min",
+                    "label": ".nea min\n('dormir', 'nuit')"
+                },
+                {
+                    "code": "nea sbn",
+                    "label": ".nea sbn\n('fatigue')"
+                },
+                {
+                    "code": "nea fin",
+                    "label": ".nea fin\n('laine')"
+                },
+                {
+                    "code": "nea til",
+                    "label": ".nea til\n('alpaga')"
+                },
+                {
+                    "code": "nea hu",
+                    "label": ".nea hu\ncontact avec de la \nlaine ou une surface \ndouce "
+                },
+                {
+                    "code": "nea hu sbn",
+                    "label": ".nea hu sbn\n('doux')"
+                },
+                {
+                    "code": "nea sai",
+                    "label": ".nea sai\n('ronflements', 'ronfler')"
+                },
+                {
+                    "code": "nea til sai",
+                    "label": ".nea til sai\ncri de l'alpaga "
+                },
+                {
+                    "code": "nea sem",
+                    "label": ".nea sem\n('fatigue', 'aller dormir')"
+                }
+            ]
+        },
+        {
+            "code": "sai",
+            "type": "class",
+            "label": ".sai",
+            "words": [
+                {
+                    "code": "nei na sai",
+                    "label": ".nei na sai\n('miaulement')"
+                },
+                {
+                    "code": "sflu sai",
+                    "label": ".sflu sai\n('plouf')"
+                },
+                {
+                    "code": "hat sai",
+                    "label": ".hat sai\n('chanson')"
+                },
+                {
+                    "code": "aisi sai",
+                    "label": ".aisi sai\n('musique', 'chanson')"
+                },
+                {
+                    "code": "kwah sai",
+                    "label": ".kwah sai\n('musique', 'chanson', 'concert')"
+                },
+                {
+                    "code": "nea sai",
+                    "label": ".nea sai\n('ronflements', 'ronfler')"
+                },
+                {
+                    "code": "nea til sai",
+                    "label": ".nea til sai\ncri de l'alpaga "
+                },
+                {
+                    "code": "tas sai",
+                    "label": ".tas sai\n('vagues', 'cri des \nmouettes', 'vent marin')\nbruit de la mer, \ndes vagues, des mouettes "
+                },
+                {
+                    "code": "jea sai",
+                    "label": ".jea sai\n(\"demander de l'aide\")"
+                }
+            ]
+        },
+        {
+            "code": "lp",
+            "type": "class",
+            "label": ".lp\n('surface plane')",
+            "words": [
+                {
+                    "code": "eli lp",
+                    "label": ".eli lp\n('mer', 'lac', 'eau', \n'ocean', 'etang')\ntout ce qui ressemble \na une surface d'eau "
+                },
+                {
+                    "code": "tsis lp",
+                    "label": ".tsis lp\n('plage', 'sable')"
+                },
+                {
+                    "code": "tas lp",
+                    "label": ".tas lp\n('mer', 'ocean')"
+                },
+                {
+                    "code": "nci lp",
+                    "label": ".nci lp\n('ciel')"
+                },
+                {
+                    "code": "netku lp",
+                    "label": ".netku lp\n('terrasse', 'plage')"
+                },
+                {
+                    "code": "njyewe lp",
+                    "label": ".njyewe lp\n('aire urbaine')"
+                },
+                {
+                    "code": "deh lp",
+                    "label": ".deh lp\n('roche', 'bitume')"
+                },
+                {
+                    "code": "fsah lp",
+                    "label": ".fsah lp\n('prairie')"
+                },
+                {
+                    "code": "gwo lp",
+                    "label": ".gwo lp\n('surface propre')"
+                }
+            ]
+        },
+        {
+            "code": "eli",
+            "type": "color",
+            "label": ".eli\n('mouiller', 'humide')\nse sentir trempe, etre \ntrempe ",
+            "words": [
+                {
+                    "code": "eli lp",
+                    "label": ".eli lp\n('mer', 'lac', 'eau', \n'ocean', 'etang')\ntout ce qui ressemble \na une surface d'eau "
+                },
+                {
+                    "code": "eli slui",
+                    "label": ".eli slui\n('eau', 'boisson', 'verre')\neau \u00e0 boire, verre \nd'eau "
+                },
+                {
+                    "code": "eli na",
+                    "label": ".eli na\n('grenouille', 'poisson')\nanimal semi aquatique "
+                },
+                {
+                    "code": "eli si",
+                    "label": ".eli si\n('douche', 'tobogan', 'parc aquatique')"
+                },
+                {
+                    "code": "eli sije_",
+                    "label": ".eli sije_\n('eau croupie')"
+                },
+                {
+                    "code": "eli kju",
+                    "label": ".eli kju\n('nage', 'plongee')\ntechniques en rapport avec \nl'eau : nage mais \naussi eclaboussures, plongee "
+                },
+                {
+                    "code": "eli tet",
+                    "label": ".eli tet\n(\"flaque d'eau\", 'flaque')"
+                },
+                {
+                    "code": "eli njb",
+                    "label": ".eli njb\n('pluie', 'eclaboussure')"
+                },
+                {
+                    "code": "eli jus",
+                    "label": ".eli jus\n(\"jet d'eau\", \"tuyau d'arrosage\")\nn'importe quel source d'eau \ndeplacable "
+                },
+                {
+                    "code": "eli ko",
+                    "label": ".eli ko\n(\"bouteille d'eau\", 'sceau', 'verre')"
+                },
+                {
+                    "code": "eli ko jus",
+                    "label": ".eli ko jus\n('sceau')"
+                }
+            ]
+        },
+        {
+            "code": "sbn",
+            "type": "class",
+            "label": ".sbn",
+            "words": [
+                {
+                    "code": "nei sbn",
+                    "label": ".nei sbn\n('effleurer')"
+                },
+                {
+                    "code": "hae sbn",
+                    "label": ".hae sbn\n('gout', 'bon')"
+                },
+                {
+                    "code": "thi sbn",
+                    "label": ".thi sbn\n('chaleur')"
+                },
+                {
+                    "code": "fsah sbn",
+                    "label": ".fsah sbn\n('doux')"
+                },
+                {
+                    "code": "nea sbn",
+                    "label": ".nea sbn\n('fatigue')"
+                },
+                {
+                    "code": "nea hu sbn",
+                    "label": ".nea hu sbn\n('doux')"
+                },
+                {
+                    "code": "tas sbn",
+                    "label": ".tas sbn\n('vent marin', 'vent')"
+                },
+                {
+                    "code": "tbw sbn",
+                    "label": ".tbw sbn\n(\"avoir un pied \ndans l'eau froide\")"
+                },
+                {
+                    "code": "tjbo sbn",
+                    "label": ".tjbo sbn\n(\"s'habituer\", \"s'accoutumer\", 'habituation')\ns'habituer a une sensation,s'habituer "
+                },
+                {
+                    "code": "sbwab sbn",
+                    "label": ".sbwab sbn\n('courbatures', 'douleurs', 'affliction', 'maladie')"
+                },
+                {
+                    "code": "denti sbn",
+                    "label": ".denti sbn\n('migraine', 'mal de tete')\navoir mal a la \ntete "
+                },
+                {
+                    "code": "keun sbn",
+                    "label": ".keun sbn\n('courbatures', 'fatigue', 'epuisement', 'eprouve')\nlie a l'activite physique, \nau sport "
+                }
+            ]
+        },
+        {
+            "code": "so",
+            "type": "class",
+            "label": ".so\n('mots', 'parole', 'texte')\nContenu qui a du \nsens ",
+            "words": [
+                {
+                    "code": "sei so",
+                    "label": ".sei so\n('parler', 'mots', 'phrase')\nquelque chose qui a \nete dit. C'est aussi \nle nom de la \nlangue. "
+                },
+                {
+                    "code": "qispe so",
+                    "label": ".qispe so\n('texte', 'ecrire', 'ecriture')"
+                },
+                {
+                    "code": "hat so",
+                    "label": ".hat so\n('chanson')\nnotion de populaire : \nchanson populaire "
+                },
+                {
+                    "code": "djee so",
+                    "label": ".djee so\n('plan', 'instructions', 'projet')\nchose qu'on a envie \nde faire ou qu'on \nprevoit pour la journee "
+                },
+                {
+                    "code": "cine so",
+                    "label": ".cine so\n('histoire')\nhistoire des nuksena "
+                },
+                {
+                    "code": "hewa so",
+                    "label": ".hewa so\n('contestation')\nargumentation -- contestation d'un \nstatement "
+                },
+                {
+                    "code": "aisi so",
+                    "label": ".aisi so\n('chanson', 'musique')\ninsiste sur l'aspect \"semantique\" \ndu morceau, il est \nporteur de sens "
+                },
+                {
+                    "code": "jea f so",
+                    "label": ".jea f so\n(\"demander de l'aide\")"
+                },
+                {
+                    "code": "jea so",
+                    "label": ".jea so\nexpression du soulagement "
+                },
+                {
+                    "code": "qispe fae kju fsei so myo",
+                    "label": ".qispe fae kju fsei so myo\n('document collaboratif sur \nles langues')"
+                },
+                {
+                    "code": "e_sju so",
+                    "label": ".e_sju so\n('conte', 'recit', 'histoire')\nhistoire traditionnelle, conte "
+                },
+                {
+                    "code": "hykti so",
+                    "label": ".hykti so\n('argument', 'preconiser', 'recommandations', 'demande')"
+                },
+                {
+                    "code": "hc so",
+                    "label": ".hc so\n('allume', 'en service')"
+                },
+                {
+                    "code": "dee so",
+                    "label": ".dee so\nce a quoi on \npense lorsqu'on est perdu \ndans ses pensees "
+                },
+                {
+                    "code": "dee si so",
+                    "label": ".dee si so\n('programme informatique')"
+                }
+            ]
+        },
+        {
+            "code": "min",
+            "type": "class",
+            "label": ".min",
+            "words": [
+                {
+                    "code": "nukse min",
+                    "label": ".nukse min\n('moment calme')"
+                },
+                {
+                    "code": "djee min",
+                    "label": ".djee min\n('jour', 'journee')"
+                },
+                {
+                    "code": "netku min",
+                    "label": ".netku min\n('journee', 'jour', 'beau temps')\nensoleillement, periode de la \njournee "
+                },
+                {
+                    "code": "nea min",
+                    "label": ".nea min\n('dormir', 'nuit')"
+                },
+                {
+                    "code": "tscu min",
+                    "label": ".tscu min\n('reussir', 'reussit', 'plutot reussir')"
+                },
+                {
+                    "code": "thi min",
+                    "label": ".thi min\n('jour', 'journee')"
+                },
+                {
+                    "code": "jea min",
+                    "label": ".jea min\n('aider', 'assistance')\nporter assistance, aider quelqu'un \na une tache "
+                },
+                {
+                    "code": "des min",
+                    "label": ".des min\n('recherche')"
+                },
+                {
+                    "code": "dahe min",
+                    "label": ".dahe min\n('recherche', 'panique')"
+                },
+                {
+                    "code": "daei min",
+                    "label": ".daei min\n('recherche')"
+                },
+                {
+                    "code": "twac min",
+                    "label": ".twac min\n('recherche')"
+                },
+                {
+                    "code": "fuh min",
+                    "label": ".fuh min\n('nuit')"
+                },
+                {
+                    "code": "fae min",
+                    "label": ".fae min\n('contribuer', 'travailler')"
+                },
+                {
+                    "code": "phu min",
+                    "label": ".phu min\n('rangement', 'nettoyage')"
+                },
+                {
+                    "code": "gwo min",
+                    "label": ".gwo min\n('nettoyage')"
+                },
+                {
+                    "code": "hykti min",
+                    "label": ".hykti min\n('contestation', 'debat', 'desaccord')"
+                },
+                {
+                    "code": "keun min",
+                    "label": ".keun min\n('se depenser', 'sport', \n'sport intense')\nlie a l'activite physique, \nau sport "
+                },
+                {
+                    "code": "sede min",
+                    "label": ".sede min\n('habituation')"
+                },
+                {
+                    "code": "fwi min",
+                    "label": ".fwi min\n('comprendre', 'comprehension')\ncomprendre un sentiment "
+                },
+                {
+                    "code": "the min",
+                    "label": ".the min\n('remarquer', 'voir', 'apercevoir')"
+                },
+                {
+                    "code": "suo min",
+                    "label": ".suo min\nun evenement indesirable survient, \non esperait qu'il n'arrive \npas "
+                }
+            ]
+        },
+        {
+            "code": "na",
+            "type": "class",
+            "label": ".na\n('il', 'elle')\nsomeone (human, animal) you \ncan have meamingful interactions \nwith ",
+            "words": [
+                {
+                    "code": "nei na",
+                    "label": ".nei na\n('chat')"
+                },
+                {
+                    "code": "leeso na",
+                    "label": ".leeso na\n('vache', 'boeuf')"
+                },
+                {
+                    "code": "nei na sai",
+                    "label": ".nei na sai\n('miaulement')"
+                },
+                {
+                    "code": "nukse na",
+                    "label": ".nukse na"
+                },
+                {
+                    "code": "sflu na",
+                    "label": ".sflu na\n('poisson')"
+                },
+                {
+                    "code": "tas na",
+                    "label": ".tas na\n('mouette')\noiseaux marins "
+                },
+                {
+                    "code": "eli na",
+                    "label": ".eli na\n('grenouille', 'poisson')\nanimal semi aquatique "
+                },
+                {
+                    "code": "hat na",
+                    "label": ".hat na\n('chanteur')"
+                },
+                {
+                    "code": "sja na",
+                    "label": ".sja na\n('ami')"
+                },
+                {
+                    "code": "nalc na",
+                    "label": ".nalc na\n('capture')"
+                },
+                {
+                    "code": "cine na",
+                    "label": ".cine na\n('peuple')"
+                },
+                {
+                    "code": "sheup na",
+                    "label": ".sheup na\n('espion')"
+                },
+                {
+                    "code": "hae na",
+                    "label": ".hae na\n('cusinier', 'client')"
+                },
+                {
+                    "code": "hae s na",
+                    "label": ".hae s na\n('cuisinier')"
+                },
+                {
+                    "code": "nise na",
+                    "label": ".nise na\n('equipier', 'vendeur', 'equipe', 'groupe')"
+                },
+                {
+                    "code": "qwbn na",
+                    "label": ".qwbn na\n('poisson')"
+                },
+                {
+                    "code": "na kju",
+                    "label": ".na kju\n('comportement')"
+                },
+                {
+                    "code": "ejwe_ na",
+                    "label": ".ejwe_ na\n('chanteur')"
+                },
+                {
+                    "code": "gebq na",
+                    "label": ".gebq na\n('entreprise', 'societe', 'compagnie')"
+                },
+                {
+                    "code": "juck na",
+                    "label": ".juck na\n('chanteur')\nconnotation de chanteur debutant \nou chanteur connu qui \navoue publiquement avoir le \ntrac "
+                },
+                {
+                    "code": "juebn na",
+                    "label": ".juebn na\n('parents', 'papa', 'maman')\nApres avoir quitte la \nmaison "
+                },
+                {
+                    "code": "jubn na",
+                    "label": ".jubn na\n('parents', 'freres', 'soeurs', 'colocataires')\npersonnes avec lesquelles on \nvit, parents si on \nvit avec eux, conjoints, \nfreres soeurs, invites permanents, \ncolocataires longue duree... "
+                },
+                {
+                    "code": "ukto na",
+                    "label": ".ukto na\n('administration')"
+                },
+                {
+                    "code": "fae na",
+                    "label": ".fae na\n('groupe', 'societe', 'peuple')"
+                },
+                {
+                    "code": "qauh na",
+                    "label": ".qauh na\n('travailleur')"
+                },
+                {
+                    "code": "qjao na",
+                    "label": ".qjao na\n('ami')\navec connotation : ami \navec qui on a \neu des conversations profondes, \nbon amis "
+                },
+                {
+                    "code": "kscbh na",
+                    "label": ".kscbh na\n('travailleur', 'etudiant')\nconcentre dans sa tache "
+                },
+                {
+                    "code": "hc na",
+                    "label": ".hc na\n('ami', 'invite', 'donateur')\nvouloir faire plaisir "
+                },
+                {
+                    "code": "nlu na",
+                    "label": ".nlu na\npersonne sympathique, avec laquelle \non a envie d'etre \nami "
+                },
+                {
+                    "code": "leih na",
+                    "label": ".leih na\npersonne qui fait de \nsa vie quelque chose \nd'impressionnant "
+                },
+                {
+                    "code": "wue na",
+                    "label": ".wue na\n('artisans')"
+                },
+                {
+                    "code": "sede na",
+                    "label": ".sede na\n('connaissance', 'coworker', 'proche')\npersonne a laquelle on \nest habituee "
+                }
+            ]
+        },
+        {
+            "code": "lam",
+            "type": "class",
+            "label": ".lam",
+            "words": [
+                {
+                    "code": "fsu lam",
+                    "label": ".fsu lam\n('ennui')"
+                },
+                {
+                    "code": "sja lam",
+                    "label": ".sja lam\n('soothing')\nbonheur agreable, presque tranquille "
+                },
+                {
+                    "code": "sei lam",
+                    "label": ".sei lam"
+                },
+                {
+                    "code": "nei lam",
+                    "label": ".nei lam\n('actif', 'energetique')"
+                },
+                {
+                    "code": "nukse lam",
+                    "label": ".nukse lam\n('detente', 'detendu')"
+                },
+                {
+                    "code": "jo lam",
+                    "label": ".jo lam\n('se sentir en avance')"
+                },
+                {
+                    "code": "tas lam",
+                    "label": ".tas lam\nrespirer de l'air frais, \nse sentir purge "
+                },
+                {
+                    "code": "hat lam",
+                    "label": ".hat lam\nplaisir de chanter en \npublique, d'avoir une audience \net de se sentir \nproche d'une audience "
+                },
+                {
+                    "code": "nalc lam",
+                    "label": ".nalc lam\n('reussir a atteindre')"
+                },
+                {
+                    "code": "lam tek",
+                    "label": ".lam tek\n('mot couleur', 'couleur')"
+                },
+                {
+                    "code": "djee lam",
+                    "label": ".djee lam\n('motivation')\nenvie de faire un \ntache planifiee sur une \njournee ou moins "
+                },
+                {
+                    "code": "hewa lam",
+                    "label": ".hewa lam\n(\"ne pas etre d'accord\")\npenser que ce qui \na ete affirme est \nfactuellement faux "
+                },
+                {
+                    "code": "nise lam",
+                    "label": ".nise lam\n(\"travail d'equipe\", 'cooperation', 'groupe')\nse sentir dans un \ngroupe de travail qui \navance efficacement, se sentir \ncoordonne avec les autres "
+                },
+                {
+                    "code": "gen lam",
+                    "label": ".gen lam\n('satisfait du parametrage', \n'reussir', 'satisfait')\nsatisfait du resultat d'un \nprocessus d'equilibrage qui implique \ndes parametres instables a \nstabiliser. "
+                },
+                {
+                    "code": "sugen lam",
+                    "label": ".sugen lam\n('even', 'feeling even', \n'etre quitte', 'gratitude')\nsentiment de gratitude apres \n\"acquittement\" (de la part \nde celui qui s'acquitte \nde quelque chose) "
+                },
+                {
+                    "code": "qwbn lam",
+                    "label": ".qwbn lam\n('tranquille')\nse sentir flotter, nager \nlentement ou rester inerte, \nregarder un paysage comme \nle ciel ou le \nfond de l'eau "
+                },
+                {
+                    "code": "ejwe_ lam",
+                    "label": ".ejwe_ lam\n('concentration', 'immertion')\netre a fond dans \nce qu'on fait, etre \nimmerge "
+                },
+                {
+                    "code": "gebq lam",
+                    "label": ".gebq lam\n('enthousiaste', 'motive')\nappat du gain, motive \na participer a un \nplan qui mene a \nun gain "
+                },
+                {
+                    "code": "lam ki",
+                    "label": ".lam ki\n('couleur')\ncouleur, sensation \"visuelle\" :: \ncaracteristique d'un objet "
+                },
+                {
+                    "code": "jea lam",
+                    "label": ".jea lam\n('soulagement')\nune tache difficile qui \na l'air insurmontable mais \navec de l'aide elle \nn'a plus l'air si \ndifficile "
+                },
+                {
+                    "code": "juck lam",
+                    "label": ".juck lam\n('trac')\navoir le trac "
+                },
+                {
+                    "code": "fuh lam",
+                    "label": ".fuh lam\n('angoisse', 'peur', 'paranoia')\nangoisse liee a l'obscurite, \nlegere paranoia a l'idee \nde se faire attaquer "
+                },
+                {
+                    "code": "des lam",
+                    "label": ".des lam\npeur de se faire \nsurprendre en cherchant quelqu'un \nau cache cache -- \ns'attendre a voir quelqu'un "
+                },
+                {
+                    "code": "dahe lam",
+                    "label": ".dahe lam\n('panique', 'stress')\nperdu quelque chose, recherche \npaniquee pour le retrouver, \nvouloir le retrouver a \ntout prix "
+                },
+                {
+                    "code": "netei lam",
+                    "label": ".netei lam\n('content', 'soulagement', 'heureux')\nenfin! ouf! ouais! "
+                },
+                {
+                    "code": "fae lam",
+                    "label": ".fae lam\n('appartenir', 'appartenance', 'integrer')\nsentiment d'appartenance a un \ngroupe "
+                },
+                {
+                    "code": "fwc lam",
+                    "label": ".fwc lam\n('surprise', 'inhabituel', 'surprenant')\nsentiment anormal, surprenant, inhabituel "
+                },
+                {
+                    "code": "tsaa lam",
+                    "label": ".tsaa lam\n('propre', 'se laver')\nse sentir propre, uniquement \npour un humain "
+                },
+                {
+                    "code": "phu lam",
+                    "label": ".phu lam\n('bien range', 'bien \norganise', \"a l'aise\")\nvoir que quelque chose \nest bien range, bien \noraganise "
+                },
+                {
+                    "code": "qauh lam",
+                    "label": ".qauh lam\n(\"envie d'aller travailleur\", 'flemme')\nforme de contrainte par \nles evenements "
+                },
+                {
+                    "code": "qjao lam",
+                    "label": ".qjao lam\n('a coeur ouvert')"
+                },
+                {
+                    "code": "hykti lam",
+                    "label": ".hykti lam\n('dissonance', 'perturbe', \"pas \nd'accord\", 'conflit')"
+                },
+                {
+                    "code": "hc lam",
+                    "label": ".hc lam\n('vouloir faire plaisir', \n'faire plaisir', 'aider')\nvouloir faire plaisir "
+                },
+                {
+                    "code": "tbw lam",
+                    "label": ".tbw lam\n(\"s'appreter\", 'anticipation', 'excitation')\nanticipation d'un evenement amusant \net stimulant "
+                },
+                {
+                    "code": "tjbo lam",
+                    "label": ".tjbo lam\n(\"s'habituer\", \"s'accoutumer\", 'se \nsentir bizarre')"
+                },
+                {
+                    "code": "nai lam",
+                    "label": ".nai lam\n('se sentir inutile')"
+                },
+                {
+                    "code": "nlu lam",
+                    "label": ".nlu lam\n('apprecier', 'aimer')"
+                },
+                {
+                    "code": "leih lam",
+                    "label": ".leih lam\n('impressionne')\netre impressionne par les \nrealisations de quelqu'un "
+                },
+                {
+                    "code": "asien lam",
+                    "label": ".asien lam\n('intrigue', 'impressionne')\nrealisation d'une personne impressionnante, \nimpressionne par la realisation \net par la personne "
+                },
+                {
+                    "code": "hei lam",
+                    "label": ".hei lam\n('satisfait', 'reussit', 'fonctionne')\nsatisfait du resultat, sans \nsurprise "
+                },
+                {
+                    "code": "tscu lam",
+                    "label": ".tscu lam\n('satisfait', 'soulage', 'reussite')\nsatisfait du resultat, on \ns'attendait a pire, soulagement "
+                },
+                {
+                    "code": "sede lam",
+                    "label": ".sede lam\n('routine', 'confort')"
+                },
+                {
+                    "code": "fwi lam",
+                    "label": ".fwi lam\n('comprendre', 'comprehension')\ncomprendre un sentiment "
+                },
+                {
+                    "code": "the lam",
+                    "label": ".the lam\nporter son attention sur \nquelque chose qui se \ndemarque "
+                },
+                {
+                    "code": "suo lam",
+                    "label": ".suo lam\n('peur', 'inquietude', 'regret', 'mefiance')\nesperer que quelque chose \nne se produise pas, \ns'inquieter, evenement negatif attendu, \non espere que ca \nne se produise pas "
+                }
+            ]
+        }
+    ],
+    "groups": {
+        "": [
+            {
+                "code": "nei na",
+                "label": ".nei na\n('chat')"
+            },
+            {
+                "code": "leeso na",
+                "label": ".leeso na\n('vache', 'boeuf')"
+            },
+            {
+                "code": "leeso til",
+                "label": ".leeso til\n('boeuf', 'vache')"
+            },
+            {
+                "code": "leeso ga",
+                "label": ".leeso ga\n('boeuf')"
+            },
+            {
+                "code": "nalc jus",
+                "label": ".nalc jus\n('main')"
+            },
+            {
+                "code": "eli slui",
+                "label": ".eli slui\n('eau', 'boisson', 'verre')\neau \u00e0 boire, verre \nd'eau "
+            },
+            {
+                "code": "sja sak",
+                "label": ".sja sak\n('sucre')"
+            },
+            {
+                "code": "tal ki",
+                "label": ".tal ki\n('rouge')"
+            },
+            {
+                "code": "nas ki",
+                "label": ".nas ki\n('orange')"
+            },
+            {
+                "code": "nas ga",
+                "label": ".nas ga\n('mais')"
+            },
+            {
+                "code": "nei na sai",
+                "label": ".nei na sai\n('miaulement')"
+            },
+            {
+                "code": "tsis sak",
+                "label": ".tsis sak\n('sable', 'poussiere')"
+            },
+            {
+                "code": "nei sbn",
+                "label": ".nei sbn\n('effleurer')"
+            }
+        ],
+        "vache": [
+            {
+                "code": "leeso na",
+                "label": ".leeso na\n('vache', 'boeuf')"
+            },
+            {
+                "code": "leeso til",
+                "label": ".leeso til\n('boeuf', 'vache')"
+            }
+        ],
+        "boeuf": [
+            {
+                "code": "leeso na",
+                "label": ".leeso na\n('vache', 'boeuf')"
+            },
+            {
+                "code": "leeso til",
+                "label": ".leeso til\n('boeuf', 'vache')"
+            },
+            {
+                "code": "leeso ga",
+                "label": ".leeso ga\n('boeuf')"
+            }
+        ],
+        "mer": [
+            {
+                "code": "eli lp",
+                "label": ".eli lp\n('mer', 'lac', 'eau', \n'ocean', 'etang')\ntout ce qui ressemble \na une surface d'eau "
+            },
+            {
+                "code": "tas lp",
+                "label": ".tas lp\n('mer', 'ocean')"
+            }
+        ],
+        "eau": [
+            {
+                "code": "eli lp",
+                "label": ".eli lp\n('mer', 'lac', 'eau', \n'ocean', 'etang')\ntout ce qui ressemble \na une surface d'eau "
+            },
+            {
+                "code": "eli slui",
+                "label": ".eli slui\n('eau', 'boisson', 'verre')\neau \u00e0 boire, verre \nd'eau "
+            }
+        ],
+        "ocean": [
+            {
+                "code": "eli lp",
+                "label": ".eli lp\n('mer', 'lac', 'eau', \n'ocean', 'etang')\ntout ce qui ressemble \na une surface d'eau "
+            },
+            {
+                "code": "tas lp",
+                "label": ".tas lp\n('mer', 'ocean')"
+            }
+        ],
+        "boisson": [
+            {
+                "code": "eli slui",
+                "label": ".eli slui\n('eau', 'boisson', 'verre')\neau \u00e0 boire, verre \nd'eau "
+            },
+            {
+                "code": "sja slui",
+                "label": ".sja slui\n('jus de fruits', 'boisson')\njus de fruits, boissons \nsucrees... "
+            }
+        ],
+        "verre": [
+            {
+                "code": "eli slui",
+                "label": ".eli slui\n('eau', 'boisson', 'verre')\neau \u00e0 boire, verre \nd'eau "
+            },
+            {
+                "code": "eli ko",
+                "label": ".eli ko\n(\"bouteille d'eau\", 'sceau', 'verre')"
+            }
+        ],
+        "sable": [
+            {
+                "code": "tsis sak",
+                "label": ".tsis sak\n('sable', 'poussiere')"
+            },
+            {
+                "code": "tsis lp",
+                "label": ".tsis lp\n('plage', 'sable')"
+            }
+        ],
+        "poussiere": [
+            {
+                "code": "tsis sak",
+                "label": ".tsis sak\n('sable', 'poussiere')"
+            },
+            {
+                "code": "deh sak",
+                "label": ".deh sak\n('poussiere')\npoussiere d'origine rocheuse, exterieure "
+            }
+        ],
+        "plage": [
+            {
+                "code": "tsis lp",
+                "label": ".tsis lp\n('plage', 'sable')"
+            },
+            {
+                "code": "netku lp",
+                "label": ".netku lp\n('terrasse', 'plage')"
+            }
+        ],
+        "poisson": [
+            {
+                "code": "qwbn ga",
+                "label": ".qwbn ga\n('poisson')"
+            },
+            {
+                "code": "sflu na",
+                "label": ".sflu na\n('poisson')"
+            },
+            {
+                "code": "eli na",
+                "label": ".eli na\n('grenouille', 'poisson')\nanimal semi aquatique "
+            },
+            {
+                "code": "qwbn na",
+                "label": ".qwbn na\n('poisson')"
+            }
+        ],
+        "bosse": [
+            {
+                "code": "yfan hu",
+                "label": ".yfan hu\n('bosse')\ndeformation d'un objet mou "
+            },
+            {
+                "code": "fwc hu",
+                "label": ".fwc hu\n('bosse', 'trou', 'creux', \n'cassis', \"dos d'ane\")"
+            }
+        ],
+        "moto": [
+            {
+                "code": "nei tc",
+                "label": ".nei tc\n('scooter', 'moto', 'trotinette', 'skateboard')\nvehicule rapide et peu \nencombrant, souvent motorise "
+            },
+            {
+                "code": "scuo tc",
+                "label": ".scuo tc\n('vehicule individuel', 'voiture', 'moto')"
+            }
+        ],
+        "jour": [
+            {
+                "code": "djee min",
+                "label": ".djee min\n('jour', 'journee')"
+            },
+            {
+                "code": "netku min",
+                "label": ".netku min\n('journee', 'jour', 'beau temps')\nensoleillement, periode de la \njournee "
+            },
+            {
+                "code": "thi njb",
+                "label": ".thi njb\n('soleil', 'jour', 'journee')"
+            },
+            {
+                "code": "thi min",
+                "label": ".thi min\n('jour', 'journee')"
+            }
+        ],
+        "journee": [
+            {
+                "code": "djee min",
+                "label": ".djee min\n('jour', 'journee')"
+            },
+            {
+                "code": "netku min",
+                "label": ".netku min\n('journee', 'jour', 'beau temps')\nensoleillement, periode de la \njournee "
+            },
+            {
+                "code": "thi njb",
+                "label": ".thi njb\n('soleil', 'jour', 'journee')"
+            },
+            {
+                "code": "thi min",
+                "label": ".thi min\n('jour', 'journee')"
+            }
+        ],
+        "bon": [
+            {
+                "code": "hae ga",
+                "label": ".hae ga\n('bon', 'apetissant', 'bonne bouffe')"
+            },
+            {
+                "code": "hae sbn",
+                "label": ".hae sbn\n('gout', 'bon')"
+            }
+        ],
+        "chanson": [
+            {
+                "code": "hat sai",
+                "label": ".hat sai\n('chanson')"
+            },
+            {
+                "code": "hat so",
+                "label": ".hat so\n('chanson')\nnotion de populaire : \nchanson populaire "
+            },
+            {
+                "code": "aisi so",
+                "label": ".aisi so\n('chanson', 'musique')\ninsiste sur l'aspect \"semantique\" \ndu morceau, il est \nporteur de sens "
+            },
+            {
+                "code": "aisi sai",
+                "label": ".aisi sai\n('musique', 'chanson')"
+            },
+            {
+                "code": "kwah sai",
+                "label": ".kwah sai\n('musique', 'chanson', 'concert')"
+            }
+        ],
+        "chanteur": [
+            {
+                "code": "hat na",
+                "label": ".hat na\n('chanteur')"
+            },
+            {
+                "code": "ejwe_ na",
+                "label": ".ejwe_ na\n('chanteur')"
+            },
+            {
+                "code": "juck na",
+                "label": ".juck na\n('chanteur')\nconnotation de chanteur debutant \nou chanteur connu qui \navoue publiquement avoir le \ntrac "
+            }
+        ],
+        "ami": [
+            {
+                "code": "sja na",
+                "label": ".sja na\n('ami')"
+            },
+            {
+                "code": "qjao na",
+                "label": ".qjao na\n('ami')\navec connotation : ami \navec qui on a \neu des conversations profondes, \nbon amis "
+            },
+            {
+                "code": "hc na",
+                "label": ".hc na\n('ami', 'invite', 'donateur')\nvouloir faire plaisir "
+            }
+        ],
+        "couleur": [
+            {
+                "code": "lam tek",
+                "label": ".lam tek\n('mot couleur', 'couleur')"
+            },
+            {
+                "code": "lam ki",
+                "label": ".lam ki\n('couleur')\ncouleur, sensation \"visuelle\" :: \ncaracteristique d'un objet "
+            },
+            {
+                "code": "lam ki",
+                "label": ".lam ki\n('couleur')\ncouleur, sensation \"visuelle\" :: \ncaracteristique d'un objet "
+            }
+        ],
+        "douche": [
+            {
+                "code": "eli si",
+                "label": ".eli si\n('douche', 'tobogan', 'parc aquatique')"
+            },
+            {
+                "code": "tsaa si",
+                "label": ".tsaa si\n('douche')"
+            }
+        ],
+        "yeux": [
+            {
+                "code": "ki f jus",
+                "label": ".ki f jus\n('yeux', 'oeil')"
+            },
+            {
+                "code": "the jus",
+                "label": ".the jus\n('yeux', 'radar', 'scanner')"
+            }
+        ],
+        "peuple": [
+            {
+                "code": "cine na",
+                "label": ".cine na\n('peuple')"
+            },
+            {
+                "code": "fae na",
+                "label": ".fae na\n('groupe', 'societe', 'peuple')"
+            }
+        ],
+        "histoire": [
+            {
+                "code": "cine so",
+                "label": ".cine so\n('histoire')\nhistoire des nuksena "
+            },
+            {
+                "code": "e_sju so",
+                "label": ".e_sju so\n('conte', 'recit', 'histoire')\nhistoire traditionnelle, conte "
+            }
+        ],
+        "contestation": [
+            {
+                "code": "hewa so",
+                "label": ".hewa so\n('contestation')\nargumentation -- contestation d'un \nstatement "
+            },
+            {
+                "code": "hykti min",
+                "label": ".hykti min\n('contestation', 'debat', 'desaccord')"
+            }
+        ],
+        "maison": [
+            {
+                "code": "jubn teo",
+                "label": ".jubn teo\n('logement', 'maison', 'appartement', \n'chez soi')"
+            },
+            {
+                "code": "juebn teo",
+                "label": ".juebn teo\n('maison', 'appartement', 'maison \nde son enfance')"
+            }
+        ],
+        "appartement": [
+            {
+                "code": "jubn teo",
+                "label": ".jubn teo\n('logement', 'maison', 'appartement', \n'chez soi')"
+            },
+            {
+                "code": "juebn teo",
+                "label": ".juebn teo\n('maison', 'appartement', 'maison \nde son enfance')"
+            }
+        ],
+        "groupe": [
+            {
+                "code": "nise lam",
+                "label": ".nise lam\n(\"travail d'equipe\", 'cooperation', 'groupe')\nse sentir dans un \ngroupe de travail qui \navance efficacement, se sentir \ncoordonne avec les autres "
+            },
+            {
+                "code": "nise na",
+                "label": ".nise na\n('equipier', 'vendeur', 'equipe', 'groupe')"
+            },
+            {
+                "code": "nise ko",
+                "label": ".nise ko\n('equipe', 'groupe')\nl'equipe consideree comme partie \nd'un systeme d'equipes (entreprise, \nusine, sport...) "
+            },
+            {
+                "code": "fae na",
+                "label": ".fae na\n('groupe', 'societe', 'peuple')"
+            }
+        ],
+        "equipe": [
+            {
+                "code": "nise na",
+                "label": ".nise na\n('equipier', 'vendeur', 'equipe', 'groupe')"
+            },
+            {
+                "code": "nise ko",
+                "label": ".nise ko\n('equipe', 'groupe')\nl'equipe consideree comme partie \nd'un systeme d'equipes (entreprise, \nusine, sport...) "
+            }
+        ],
+        "musique": [
+            {
+                "code": "aisi so",
+                "label": ".aisi so\n('chanson', 'musique')\ninsiste sur l'aspect \"semantique\" \ndu morceau, il est \nporteur de sens "
+            },
+            {
+                "code": "aisi sai",
+                "label": ".aisi sai\n('musique', 'chanson')"
+            },
+            {
+                "code": "kwah sai",
+                "label": ".kwah sai\n('musique', 'chanson', 'concert')"
+            }
+        ],
+        "concert": [
+            {
+                "code": "kwah sai",
+                "label": ".kwah sai\n('musique', 'chanson', 'concert')"
+            },
+            {
+                "code": "hat qubn",
+                "label": ".hat qubn\n('concert', 'spectacle')\nconcert a ciel ouvert, \nsalle de concert semi \ncouverte "
+            }
+        ],
+        "soiree": [
+            {
+                "code": "kwah teo",
+                "label": ".kwah teo\n('salle de concert \nactive', 'boite de \nnuit', 'soiree')"
+            },
+            {
+                "code": "kwah qubn",
+                "label": ".kwah qubn\n('soiree', 'soiree a \nciel ouvert')\nsoirees parking, fetes en \nexterieur "
+            }
+        ],
+        "part de gateau": [
+            {
+                "code": "yfan ga tjo",
+                "label": ".yfan ga tjo\n('part de gateau')"
+            },
+            {
+                "code": "yfan tjo",
+                "label": ".yfan tjo\n('part de gateau')"
+            }
+        ],
+        "reussir": [
+            {
+                "code": "gen lam",
+                "label": ".gen lam\n('satisfait du parametrage', \n'reussir', 'satisfait')\nsatisfait du resultat d'un \nprocessus d'equilibrage qui implique \ndes parametres instables a \nstabiliser. "
+            },
+            {
+                "code": "tscu min",
+                "label": ".tscu min\n('reussir', 'reussit', 'plutot reussir')"
+            }
+        ],
+        "satisfait": [
+            {
+                "code": "gen lam",
+                "label": ".gen lam\n('satisfait du parametrage', \n'reussir', 'satisfait')\nsatisfait du resultat d'un \nprocessus d'equilibrage qui implique \ndes parametres instables a \nstabiliser. "
+            },
+            {
+                "code": "hei lam",
+                "label": ".hei lam\n('satisfait', 'reussit', 'fonctionne')\nsatisfait du resultat, sans \nsurprise "
+            },
+            {
+                "code": "tscu lam",
+                "label": ".tscu lam\n('satisfait', 'soulage', 'reussite')\nsatisfait du resultat, on \ns'attendait a pire, soulagement "
+            }
+        ],
+        "chaise": [
+            {
+                "code": "hae tei",
+                "label": ".hae tei\n('table', 'chaise')"
+            },
+            {
+                "code": "nukse tei",
+                "label": ".nukse tei\n('chaise', 'chaise longue', 'transat')"
+            }
+        ],
+        "doux": [
+            {
+                "code": "fsah sbn",
+                "label": ".fsah sbn\n('doux')"
+            },
+            {
+                "code": "nea hu sbn",
+                "label": ".nea hu sbn\n('doux')"
+            }
+        ],
+        "laine": [
+            {
+                "code": "fsah fin",
+                "label": ".fsah fin\n('poils', 'laine', 'tissu')"
+            },
+            {
+                "code": "nea fin",
+                "label": ".nea fin\n('laine')"
+            }
+        ],
+        "nuit": [
+            {
+                "code": "nea min",
+                "label": ".nea min\n('dormir', 'nuit')"
+            },
+            {
+                "code": "fuh min",
+                "label": ".fuh min\n('nuit')"
+            }
+        ],
+        "fatigue": [
+            {
+                "code": "nea sbn",
+                "label": ".nea sbn\n('fatigue')"
+            },
+            {
+                "code": "nea sem",
+                "label": ".nea sem\n('fatigue', 'aller dormir')"
+            },
+            {
+                "code": "keun sbn",
+                "label": ".keun sbn\n('courbatures', 'fatigue', 'epuisement', 'eprouve')\nlie a l'activite physique, \nau sport "
+            }
+        ],
+        "sceau": [
+            {
+                "code": "eli ko",
+                "label": ".eli ko\n(\"bouteille d'eau\", 'sceau', 'verre')"
+            },
+            {
+                "code": "eli ko jus",
+                "label": ".eli ko jus\n('sceau')"
+            }
+        ],
+        "reussit": [
+            {
+                "code": "tscu min",
+                "label": ".tscu min\n('reussir', 'reussit', 'plutot reussir')"
+            },
+            {
+                "code": "hei lam",
+                "label": ".hei lam\n('satisfait', 'reussit', 'fonctionne')\nsatisfait du resultat, sans \nsurprise "
+            }
+        ],
+        "societe": [
+            {
+                "code": "gebq na",
+                "label": ".gebq na\n('entreprise', 'societe', 'compagnie')"
+            },
+            {
+                "code": "fae na",
+                "label": ".fae na\n('groupe', 'societe', 'peuple')"
+            }
+        ],
+        "lieu de travail": [
+            {
+                "code": "gebq teo",
+                "label": ".gebq teo\n('usine', 'lieu de travail')"
+            },
+            {
+                "code": "wue teo",
+                "label": ".wue teo\n('lieu de travail', 'atelier')\nen general pour des \nartisans, ouvriers, et artistes "
+            }
+        ],
+        "vent marin": [
+            {
+                "code": "tas sbn",
+                "label": ".tas sbn\n('vent marin', 'vent')"
+            },
+            {
+                "code": "tas sai",
+                "label": ".tas sai\n('vagues', 'cri des \nmouettes', 'vent marin')\nbruit de la mer, \ndes vagues, des mouettes "
+            }
+        ],
+        "soulagement": [
+            {
+                "code": "jea lam",
+                "label": ".jea lam\n('soulagement')\nune tache difficile qui \na l'air insurmontable mais \navec de l'aide elle \nn'a plus l'air si \ndifficile "
+            },
+            {
+                "code": "netei lam",
+                "label": ".netei lam\n('content', 'soulagement', 'heureux')\nenfin! ouf! ouais! "
+            }
+        ],
+        "aider": [
+            {
+                "code": "jea min",
+                "label": ".jea min\n('aider', 'assistance')\nporter assistance, aider quelqu'un \na une tache "
+            },
+            {
+                "code": "hc lam",
+                "label": ".hc lam\n('vouloir faire plaisir', \n'faire plaisir', 'aider')\nvouloir faire plaisir "
+            }
+        ],
+        "demander de l'aide": [
+            {
+                "code": "jea sai",
+                "label": ".jea sai\n(\"demander de l'aide\")"
+            },
+            {
+                "code": "jea f so",
+                "label": ".jea f so\n(\"demander de l'aide\")"
+            }
+        ],
+        "peur": [
+            {
+                "code": "fuh lam",
+                "label": ".fuh lam\n('angoisse', 'peur', 'paranoia')\nangoisse liee a l'obscurite, \nlegere paranoia a l'idee \nde se faire attaquer "
+            },
+            {
+                "code": "suo lam",
+                "label": ".suo lam\n('peur', 'inquietude', 'regret', 'mefiance')\nesperer que quelque chose \nne se produise pas, \ns'inquieter, evenement negatif attendu, \non espere que ca \nne se produise pas "
+            }
+        ],
+        "recherche": [
+            {
+                "code": "des min",
+                "label": ".des min\n('recherche')"
+            },
+            {
+                "code": "dahe min",
+                "label": ".dahe min\n('recherche', 'panique')"
+            },
+            {
+                "code": "daei min",
+                "label": ".daei min\n('recherche')"
+            },
+            {
+                "code": "twac min",
+                "label": ".twac min\n('recherche')"
+            }
+        ],
+        "panique": [
+            {
+                "code": "dahe min",
+                "label": ".dahe min\n('recherche', 'panique')"
+            },
+            {
+                "code": "dahe lam",
+                "label": ".dahe lam\n('panique', 'stress')\nperdu quelque chose, recherche \npaniquee pour le retrouver, \nvouloir le retrouver a \ntout prix "
+            }
+        ],
+        "parents": [
+            {
+                "code": "juebn na",
+                "label": ".juebn na\n('parents', 'papa', 'maman')\nApres avoir quitte la \nmaison "
+            },
+            {
+                "code": "jubn na",
+                "label": ".jubn na\n('parents', 'freres', 'soeurs', 'colocataires')\npersonnes avec lesquelles on \nvit, parents si on \nvit avec eux, conjoints, \nfreres soeurs, invites permanents, \ncolocataires longue duree... "
+            }
+        ],
+        "propre": [
+            {
+                "code": "tsaa lam",
+                "label": ".tsaa lam\n('propre', 'se laver')\nse sentir propre, uniquement \npour un humain "
+            },
+            {
+                "code": "gwo",
+                "label": ".gwo\n('propre', 'vierge')\nsurface propre,on peut avoir \ncontact avec sans salete "
+            }
+        ],
+        "rangement": [
+            {
+                "code": "phu kju",
+                "label": ".phu kju\n('oraganisation', 'rangement')\nmaniere de ranger, procedure \nde rangement "
+            },
+            {
+                "code": "phu min",
+                "label": ".phu min\n('rangement', 'nettoyage')"
+            }
+        ],
+        "nettoyage": [
+            {
+                "code": "phu min",
+                "label": ".phu min\n('rangement', 'nettoyage')"
+            },
+            {
+                "code": "gwo min",
+                "label": ".gwo min\n('nettoyage')"
+            }
+        ],
+        "travailleur": [
+            {
+                "code": "qauh na",
+                "label": ".qauh na\n('travailleur')"
+            },
+            {
+                "code": "kscbh na",
+                "label": ".kscbh na\n('travailleur', 'etudiant')\nconcentre dans sa tache "
+            }
+        ],
+        "desaccord": [
+            {
+                "code": "hykti min",
+                "label": ".hykti min\n('contestation', 'debat', 'desaccord')"
+            },
+            {
+                "code": "hykti myo",
+                "label": ".hykti myo\n('desaccord')"
+            }
+        ],
+        "s'habituer": [
+            {
+                "code": "tjbo lam",
+                "label": ".tjbo lam\n(\"s'habituer\", \"s'accoutumer\", 'se \nsentir bizarre')"
+            },
+            {
+                "code": "tjbo sbn",
+                "label": ".tjbo sbn\n(\"s'habituer\", \"s'accoutumer\", 'habituation')\ns'habituer a une sensation,s'habituer "
+            }
+        ],
+        "s'accoutumer": [
+            {
+                "code": "tjbo lam",
+                "label": ".tjbo lam\n(\"s'habituer\", \"s'accoutumer\", 'se \nsentir bizarre')"
+            },
+            {
+                "code": "tjbo sbn",
+                "label": ".tjbo sbn\n(\"s'habituer\", \"s'accoutumer\", 'habituation')\ns'habituer a une sensation,s'habituer "
+            }
+        ],
+        "habituation": [
+            {
+                "code": "tjbo sbn",
+                "label": ".tjbo sbn\n(\"s'habituer\", \"s'accoutumer\", 'habituation')\ns'habituer a une sensation,s'habituer "
+            },
+            {
+                "code": "sede min",
+                "label": ".sede min\n('habituation')"
+            }
+        ],
+        "courbatures": [
+            {
+                "code": "sbwab sbn",
+                "label": ".sbwab sbn\n('courbatures', 'douleurs', 'affliction', 'maladie')"
+            },
+            {
+                "code": "keun sbn",
+                "label": ".keun sbn\n('courbatures', 'fatigue', 'epuisement', 'eprouve')\nlie a l'activite physique, \nau sport "
+            }
+        ],
+        "impressionne": [
+            {
+                "code": "leih lam",
+                "label": ".leih lam\n('impressionne')\netre impressionne par les \nrealisations de quelqu'un "
+            },
+            {
+                "code": "asien lam",
+                "label": ".asien lam\n('intrigue', 'impressionne')\nrealisation d'une personne impressionnante, \nimpressionne par la realisation \net par la personne "
+            }
+        ],
+        "comprendre": [
+            {
+                "code": "fwi lam",
+                "label": ".fwi lam\n('comprendre', 'comprehension')\ncomprendre un sentiment "
+            },
+            {
+                "code": "fwi min",
+                "label": ".fwi min\n('comprendre', 'comprehension')\ncomprendre un sentiment "
+            }
+        ],
+        "comprehension": [
+            {
+                "code": "fwi lam",
+                "label": ".fwi lam\n('comprendre', 'comprehension')\ncomprendre un sentiment "
+            },
+            {
+                "code": "fwi min",
+                "label": ".fwi min\n('comprendre', 'comprehension')\ncomprendre un sentiment "
+            }
+        ],
+        "radar": [
+            {
+                "code": "the jus",
+                "label": ".the jus\n('yeux', 'radar', 'scanner')"
+            },
+            {
+                "code": "the si",
+                "label": ".the si\n('scanner', 'radar', 'intelligence \nartificielle', 'analyse')"
+            }
+        ],
+        "scanner": [
+            {
+                "code": "the jus",
+                "label": ".the jus\n('yeux', 'radar', 'scanner')"
+            },
+            {
+                "code": "the si",
+                "label": ".the si\n('scanner', 'radar', 'intelligence \nartificielle', 'analyse')"
+            }
+        ]
+    }
+}

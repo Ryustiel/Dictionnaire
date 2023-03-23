@@ -1,7 +1,7 @@
 import json
 import webbrowser
 import os
-from grapher import get_graph
+from grapher_fiches import get_graph
 # from grapher_plot import get_graph as get_graph_plot
 from flask import Flask, render_template, request, redirect
 
