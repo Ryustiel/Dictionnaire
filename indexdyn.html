@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SocketIO Example</title>
+    <script src="//code.jquery.com/jquery-1.11.1.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"></script>
+    <script type="text/javascript" charset="utf-8">
+        $(document).ready(function() {
+            var socket = io.connect('http://localhost:5000');
+            $('form#submit-form').submit(function(event) {
+                socket.emit('submit', {message: $('input[name=message]').val()});
+                return false;
+            });
+            socket.on('response', function(data) {
+                $('#response').append('<p>' + data.data + '</p>');
+            });
+        });
+    </script>
+</head>
+<body>
+    <form id="submit-form">
+        <input type="text" name="message">
+        <input type="submit" value="Submit">
+    </form>
+    <div id="response"></div>
+</body>
+</html>
